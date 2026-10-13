@@ -1,0 +1,1186 @@
+{
+  "mohae-goyang-e6da1b391beb5c1c": {
+    "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+    "venue_names": [
+      "일산호수공원 주제광장"
+    ],
+    "place_ids": [
+      "place-8473926541ae"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-03a9f44070a621cb": {
+    "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+    "venue_names": [
+      "라페스타 문화의 거리"
+    ],
+    "place_ids": [
+      "place-2e6ae2f12843"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-9a1065174eb5415a": {
+    "source_version": "sha256:96eb5f3f8d9cde334bd2afece224cac23850008563a5d48c26d81d5cda52a338",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-18a6121854d03004": {
+    "source_version": "sha256:049b2ea46a667b27825a1d822941a098d7219f6b4e144c021ddbf8be89303bae",
+    "venue_names": [
+      "킨텍스"
+    ],
+    "place_ids": [
+      "place-d9cf4e7b0372"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-25f15ce12b08b4ff": {
+    "source_version": "sha256:fb2c3cfd64085054f0a6338efe90986fbc64385d1888335ce5f7edc0b677dc93",
+    "venue_names": [
+      "킨텍스"
+    ],
+    "place_ids": [
+      "place-d9cf4e7b0372"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-e8ab44efdfdec122": {
+    "source_version": "sha256:979de616e1d84bbf5b61ecb1eae0d699d4cb974b967e09e539340f56aee772a3",
+    "venue_names": [
+      "고양종합운동장"
+    ],
+    "place_ids": [
+      "place-9f366963cabb"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-9b00ac974e446dee": {
+    "source_version": "sha256:29ce25c47fa6035383858b71a5031f55b4c34115ffd9fa8331acd32a3e6b3df5",
+    "venue_names": [
+      "고양관광정보센터 출발·장항습지"
+    ],
+    "place_ids": [
+      "place-0046dfefa6f0"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-943e94b2c7fa0813": {
+    "source_version": "sha256:bf7bcae37c80df2293ef75cb01f14c3ba638cab4e72c14044580f3a7f815eb60",
+    "venue_names": [
+      "백마 화사랑"
+    ],
+    "place_ids": [
+      "place-79a853a17950"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-17721f6917df7a94": {
+    "source_version": "sha256:d4fcbb0eb3ba0ef1c917a99cabda73deec0154b45d186f3c7a16d51a5216f3af",
+    "venue_names": [
+      "고양시 예술창작공간 해움·새들"
+    ],
+    "place_ids": [
+      "place-359257cc5332",
+      "place-c8ea428fa5dc"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-e96398033f9f7aa6": {
+    "source_version": "sha256:b27fa9a2ad55f49d52f26586c115ec8d2cf1034cd2f49aad1fc088f329e5ed6a",
+    "venue_names": [
+      "송포청소년문화의집 2층 메이커존"
+    ],
+    "place_ids": [
+      "place-15b90a8803a4"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-8c9c2baf89a04450": {
+    "source_version": "sha256:95334fbb0593267f84ddd1e813f46a4e422f5c1d3ae6ca3e538df9be5e99acee",
+    "venue_names": [
+      "마두도서관 지하 1층 강의실"
+    ],
+    "place_ids": [
+      "place-619f3604c1bb"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-4e8207772a773223": {
+    "source_version": "sha256:2724c3a286e5abf6036e76a6bb088285c920ecfefb9b2a7b77ba0e588ecfbf86",
+    "venue_names": [
+      "마두도서관 지하 1층 강의실"
+    ],
+    "place_ids": [
+      "place-619f3604c1bb"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-a21fb2890b8fd220": {
+    "source_version": "sha256:b626d7060e9742bf5af5b8026bf81c5bb7203507be88025bb18151a03959d641",
+    "venue_names": [
+      "마두도서관 B1 강의실"
+    ],
+    "place_ids": [
+      "place-619f3604c1bb"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-b088f431b2245d0e": {
+    "source_version": "sha256:56324c15b1bad9ba85ea48e7bc0231d9eccac2e6a9e796c9c571090edada380c",
+    "venue_names": [
+      "마두도서관 지하 1층 강의실"
+    ],
+    "place_ids": [
+      "place-619f3604c1bb"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-f7b1015217613b09": {
+    "source_version": "sha256:2470f40804a4f6d76fd8a1c03d01a743d9065289b6dc2a4fbfc893d85ffb19be",
+    "venue_names": [
+      "마두도서관·가와지볍씨박물관"
+    ],
+    "place_ids": [
+      "place-619f3604c1bb",
+      "place-06604e53d8a2"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-d1c11ec8a9b97e63": {
+    "source_version": "sha256:3b951b0a102fc18b3a5b2df27c380a899c6cee610416408f059011498831ea1d",
+    "venue_names": [
+      "마두도서관·호수공원"
+    ],
+    "place_ids": [
+      "place-619f3604c1bb",
+      "place-8473926541ae"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-b00a67fa8046b43a": {
+    "source_version": "sha256:c39bd1f22a1dcfa764d3433a0a8233ccd18209292fb382a3f41baaff7518a9b5",
+    "venue_names": [
+      "가좌도서관 4층 교양교실"
+    ],
+    "place_ids": [
+      "place-ab12456cfaf0"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-73dba1ce785c874c": {
+    "source_version": "sha256:69381d0a83c89a66a6455996ac4c2a8d4aa58cb3e9a7c26d3182db4eaa03edf0",
+    "venue_names": [
+      "대화도서관 2층 서로배움터"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-fd4f8348de33cb65": {
+    "source_version": "sha256:39def97107a9464146c0e7e9cee35a02610522fd4bbe0844735a66b87885de66",
+    "venue_names": [
+      "대화도서관 어린이자료실 유아방"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-59416543c0f33694": {
+    "source_version": "sha256:86cd2b6b8cbe3e2036251eda1a10b364e7f8f5c7fb8196d1422684aae7acf4fc",
+    "venue_names": [
+      "대화도서관 2층 서로배움터"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-595e3b56cf96bbbb": {
+    "source_version": "sha256:5e0ed65da71d10766024f573bca707358c1caaaeb1df0a421d62218393910c36",
+    "venue_names": [
+      "덕이도서관 1층 교양교실"
+    ],
+    "place_ids": [
+      "place-82a0b3df2fc5"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-a5f8d9702f3ff98f": {
+    "source_version": "sha256:a3725ebc689d7706509fa08febb1022e66d490d069186895b253199b4db0e534",
+    "venue_names": [
+      "덕이도서관 3층 시청각실"
+    ],
+    "place_ids": [
+      "place-82a0b3df2fc5"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-c79bd17310a29ddb": {
+    "source_version": "sha256:f8c00236069b4ac2d60e107e7d3bf6b545b250b39c823fabb3f865c002c05086",
+    "venue_names": [
+      "식사도서관 2층 문화강좌실"
+    ],
+    "place_ids": [
+      "place-5d957b58fa6e"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-a5a6054619e588f3": {
+    "source_version": "sha256:8ee083793e00463f8c382e40f848ac36f9d58589dcca86ae8f4d883f80c762c4",
+    "venue_names": [
+      "식사도서관 1층 어린이자료실"
+    ],
+    "place_ids": [
+      "place-5d957b58fa6e"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-8c556e2abfbde4b6": {
+    "source_version": "sha256:3eb07ba65196042ad3eeb781ba389ff5c680a50d1519ebf4cc6059319acf0ffe",
+    "venue_names": [
+      "아람누리도서관 3층 아람마루"
+    ],
+    "place_ids": [
+      "place-94f95ebe525a"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-6ff47369d4bf8d81": {
+    "source_version": "sha256:03ce0568ab57f61e7637c200ca9729796d45d44c495b582c0e3f1135a530374c",
+    "venue_names": [
+      "아람누리도서관 3층 누리실"
+    ],
+    "place_ids": [
+      "place-94f95ebe525a"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-a130d8d517b79f9a": {
+    "source_version": "sha256:3d5705f296695c1b5e42be2ae5ac49de09b0785a657089fb3f93b570c84e3342",
+    "venue_names": [
+      "풍동도서관·고양생태공원"
+    ],
+    "place_ids": [
+      "place-9b2107b8c2b0",
+      "place-cf2333ad17f8"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-cb3fdda3758ac68a": {
+    "source_version": "sha256:1028e52958e02ca765e1f2b5ae843ee2e4a699c1a1c708d2589735dd3f0ca3dd",
+    "venue_names": [
+      "풍동도서관 A동 지하1층 교양교실"
+    ],
+    "place_ids": [
+      "place-9b2107b8c2b0"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-1c653314c424140e": {
+    "source_version": "sha256:bb93bebecad27b7c98f3ccb28390c9e311706927a0ce0c7a1cd269e25ee98657",
+    "venue_names": [
+      "한뫼도서관 1층 어린이자료실"
+    ],
+    "place_ids": [
+      "place-5db1414c5ce3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-85892a5669de7b62": {
+    "source_version": "sha256:ef03eb66265dae6facd7eb223b5e9c53a09c43b69c3971a3f030b5abeac99eca",
+    "venue_names": [
+      "한뫼도서관 2층 교양교실"
+    ],
+    "place_ids": [
+      "place-5db1414c5ce3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-a68928f5d9e275ca": {
+    "source_version": "sha256:12f7abb15a36ecb8ff7dd4ffd7001c5b52284aad138d9fa01d4128fac1de4d3d",
+    "venue_names": [
+      "주엽어린이도서관 1층 이야기방"
+    ],
+    "place_ids": [
+      "place-94f7fe167e1b"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-96ee2947d6a95b0b": {
+    "source_version": "sha256:7be8faabe5536ad164a32fff10051b87e2f62cfd60438beab81387b067096c96",
+    "venue_names": [
+      "주엽어린이도서관·가와지볍씨박물관"
+    ],
+    "place_ids": [
+      "place-94f7fe167e1b",
+      "place-06604e53d8a2"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-6ebe008730d796d9": {
+    "source_version": "sha256:1f82b04d91848cb60037ea221c5fc3c763c859f90ecd9a58dfe9e6baa9229417",
+    "venue_names": [
+      "주엽어린이도서관"
+    ],
+    "place_ids": [
+      "place-94f7fe167e1b"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-7fc1dd01588bf4d0": {
+    "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+    "venue_names": [
+      "고양 행주산성 일원"
+    ],
+    "place_ids": [
+      "place-f6c6c05f17d8"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-336c91d688bd512b": {
+    "source_version": "sha256:348a53721675143f305837e04fbbc78f90a33bce916bd086d8adc652fd94b8b1",
+    "venue_names": [
+      "서오릉 순창원 인근 입구"
+    ],
+    "place_ids": [
+      "place-4dabf52eec82"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-27b994c28aa78a01": {
+    "source_version": "sha256:1626ea3481d91860be40c253ccda5c6a9cc73affdab393d21d9c681960cecc3b",
+    "venue_names": [
+      "화정도서관 지하1층 꽃뜰"
+    ],
+    "place_ids": [
+      "place-e94f4e438ad8"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-ddee156d9fd5f2c1": {
+    "source_version": "sha256:423f08c72c12cf00eb01f95a0111ad00fd3b9fada5aa876f52ed92c372d9a7fe",
+    "venue_names": [
+      "화정도서관 2층 나눔터1"
+    ],
+    "place_ids": [
+      "place-e94f4e438ad8"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-f42d4efa43063738": {
+    "source_version": "sha256:8e71c86612f9c04c6bd4b85aa7d234ffaf8724cd0c2783d322ba2bd65585ce83",
+    "venue_names": [
+      "높빛도서관 1층 동아리방"
+    ],
+    "place_ids": [
+      "place-5d7e48cc9128"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-5f0e19c487152a56": {
+    "source_version": "sha256:fa8f101f67eda25e472efa38dea9d0ff828013a8c2cf146740fb0de67fed6c76",
+    "venue_names": [
+      "높빛도서관 2층 나눔터·가와지볍씨박물관"
+    ],
+    "place_ids": [
+      "place-5d7e48cc9128",
+      "place-06604e53d8a2"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-cb806a94af486608": {
+    "source_version": "sha256:116749f1a39c8e99db7f177f063fb3209c05c6674d82d4f3e5921385a561cda9",
+    "venue_names": [
+      "삼송도서관 3층 교양교실"
+    ],
+    "place_ids": [
+      "place-a605bbcac8ba"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-0af88a3e3e00cc2f": {
+    "source_version": "sha256:833cb4ba98254dccf3f6949e67024f8bba298e65a0b2007a76f72863e6aa422d",
+    "venue_names": [
+      "삼송도서관·가와지볍씨박물관"
+    ],
+    "place_ids": [
+      "place-a605bbcac8ba",
+      "place-06604e53d8a2"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-4c67d3ec7c5c4047": {
+    "source_version": "sha256:14fd0e22b966e6e13e918e247b97d0740dd9c23daf82f3f7715d858ad27f9bd3",
+    "venue_names": [
+      "화정역 문화광장·화정중앙공원 일대"
+    ],
+    "place_ids": [
+      "place-7c4dd98b02b2"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-6bebbd10d625b144": {
+    "source_version": "sha256:17619480e58f2bcc3687d1ba6c808c9ad4d713077a5b4485e35ba83a6a686c62",
+    "venue_names": [
+      "행신어린이도서관 2층 동아리방"
+    ],
+    "place_ids": [
+      "place-7d159926d54a"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-926e19d041a838e7": {
+    "source_version": "sha256:5ac25a31c594cbd399ee857fc09219388cc74f02ddb87db9cd1d2f5bcad08c46",
+    "venue_names": [
+      "화정어린이도서관 2층 동아리방"
+    ],
+    "place_ids": [
+      "place-d8b0b5c701b9"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-f2e18bd4e7766a61": {
+    "source_version": "sha256:96aa3196ecdc0c66531e55ebd706f3306220f7735a79f2f8a494e287ae440597",
+    "venue_names": [
+      "화정어린이도서관 1층 아기도서관"
+    ],
+    "place_ids": [
+      "place-d8b0b5c701b9"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-682092d97e35ec76": {
+    "source_version": "sha256:80712e3eca4233ca7381ff0e5655500359b991b375c5c71609b2dd0acd84ef8e",
+    "venue_names": [
+      "고양어울림누리 어울림극장"
+    ],
+    "place_ids": [
+      "place-4c438c28577f"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-24930104d11c381f": {
+    "source_version": "sha256:2fa1f87b0679b5b4b7c12fe4c92a1ae98119208c4b5ffa83c69e6ea31c80df06",
+    "venue_names": [
+      "고양어울림누리 별모래극장"
+    ],
+    "place_ids": [
+      "place-4c438c28577f"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-cbc7554d448ed51f": {
+    "source_version": "sha256:95fe7a3d1a4689040af11d3946084ee1ef13c4619720794b6799a2e47101ca04",
+    "venue_names": [
+      "고양어울림누리 별모래극장"
+    ],
+    "place_ids": [
+      "place-4c438c28577f"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-5e2e95288f17b736": {
+    "source_version": "sha256:25cdeb8234e4d3e86e2e87d850ec8c0c445c6591c98d383ef329535569103f76",
+    "venue_names": [
+      "고양어울림누리 어울림극장"
+    ],
+    "place_ids": [
+      "place-4c438c28577f"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-1c0edd031d1c37b9": {
+    "source_version": "sha256:c9ef8268bc67dd9f39b0e18f1435cc374d487eae26c6e3ffa3090e5a55465732",
+    "venue_names": [
+      "고양어울림누리 별모래극장"
+    ],
+    "place_ids": [
+      "place-4c438c28577f"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-8d6f2609db559076": {
+    "source_version": "sha256:67ebc0eb7991dca3287e85483e14afb0f16a26c7493aaaecacdae3c527fbaac0",
+    "venue_names": [
+      "고양어울림누리 별모래극장"
+    ],
+    "place_ids": [
+      "place-4c438c28577f"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-cc14b70d7616430e": {
+    "source_version": "sha256:71c5aa285138f6b60978ba37ce875319e4ca631a34612c1ff99af9aecb0087be",
+    "venue_names": [
+      "고양어울림누리 어울림미술관"
+    ],
+    "place_ids": [
+      "place-4c438c28577f"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-11244459d288c6f3": {
+    "source_version": "sha256:880df219a6a32c0c0aa961680d59ac260a6f40edc89d01ae8e53201664934529",
+    "venue_names": [
+      "신원도서관 3층 교양교실"
+    ],
+    "place_ids": [
+      "place-4becbf0a001e"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-d0a8c0c479f3051d": {
+    "source_version": "sha256:e9654a3c90f7bc045371fddc8a180de20848e3e83f6641acb5730168ae741308",
+    "venue_names": [
+      "신원도서관 3층 교양교실"
+    ],
+    "place_ids": [
+      "place-4becbf0a001e"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-be16d900b7c3c113": {
+    "source_version": "sha256:049c5392f2bda60f375102d09bec5ccb618e44d8eb65e23a51e9eba6a1d36873",
+    "venue_names": [
+      "신원중학교 1층 시청각실"
+    ],
+    "place_ids": [
+      "place-e488257cab11"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-826a8820f5233d3c": {
+    "source_version": "sha256:9a6f10a5c5c4fd79866e6af32b4ac6056473d43e52787200c4ac4c0c9e81643e",
+    "venue_names": [
+      "스타필드 고양 1층 동측 야외광장"
+    ],
+    "place_ids": [
+      "place-3e264d5fcd0a"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-91418530770bfbff": {
+    "source_version": "sha256:a312606a586477e3b3e061a45ac6a8f25fffc18b77f2a708c9ad3877d076b961",
+    "venue_names": [
+      "화정역 문화광장"
+    ],
+    "place_ids": [
+      "place-7c4dd98b02b2"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-c5d1c685f73971ae": {
+    "source_version": "sha256:969c327660f3928822349158b583a575ae1ae6c8c1f4a43c4c3e793bf1cda4b0",
+    "venue_names": [
+      "덕이도서관 1층 교양교실"
+    ],
+    "place_ids": [
+      "place-82a0b3df2fc5"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-389bf05b171a2a6b": {
+    "source_version": "sha256:95f62d239d9a9912e601036cca51a41d0a19c01108287425f2ff4027dcc98592",
+    "venue_names": [
+      "아람누리도서관 3층 누리실"
+    ],
+    "place_ids": [
+      "place-94f95ebe525a"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-5be033bd9ddf5393": {
+    "source_version": "sha256:a7bfd6fcf8470ed2d87b6182acd1e8014e8bfac1f93e75c9cbbf75b244398e0d",
+    "venue_names": [
+      "풍동도서관 B동 2층 어린이자료실"
+    ],
+    "place_ids": [
+      "place-9b2107b8c2b0"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-2a6501ed5a0ac9bc": {
+    "source_version": "sha256:56c262b2639239997ec60cd78cf75cfe1ddd23bb8a02793f84042299f740cda7",
+    "venue_names": [
+      "높빛도서관 2층 나눔터"
+    ],
+    "place_ids": [
+      "place-5d7e48cc9128"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-dfdb77f98f3bb680": {
+    "source_version": "sha256:a01dc531659344976e04f5f689ec7d8810dc8f320ffe2cac8cfa455d85493e52",
+    "venue_names": [
+      "높빛도서관 1층 동아리방"
+    ],
+    "place_ids": [
+      "place-5d7e48cc9128"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-b3837fbb74a205be": {
+    "source_version": "sha256:e017bd4eead1257b98d1b3cb31ce1f26a2d090d969b0456f11412d16c5d3cd76",
+    "venue_names": [
+      "행신어린이도서관 1층 아기도서관"
+    ],
+    "place_ids": [
+      "place-7d159926d54a"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-3b5ed9f2cd49c398": {
+    "source_version": "sha256:df2bcec4d81badddc9311d4b5b7936ebe046bd62f430b6b2283f659dfdf8ca67",
+    "venue_names": [
+      "서오릉"
+    ],
+    "place_ids": [
+      "place-4dabf52eec82"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-e9bbba16f4173140": {
+    "source_version": "sha256:c24dda4bd763f4d4514c8112e8377b7f0fba7e148247b514a8beadf0eb6831a0",
+    "venue_names": [
+      "행신도서관 3층 시청각실"
+    ],
+    "place_ids": [
+      "place-34710c99508e"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-336319edbc0e7a69": {
+    "source_version": "sha256:10966ef9189803c51520d81f76a90633b2d7b305d91dd37fd12c1dd48279f0d3",
+    "venue_names": [
+      "행신도서관 3층 시청각실 및 고양시 농업기술센터"
+    ],
+    "place_ids": [
+      "place-34710c99508e"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-9e3e61d32f90e20f": {
+    "source_version": "sha256:7dd89aaf157faae64d5c29b340089f6f0ddb5d9217e22083d3de6e5b2be5cab6",
+    "venue_names": [
+      "행신도서관 3층 시청각실"
+    ],
+    "place_ids": [
+      "place-34710c99508e"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-541b189b3e2069c9": {
+    "source_version": "sha256:8ea44e4b174669bfd158541e1437de5ed699aeebd307b38b5a8953b476249be6",
+    "venue_names": [
+      "대화도서관 1층 메이커스페이스"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-ae8f94647d82f591": {
+    "source_version": "sha256:0cefa489f2ad2b2b4dbbba616379508b311eda515cf819984df1b989c4a0c9b7",
+    "venue_names": [
+      "대화도서관 1층 메이커스페이스"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-711ca15cbeaeff73": {
+    "source_version": "sha256:7a25f61d14addd802151431d8a7a321452212279b2b7786891665c4ba16cb529",
+    "venue_names": [
+      "대화도서관 1층 메이커스페이스"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-0b8855ee1f1fc500": {
+    "source_version": "sha256:1bed352855ea4455dddef2d7136684302a89a4a674f9ab08dc7da2bb7238df0e",
+    "venue_names": [
+      "대화도서관 1층 메이커스페이스"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-21e0a239957109b3": {
+    "source_version": "sha256:7834140313deac9e4ca5c0041090bbb31e4a9e635246d116c2c3aea654c934e2",
+    "venue_names": [
+      "대화도서관 1층 메이커스페이스"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-ffdf164aa4bfab92": {
+    "source_version": "sha256:b5305be740925804dad36e12e61023d2a7107a7434bc073bd13931471cf1a4d6",
+    "venue_names": [
+      "대화도서관 1층 메이커스페이스"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-c833ee66c8f80b3a": {
+    "source_version": "sha256:067605cec1a96e7fe30c55a71bd306e02232ea4d6a3e14d883cac78475431d1f",
+    "venue_names": [
+      "대화도서관 1층 메이커스페이스"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-a7bf36786a1a45ed": {
+    "source_version": "sha256:9c6ff938c5747fef3af0bf3f024b34ad2ff3c27e6d39a732f305940cd780c2e7",
+    "venue_names": [
+      "대화도서관 4층 메이커스페이스 교육장"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-dd5aa0d73fbd1bc5": {
+    "source_version": "sha256:d6fdab351b00bd88d19c31591463c42ae6776c16a3119d374299ae45723f88a7",
+    "venue_names": [
+      "대화도서관 1층 메이커스페이스"
+    ],
+    "place_ids": [
+      "place-de44ea6f55d3"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-4a796647a68417b8": {
+    "source_version": "sha256:0ef0072c74214b870efa37556d1a06e7fca6d5546d0b317652c113388d6364db",
+    "venue_names": [
+      "고양아람누리 아람극장"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-4e5941b0f66fd871": {
+    "source_version": "sha256:81044d3770951cb788ff5e72ff7d43138cb8a54e7a2e7c6389193d564078c0ba",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-78e41373d42df54a": {
+    "source_version": "sha256:7016aafade89237b9bec83eda391d9b0a2bfac99288c64b722dda3c198ce7cbd",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-1411ba6feadff549": {
+    "source_version": "sha256:0fd0718cc969125009cddf077e772373420fd523d018c7cdd0b62e012ec60e92",
+    "venue_names": [
+      "고양아람누리 아람극장"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-41b1aa4286a379af": {
+    "source_version": "sha256:1254742be7e257371e5c75c4d15f42a4b053e79d8681cfa30a0d9b78496f7539",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-475107bf9c0e5d01": {
+    "source_version": "sha256:23d1ea69c98f8e65da2e61a553adeee366e30e19202e315193c1946cc8217482",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-a8a09e2826b81408": {
+    "source_version": "sha256:23bbfa237188f14f9c1441812d32cbdf458e895183e42e9f1ac3ad07e4080285",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-50900a2a4a643a37": {
+    "source_version": "sha256:fd24bba835b5c756434df63708a47ec59f81f284511f8a64d0e4f9fc0fa03847",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-513d7f4f601514a4": {
+    "source_version": "sha256:ed44392e5160c9e112420bbb88a82317e6ac68526f6cdee9a737e8c5f4676bf2",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-7e38689b3634c650": {
+    "source_version": "sha256:8f45f079530dceba191c30a6457e9fc19d42affc2115267f23626f3a5d12a4ba",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-eaedf055d8037d22": {
+    "source_version": "sha256:6d2d369dc32a7489857590c5bd1c2a8ebdc0996b2d02adcf1442781546a910ac",
+    "venue_names": [
+      "고양아람누리 아람음악당"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-39ab195f806f77d2": {
+    "source_version": "sha256:d8f0d8c802c1711b6912f4465afa9d86859c697e843bc6320c7b05a35cd609c2",
+    "venue_names": [
+      "고양아람누리 아람극장"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-db7868e4bf02e32d": {
+    "source_version": "sha256:5a9455b4487a4954f199971e4427c2e468ed524d253be48102671c03034cc626",
+    "venue_names": [
+      "킨텍스 제2전시장"
+    ],
+    "place_ids": [
+      "place-d9cf4e7b0372"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-4ecbb7bea1ec79cb": {
+    "source_version": "sha256:af0065066a3105003dc752077e67d9b54581caaffa81f7d5cea4fab4fdd2bd86",
+    "venue_names": [
+      "고양시립 아람미술관"
+    ],
+    "place_ids": [
+      "place-9f29da024f99"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-281fd10c8a65a9a3": {
+    "source_version": "sha256:e237221879a3049b7afdfcb6f8a218b45bc5d56f8049001f76608d85be8fdbd7",
+    "venue_names": [
+      "일산호수공원 주제광장"
+    ],
+    "place_ids": [
+      "place-8473926541ae"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-b82bfd08f5488d6a": {
+    "source_version": "sha256:1720fd949dc757bce4ecef85e54c5a7089010932d2eaf11f08cfaf049a8117b8",
+    "venue_names": [
+      "일산호수공원"
+    ],
+    "place_ids": [
+      "place-8473926541ae"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-e3ed25a02e7d4e1c": {
+    "source_version": "sha256:0dbd59a7fd3efe729ba703839280816973825248d8eae1ecc8e33d801db11f03",
+    "venue_names": [
+      "서오릉"
+    ],
+    "place_ids": [
+      "place-4dabf52eec82"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-fb05979a065342b8": {
+    "source_version": "sha256:53815af9574897fa16b22e614b0140884b6962310c28f5921a6a7f10e9c253a2",
+    "venue_names": [
+      "서오릉"
+    ],
+    "place_ids": [
+      "place-4dabf52eec82"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-36a33064f72acc65": {
+    "source_version": "sha256:2c10f4a5eccd8de4807cd0ff522ef95499130983f98bca1f71ae73b5684dd0e1",
+    "venue_names": [
+      "서오릉"
+    ],
+    "place_ids": [
+      "place-4dabf52eec82"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-5a38eec3462b1dea": {
+    "source_version": "sha256:7c604afbf54d06c7660f6e1c27164fe737a0673e28d6389c714a9c278d429149",
+    "venue_names": [
+      "서오릉"
+    ],
+    "place_ids": [
+      "place-4dabf52eec82"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-d8cd4ccc0a25c744": {
+    "source_version": "sha256:3aeb0b69d807ed19a707f0536caf7884ee1824f38730ff73d156f7f06e6da354",
+    "venue_names": [
+      "서오릉 익릉 입구"
+    ],
+    "place_ids": [
+      "place-4dabf52eec82"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-b94a8a6dd5d3e63d": {
+    "source_version": "sha256:f387dfd2ce80719b0aa4ba9ae86994ffd1d0c39fd5f59b4a62e2f9a71904d0ca",
+    "venue_names": [
+      "고양꽃전시관"
+    ],
+    "place_ids": [
+      "place-23392d7984a2"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-b957dc9f49a31d09": {
+    "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+    "venue_names": [
+      "고양꽃전시관"
+    ],
+    "place_ids": [
+      "place-23392d7984a2"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-9f942cae63516551": {
+    "source_version": "sha256:78d0b24f425198176d71c4d94325c88803da78dc09f06c32711fb33f489f03a7",
+    "venue_names": [
+      "송포 호미걸이 공원"
+    ],
+    "place_ids": [
+      "place-685194b0ee1d"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-20a09dc9341a59f9": {
+    "source_version": "sha256:cc5ed3cc032fac27cafe53d8bbfd662cb118df98285419755d80aa6d0d86ae0d",
+    "venue_names": [
+      "행신청소년자유공간 1층 놀터 이벤트존"
+    ],
+    "place_ids": [
+      "place-1b349d4cb69f"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-b0f7bbd3610e3908": {
+    "source_version": "sha256:02c4bbcd143c3ede44459470aecef1a1339054acd1dd767afed2c70c48efa19a",
+    "venue_names": [
+      "주교청소년자유공간"
+    ],
+    "place_ids": [
+      "place-e252e47f9a55"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-285030637b57ae4c": {
+    "source_version": "sha256:fc9f73a8b6db42450f90378659384250eef46e0008649814f0b7b99dd4cd6f38",
+    "venue_names": [
+      "마상공원 축구장 및 주변"
+    ],
+    "place_ids": [
+      "place-5f6838f47072"
+    ],
+    "multi_site": true,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-1fb672655225a389": {
+    "source_version": "sha256:c969947e9b289152b394ba16a7f1d567a898ed1f48bd1c46614302aabdd0e5b5",
+    "venue_names": [
+      "일산호수공원 노래하는분수대 일원"
+    ],
+    "place_ids": [
+      "place-425b80842004"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-13106a1b40932331": {
+    "source_version": "sha256:e0e23fde033e849d938309a04db605c7a06acb30109f2ba22b43d93cb77780b6",
+    "venue_names": [
+      "고양생태교육센터"
+    ],
+    "place_ids": [
+      "place-496112ecb5c6"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-63e378622c7f39e9": {
+    "source_version": "sha256:c99e8a20e13ed4e6b3982e46cd910a8fb73390b293a74d547725dbb2d75d9364",
+    "venue_names": [
+      "고양생태교육센터"
+    ],
+    "place_ids": [
+      "place-496112ecb5c6"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  },
+  "mohae-goyang-6205c69f52aa9dee": {
+    "source_version": "sha256:23d32210067bd76c3e7c2390d3c71224f36df3d3c7377068d49b4dfdf0d01916",
+    "venue_names": [
+      "고양생태교육센터"
+    ],
+    "place_ids": [
+      "place-496112ecb5c6"
+    ],
+    "multi_site": false,
+    "mapping_basis": "Published venue name matched to facility; point is a facility reference, not an event entrance."
+  }
+}

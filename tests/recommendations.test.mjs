@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {recommend} from '../public/recommendations.js';
+const origin={lat:37.66,lng:126.76},date='2026-10-09';
+const event=(id,lng,environment='outdoor')=>({id,source_version:'test',verification:{source_version:'test',method:'official_page_text_review',checked_at:'2026-10-09T00:00:00Z',recheck_after:'2026-10-10T00:00:00Z',verified_fields:['dates','hours','venue','fee','reservation'],admission:'walk_in'},category:'festival',schedule:{start_date:date,end_date:date,sessions:[{start:date+'T09:00:00+09:00',end:date+'T21:00:00+09:00'}]},editorial:{point:{lat:37.66,lng},environment}});
+const events=[event('a',126.765),event('b',126.79),event('c',126.83),event('d',126.87)];
+const options={origin,date,now:Date.parse('2026-10-09T08:00:00Z'),departure:600,returnBy:1200};
+test('time budgets produce 1, 2 and up to 3 stops; never claim verified travel',()=>{for(const [scenario,count] of [['quick',1],['half',2],['day',3]]){const r=recommend(events,{...options,scenario});assert.equal(r.events.length,count);assert.equal(r.verified,false);assert.equal(r.arrivalHome,undefined);}});
+test('walking range and distant origins exclude unreachable research candidates',()=>{assert.equal(recommend(events,{...options,scenario:'day',transport:'walk'}).events.length,2);assert.equal(recommend(events,{...options,origin:{lat:35,lng:129}}).events.length,0);});
+test('rain prefers indoor, and one venue does not appear twice',()=>{const indoor=event('indoor',126.79,'indoor');const r=recommend([...events,indoor],{...options,scenario:'half',weather:{rainProbability:80}});assert.equal(r.events[0].id,'indoor');assert.equal(r.events.filter(e=>e.editorial.point.lng===126.79).length,1);});
+test('cancelled, closed-registration and finished events cannot become recommendations',()=>{const ended=event('ended',126.77);ended.schedule.sessions[0].end=date+'T09:30:00+09:00';assert.equal(recommend([{...events[0],status:'cancelled'},{...events[1],reservation:{raw_ko:'접수마감'}},ended],options).events.length,0);});
+test('too little time and performances with elapsed starts are excluded',()=>{assert.equal(recommend(events,{...options,returnBy:620}).events.length,0);assert.equal(recommend([{...events[0],category:'performance'}],options).events.length,0);});
+test('day course visits nearby open places before waiting for a later event',()=>{const late=event('late',126.761);late.schedule.sessions=[{start:date+'T18:00:00+09:00',end:date+'T22:00:00+09:00'}];const r=recommend([late,...events.slice(0,2)],{...options,scenario:'day',departure:900,returnBy:1380});assert.equal(r.events.length,3);assert.equal(r.events.at(-1).id,'late');});

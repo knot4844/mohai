@@ -1,0 +1,559 @@
+[
+  {
+    "id": "place-ab12456cfaf0",
+    "name": "가좌도서관",
+    "point": {
+      "lat": 37.686331,
+      "lng": 126.7202754,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MT/menu/12869/contents/40086/contents.do"
+    },
+    "address": "고양시 일산서구 가좌3로 16(가좌동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28ot7.json"
+  },
+  {
+    "id": "place-5d7e48cc9128",
+    "name": "높빛도서관",
+    "point": {
+      "lat": 37.7100789,
+      "lng": 126.9052997,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MV/menu/130230/contents/40093/contents.do"
+    },
+    "address": "고양시 덕양구 푸른마을로 34-8(고양동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2cqm3.json"
+  },
+  {
+    "id": "place-de44ea6f55d3",
+    "name": "대화도서관",
+    "point": {
+      "lat": 37.6809677,
+      "lng": 126.7539146,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MJ/menu/11645/contents/40070/contents.do"
+    },
+    "address": "고양시 일산서구 일산로 689(대화동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9h.json"
+  },
+  {
+    "id": "place-82a0b3df2fc5",
+    "name": "덕이도서관",
+    "point": {
+      "lat": 37.7028982,
+      "lng": 126.7542867,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MN/menu/12257/contents/40078/contents.do"
+    },
+    "address": "고양시 일산서구 하이파크로 128(덕이동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9i.json"
+  },
+  {
+    "id": "place-619f3604c1bb",
+    "name": "마두도서관",
+    "point": {
+      "lat": 37.6666902,
+      "lng": 126.7820071,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MA/menu/10268/contents/40052/contents.do"
+    },
+    "address": "고양시 일산동구 일산로 355(마두동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9m.json"
+  },
+  {
+    "id": "place-5a40ddeff869",
+    "name": "백석도서관",
+    "point": {
+      "lat": 37.6472499,
+      "lng": 126.7936036,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MD/menu/10727/contents/40058/contents.do"
+    },
+    "address": "고양시 일산동구 일산로 118(백석동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9n.json"
+  },
+  {
+    "id": "place-e20673c6e71a",
+    "name": "별꿈도서관",
+    "point": {
+      "lat": 37.6457612,
+      "lng": 126.8941546,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MQ/menu/12716/contents/40084/contents.do"
+    },
+    "address": "고양시 덕양구 고양대로 1937(동산동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9o.json"
+  },
+  {
+    "id": "place-a605bbcac8ba",
+    "name": "삼송도서관",
+    "point": {
+      "lat": 37.6488483,
+      "lng": 126.8848539,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MP/menu/12563/contents/40082/contents.do"
+    },
+    "address": "고양시 덕양구 덕수천1로 73(삼송동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9q.json"
+  },
+  {
+    "id": "place-5d957b58fa6e",
+    "name": "식사도서관",
+    "point": {
+      "lat": 37.6760715,
+      "lng": 126.8159865,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MM/menu/12104/contents/40076/contents.do"
+    },
+    "address": "고양시 일산동구 위시티2로 43-6(식사동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9r.json"
+  },
+  {
+    "id": "place-4becbf0a001e",
+    "name": "신원도서관",
+    "point": {
+      "lat": 37.6663829,
+      "lng": 126.8863592,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MO/menu/12410/contents/40080/contents.do"
+    },
+    "address": "고양시 덕양구 신원2로 24(신원동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9s.json"
+  },
+  {
+    "id": "place-94f95ebe525a",
+    "name": "아람누리도서관",
+    "point": {
+      "lat": 37.661311,
+      "lng": 126.7731783,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MF/menu/11033/contents/40062/contents.do"
+    },
+    "address": "고양시 일산동구 중앙로 1286(마두동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9t.json"
+  },
+  {
+    "id": "place-ec909a7998d2",
+    "name": "원당도서관",
+    "point": {
+      "lat": 37.6546569,
+      "lng": 126.8406714,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MC/menu/10574/contents/40056/contents.do"
+    },
+    "address": "고양시 덕양구 호국로 790번길 87(성사동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9u.json"
+  },
+  {
+    "id": "place-fc9c9b18470e",
+    "name": "일산도서관",
+    "point": {
+      "lat": 37.6849895,
+      "lng": 126.7643949,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MU/menu/13022/contents/40088/contents.do"
+    },
+    "address": "고양시 일산서구 고양대로 586-65(일산동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9x.json"
+  },
+  {
+    "id": "place-94f7fe167e1b",
+    "name": "주엽어린이도서관",
+    "point": {
+      "lat": 37.6684134,
+      "lng": 126.7564678,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MG/menu/11186/contents/40064/contents.do"
+    },
+    "address": "고양시 일산서구 주엽로 104(주엽동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28pa8.json"
+  },
+  {
+    "id": "place-9b2107b8c2b0",
+    "name": "풍동도서관",
+    "point": {
+      "lat": 37.6705808,
+      "lng": 126.7951259,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/ML/menu/11951/contents/40074/contents.do"
+    },
+    "address": "고양시 일산동구 숲속마을로 108(풍동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28seu.json"
+  },
+  {
+    "id": "place-5db1414c5ce3",
+    "name": "한뫼도서관",
+    "point": {
+      "lat": 37.693597,
+      "lng": 126.7762002,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MK/menu/11798/contents/40072/contents.do"
+    },
+    "address": "고양시 일산서구 탄중로 284(일산동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28pab.json"
+  },
+  {
+    "id": "place-34710c99508e",
+    "name": "행신도서관",
+    "point": {
+      "lat": 37.6207446,
+      "lng": 126.8283745,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MB/menu/10421/contents/40054/contents.do"
+    },
+    "address": "고양시 덕양구 행당로 33번길 25-6(행신동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28sew.json"
+  },
+  {
+    "id": "place-7d159926d54a",
+    "name": "행신어린이도서관",
+    "point": {
+      "lat": 37.6148371,
+      "lng": 126.8434566,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MH/menu/11339/contents/40066/contents.do"
+    },
+    "address": "고양시 덕양구 소원로181번길 42(행신동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28pad.json"
+  },
+  {
+    "id": "place-e94f4e438ad8",
+    "name": "화정도서관",
+    "point": {
+      "lat": 37.6377927,
+      "lng": 126.8370456,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/ME/menu/10880/contents/40060/contents.do"
+    },
+    "address": "고양시 덕양구 은빛로77번길 8(화정동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28sgz.json"
+  },
+  {
+    "id": "place-d8b0b5c701b9",
+    "name": "화정어린이도서관",
+    "point": {
+      "lat": 37.6328328,
+      "lng": 126.8263029,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MI/menu/11492/contents/40068/contents.do"
+    },
+    "address": "고양시 덕양구 화신로 323(화정동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28sg6.json"
+  },
+  {
+    "id": "place-9f29da024f99",
+    "name": "고양아람누리",
+    "point": {
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-0046dfefa6f0",
+    "name": "고양관광정보센터",
+    "point": {
+      "lat": 37.6594811,
+      "lng": 126.7727033,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-2e6ae2f12843",
+    "name": "라페스타",
+    "point": {
+      "lat": 37.6606813,
+      "lng": 126.7690617,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-425b80842004",
+    "name": "노래하는분수대",
+    "point": {
+      "lat": 37.6639561,
+      "lng": 126.7576951,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-c8ea428fa5dc",
+    "name": "새들",
+    "point": {
+      "lat": 37.6263638,
+      "lng": 126.7838094,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-359257cc5332",
+    "name": "해움",
+    "point": {
+      "lat": 37.6529548,
+      "lng": 126.76874,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-79a853a17950",
+    "name": "백마 화사랑",
+    "point": {
+      "lat": 37.6715431,
+      "lng": 126.7910518,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-cf2333ad17f8",
+    "name": "고양생태공원",
+    "point": {
+      "lat": 37.6839562,
+      "lng": 126.7441251,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-3e264d5fcd0a",
+    "name": "스타필드 고양",
+    "point": {
+      "lat": 37.6469771,
+      "lng": 126.8947781,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+    }
+  },
+  {
+    "id": "place-4dabf52eec82",
+    "name": "서오릉",
+    "point": {
+      "lat": 37.6235562,
+      "lng": 126.9007674,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+    }
+  },
+  {
+    "id": "place-06604e53d8a2",
+    "name": "가와지볍씨박물관",
+    "point": {
+      "lat": 37.6497779,
+      "lng": 126.870086,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+    }
+  },
+  {
+    "id": "place-8473926541ae",
+    "name": "일산호수공원",
+    "point": {
+      "lat": 37.6562024,
+      "lng": 126.7639759,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-d9cf4e7b0372",
+    "name": "킨텍스",
+    "point": {
+      "lat": 37.6689595,
+      "lng": 126.7462423,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-496112ecb5c6",
+    "name": "고양생태교육센터",
+    "point": {
+      "lat": 37.6837365,
+      "lng": 126.7442284,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyang.go.kr/ecoedu/center/directions.do"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2aopo.json"
+  },
+  {
+    "id": "place-e488257cab11",
+    "name": "신원중학교",
+    "point": {
+      "lat": 37.6675952,
+      "lng": 126.8878716,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goegy.kr/gysinwon-m/lm/location/locationMapView.do?mi=7155"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2gix3.json"
+  },
+  {
+    "id": "place-15b90a8803a4",
+    "name": "송포청소년문화의집",
+    "point": {
+      "lat": 37.6713626,
+      "lng": 126.7352755,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gcyf.or.kr/sp/bbs/content.php?co_id=songpo_01_4"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2f6ja.json"
+  },
+  {
+    "id": "place-e252e47f9a55",
+    "name": "주교청소년자유공간",
+    "point": {
+      "lat": 37.659818,
+      "lng": 126.8330989,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gcyf.or.kr/jg/bbs/content.php?co_id=jugyo_01_5"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/268d8.json"
+  },
+  {
+    "id": "place-1b349d4cb69f",
+    "name": "행신청소년자유공간",
+    "point": {
+      "lat": 37.6153024,
+      "lng": 126.8332256,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gcyf.or.kr/hs/bbs/content.php?co_id=haengsin_01_4"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2ahxf.json"
+  },
+  {
+    "id": "place-23392d7984a2",
+    "name": "고양꽃전시관",
+    "point": {
+      "lat": 37.6552847,
+      "lng": 126.7689083,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=59ce3dd9-38d2-4c68-91fa-356c79cbefa7"
+    },
+    "coordinateSource": null
+  },
+  {
+    "id": "place-9f366963cabb",
+    "name": "고양종합운동장",
+    "point": {
+      "lat": 37.6755401,
+      "lng": 126.7436717,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gys.or.kr/subpage/index/109"
+    },
+    "coordinateSource": null
+  },
+  {
+    "id": "place-685194b0ee1d",
+    "name": "호미걸이공원",
+    "point": {
+      "lat": 37.6718082,
+      "lng": 126.7349837,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/1010949198"
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-5f6838f47072",
+    "name": "마상공원",
+    "point": {
+      "lat": 37.6625164,
+      "lng": 126.832743,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/relation/11180870"
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-a175e9c9af3a",
+    "name": "일산 호수공원",
+    "point": {
+      "lat": 37.657019,
+      "lng": 126.763746,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q6477301"
+    }
+  },
+  {
+    "id": "place-f6c6c05f17d8",
+    "name": "행주산성",
+    "point": {
+      "lat": 37.596947,
+      "lng": 126.831958,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q12624761"
+    }
+  },
+  {
+    "id": "place-4c438c28577f",
+    "name": "고양어울림누리",
+    "point": {
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q12584337"
+    }
+  },
+  {
+    "id": "place-7c4dd98b02b2",
+    "name": "화정역",
+    "point": {
+      "lat": 37.6345889,
+      "lng": 126.8326694,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q79836"
+    }
+  }
+]

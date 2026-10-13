@@ -1,0 +1,533 @@
+{
+  "mohae-goyang-e6da1b391beb5c1c": {
+    "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=652&tourRsrcNo=1923",
+        "fields": [
+          "dates",
+          "venue"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "venue"
+    ],
+    "unknown_fields": [
+      "hours",
+      "fee",
+      "reservation",
+      "conditions",
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "고양시 공식 안내에서 기간과 주제광장 개최를 확인. 운영시간·요금·예약 조건은 해당 본문에 없어 미확인으로 유지. 공원 운영시간을 행사시간으로 대체하지 않음.",
+    "admission": "unknown",
+    "patch": {},
+    "editorial": {}
+  },
+  "mohae-goyang-18a6121854d03004": {
+    "source_version": "sha256:049b2ea46a667b27825a1d822941a098d7219f6b4e144c021ddbf8be89303bae",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://www.cobe.co.kr/__page/kintex/summary.php",
+        "fields": [
+          "dates",
+          "hours",
+          "venue"
+        ]
+      },
+      {
+        "url": "https://www.cobe.co.kr/__page/kintex/visit_info.php",
+        "fields": [
+          "fee",
+          "reservation"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "hours",
+      "venue",
+      "fee",
+      "reservation"
+    ],
+    "unknown_fields": [
+      "conditions",
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "주최자 개요와 관람안내를 대조. 제2전시장 10홀. 지도 점은 킨텍스 시설 기준점이며 해당 홀의 입구가 아님.",
+    "admission": "onsite_registration",
+    "patch": {
+      "schedule": {
+        "start_date": "2026-10-08",
+        "end_date": "2026-10-11",
+        "timezone": "Asia/Seoul",
+        "raw_ko": "10월 8~11일 10:00~18:00",
+        "sessions": [
+          {
+            "start": "2026-10-08T10:00:00+09:00",
+            "end": "2026-10-08T18:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-09T10:00:00+09:00",
+            "end": "2026-10-09T18:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-10T10:00:00+09:00",
+            "end": "2026-10-10T18:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-11T10:00:00+09:00",
+            "end": "2026-10-11T18:00:00+09:00",
+            "status": "scheduled"
+          }
+        ],
+        "exceptions": [],
+        "precision": "complete_sessions"
+      },
+      "price": {
+        "kind": "mixed",
+        "currency": "KRW",
+        "min": 0,
+        "max": 10000,
+        "raw_ko": "사전·현장등록 시 무료, 입장권 구매 시 10,000원"
+      },
+      "reservation": {
+        "required": false,
+        "url": "https://www.cobe.co.kr/__page/kintex/visit_info.php",
+        "raw_ko": "무료입장에는 사전 또는 현장등록 필요. 등록 없이 구매 시 10,000원. 외국인 등록 절차는 미확인."
+      }
+    },
+    "editorial": {
+      "venueDetail": "킨텍스 제2전시장 10홀"
+    },
+    "summaries": {
+      "ko": "10월 8~11일 10:00~18:00, 킨텍스 제2전시장 10홀. 사전 또는 현장등록 시 무료이며 입장권 구매 시 10,000원입니다.",
+      "en": "October 8–11, 10:00–18:00, KINTEX Exhibition Center 2, Hall 10. Free with advance or on-site registration; a purchased admission ticket costs KRW 10,000.",
+      "ja": "10月8～11日、10:00～18:00。KINTEX第2展示場10ホール。事前または当日登録で無料、入場券を購入する場合は10,000ウォンです。",
+      "zh-Hans": "10月8日至11日，10:00–18:00，KINTEX第二展馆10号厅。提前或现场登记可免费入场，购买门票为10,000韩元。"
+    }
+  },
+  "mohae-goyang-7fc1dd01588bf4d0": {
+    "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee"
+        ]
+      },
+      {
+        "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=844",
+        "fields": [
+          "hours",
+          "reservation",
+          "conditions"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "hours",
+      "venue",
+      "fee",
+      "reservation",
+      "conditions"
+    ],
+    "unknown_fields": [
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "입장 마감은 현재 행사 전용 FAQ의 21:30을 적용. 이전 통합 자료의 21:00 표기는 수정. 우천·강풍 예보 시 미운영하므로 출발 전 주최 공지를 확인. 일반 관람과 사전예약 체험을 구분.",
+    "admission": "walk_in",
+    "patch": {
+      "schedule": {
+        "start_date": "2026-10-09",
+        "end_date": "2026-10-18",
+        "timezone": "Asia/Seoul",
+        "raw_ko": "매일 18:00~22:00, 공식 FAQ 기준 21:30 입장 마감",
+        "sessions": [
+          {
+            "start": "2026-10-09T18:00:00+09:00",
+            "end": "2026-10-09T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-10T18:00:00+09:00",
+            "end": "2026-10-10T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-11T18:00:00+09:00",
+            "end": "2026-10-11T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-12T18:00:00+09:00",
+            "end": "2026-10-12T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-13T18:00:00+09:00",
+            "end": "2026-10-13T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-14T18:00:00+09:00",
+            "end": "2026-10-14T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-15T18:00:00+09:00",
+            "end": "2026-10-15T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-16T18:00:00+09:00",
+            "end": "2026-10-16T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-17T18:00:00+09:00",
+            "end": "2026-10-17T22:00:00+09:00",
+            "status": "scheduled"
+          },
+          {
+            "start": "2026-10-18T18:00:00+09:00",
+            "end": "2026-10-18T22:00:00+09:00",
+            "status": "scheduled"
+          }
+        ],
+        "exceptions": [],
+        "precision": "complete_sessions"
+      },
+      "reservation": {
+        "required": false,
+        "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=844",
+        "scope": "general_admission",
+        "raw_ko": "일반 관람 무료. 일부 프로그램 사전접수는 9/21~10/4, 잔여석이 있을 때만 현장 접수 가능. 프로그램 잔여석 미확인."
+      },
+      "visitor_access": {
+        "korean_phone_required": null,
+        "local_identity_required": null,
+        "foreign_card_accepted": null,
+        "notes_ko": "우천·강풍 예보 시 행사 미운영. 휠체어·유모차 이용 가능하나 오르막이 많음. 반려동물 동반 불가. 체험 프로그램 일부 유료."
+      }
+    },
+    "editorial": {
+      "lastEntry": 1290,
+      "weatherSensitive": true
+    },
+    "summaries": {
+      "ko": "10월 9~18일 행주산성 야간 축제. 18:00~22:00, 최종 입장 21:30. 일반 관람 무료, 일부 체험 유료. 우천·강풍 예보 시 미운영합니다.",
+      "en": "Haengjusanseong night festival, October 9–18, 18:00–22:00; last entry 21:30. General admission is free; some activities cost extra. No operation when rain or strong winds are forecast.",
+      "ja": "10月9～18日の行州山城夜間祭り。18:00～22:00、最終入場21:30。一般入場無料、一部体験有料。雨・強風予報時は開催しません。",
+      "zh-Hans": "行州山城夜间庆典，10月9日至18日18:00–22:00，21:30停止入场。普通入场免费，部分体验收费。预报有雨或强风时不举办。"
+    }
+  },
+  "mohae-goyang-9a1065174eb5415a": {
+    "source_version": "sha256:96eb5f3f8d9cde334bd2afece224cac23850008563a5d48c26d81d5cda52a338",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://m.artgy.or.kr/Ticket/Performance/Details?performanceId=9610",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "reservation",
+          "conditions"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "hours",
+      "venue",
+      "fee",
+      "reservation",
+      "conditions"
+    ],
+    "unknown_fields": [
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "공식 공연 안내와 관람시간 확인. 종료 시각은 시작 시각+공식 관람시간으로 계산한 예정값. 실제 종료·잔여석은 보장하지 않음. 예매 확인 전 자동 추천 제외.",
+    "admission": "ticket_required",
+    "patch": {
+      "schedule": {
+        "start_date": "2026-10-10",
+        "end_date": "2026-10-10",
+        "timezone": "Asia/Seoul",
+        "raw_ko": "17:00 시작; 종료 시각은 공지된 관람시간을 더한 예정 시각",
+        "sessions": [
+          {
+            "start": "2026-10-10T17:00:00+09:00",
+            "end": "2026-10-10T18:40:00+09:00",
+            "status": "scheduled"
+          }
+        ],
+        "exceptions": [],
+        "precision": "complete_sessions"
+      },
+      "price": {
+        "kind": "paid",
+        "currency": "KRW",
+        "min": 40000,
+        "max": 80000,
+        "raw_ko": "R석 80,000원, S석 60,000원, A석 40,000원"
+      },
+      "reservation": {
+        "required": true,
+        "url": "https://m.artgy.or.kr/Ticket/Performance/Details?performanceId=9610",
+        "raw_ko": "예매 안내 있음; 잔여석 미확인"
+      },
+      "visitor_access": {
+        "korean_phone_required": null,
+        "local_identity_required": null,
+        "foreign_card_accepted": null,
+        "notes_ko": "초등학생 이상, 미취학아동 입장 불가. 1인 1매. 예매 잔여석은 미확인."
+      }
+    },
+    "editorial": {}
+  },
+  "mohae-goyang-682092d97e35ec76": {
+    "source_version": "sha256:80712e3eca4233ca7381ff0e5655500359b991b375c5c71609b2dd0acd84ef8e",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008435",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "reservation",
+          "conditions"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "hours",
+      "venue",
+      "fee",
+      "reservation",
+      "conditions"
+    ],
+    "unknown_fields": [
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "공식 공연 안내와 관람시간 확인. 종료 시각은 시작 시각+공식 관람시간으로 계산한 예정값. 실제 종료·잔여석은 보장하지 않음. 예매 확인 전 자동 추천 제외.",
+    "admission": "ticket_required",
+    "patch": {
+      "schedule": {
+        "start_date": "2026-10-10",
+        "end_date": "2026-10-10",
+        "timezone": "Asia/Seoul",
+        "raw_ko": "19:00;120분; 종료 시각은 공지된 관람시간을 더한 예정 시각",
+        "sessions": [
+          {
+            "start": "2026-10-10T19:00:00+09:00",
+            "end": "2026-10-10T21:00:00+09:00",
+            "status": "scheduled"
+          }
+        ],
+        "exceptions": [],
+        "precision": "complete_sessions"
+      },
+      "price": {
+        "kind": "paid",
+        "currency": "KRW",
+        "min": 33000,
+        "max": 55000,
+        "raw_ko": "VIP55000/R44000/S33000원"
+      },
+      "reservation": {
+        "required": true,
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008435",
+        "raw_ko": "공식 예매 안내; 실제 잔여석 미확인"
+      },
+      "visitor_access": {
+        "korean_phone_required": null,
+        "local_identity_required": null,
+        "foreign_card_accepted": null,
+        "notes_ko": "초등학생 이상, 미취학아동 입장 불가. 1인 1매. 예매 잔여석은 미확인."
+      }
+    },
+    "editorial": {}
+  },
+  "mohae-goyang-cc14b70d7616430e": {
+    "source_version": "sha256:71c5aa285138f6b60978ba37ce875319e4ca631a34612c1ff99af9aecb0087be",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://www.artgy.or.kr/EH/EH0201V.aspx?showid=0000008476",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "hours",
+      "venue",
+      "fee",
+      "conditions"
+    ],
+    "unknown_fields": [
+      "reservation",
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "10월 10~11일 어울림미술관, 10~18시·17:30 입장 마감. 무료·전 연령 안내 확인. 예약 불필요라는 명시는 없어 예약 조건은 미확인.",
+    "admission": "unknown",
+    "patch": {},
+    "editorial": {
+      "lastEntry": 1050
+    }
+  },
+  "mohae-goyang-91418530770bfbff": {
+    "source_version": "sha256:a312606a586477e3b3e061a45ac6a8f25fffc18b77f2a708c9ad3877d076b961",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://www.goyang.go.kr/dong/user/bbs/BD_selectBbs.do?q_bbsCode=1074&q_bbscttSn=20261002091534466",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "conditions"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "hours",
+      "venue",
+      "conditions"
+    ],
+    "unknown_fields": [
+      "fee",
+      "reservation",
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "10/11 12~20시, 개막식16~16:30. 화정역 문화광장. 화정1·2동 주민 및 고양시민 누구나. 체험·공연·노래자랑 등. 요금과 예약 조건은 본문에 없음.",
+    "admission": "unknown",
+    "patch": {},
+    "editorial": {}
+  },
+  "mohae-goyang-03a9f44070a621cb": {
+    "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=",
+        "fields": [
+          "dates",
+          "hours",
+          "venue"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "hours",
+      "venue"
+    ],
+    "unknown_fields": [
+      "fee",
+      "reservation",
+      "conditions",
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "10월 매주 토요일(3·10·17·24·31일) 18:30~20:00, 라페스타 문화의 거리. 3개 무대 릴레이 버스킹. 무료 여부는 추정하지 않음.",
+    "admission": "unknown",
+    "patch": {},
+    "editorial": {}
+  },
+  "mohae-goyang-4c67d3ec7c5c4047": {
+    "source_version": "sha256:14fd0e22b966e6e13e918e247b97d0740dd9c23daf82f3f7715d858ad27f9bd3",
+    "checked_at": "2026-10-09T17:43:35+09:00",
+    "recheck_after": "2026-10-10T17:43:35+09:00",
+    "method": "official_page_text_review",
+    "sources": [
+      {
+        "url": "https://www.gcyf.or.kr/td/bbs/board.php?bo_table=notice&wr_id=4274",
+        "fields": [
+          "dates",
+          "hours",
+          "venue"
+        ]
+      }
+    ],
+    "verified_fields": [
+      "dates",
+      "hours",
+      "venue"
+    ],
+    "unknown_fields": [
+      "fee",
+      "reservation",
+      "conditions",
+      "liveAvailability",
+      "entrance",
+      "languages"
+    ],
+    "notes_ko": "자료는 공연팀 모집 공고. 9~24세는 공연팀 모집 대상이며 관객 연령 제한이 아님. 공연팀 모집 종료(10/2)를 일반관객 입장 마감으로 해석하지 않음.",
+    "admission": "unknown",
+    "patch": {
+      "reservation": {
+        "required": null,
+        "scope": "performer_application",
+        "url": "https://www.gcyf.or.kr/td/bbs/board.php?bo_table=notice&wr_id=4274",
+        "raw_ko": "공연팀 모집은 10/2 종료. 일반 관객의 예약·요금·입장 조건은 이 모집 공고만으로 확인되지 않음."
+      }
+    },
+    "editorial": {}
+  }
+}

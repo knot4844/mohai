@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lake",
+    "src": "/assets/lake.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Goyang_Lake_Park.jpg",
+    "author": "travel oriented",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kind": "venue_archive",
+    "caption_ko": "장소 기록 사진 · 현재 행사 사진 아님"
+  },
+  {
+    "id": "fortress",
+    "src": "/assets/fortress.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Haengjusanseong-Toseong.jpg",
+    "author": "IRTC1015",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "kind": "venue_archive",
+    "caption_ko": "장소 기록 사진 · 현재 행사 사진 아님"
+  },
+  {
+    "id": "kintex",
+    "src": "/assets/kintex.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%ED%82%A8%ED%85%8D%EC%8A%A4.jpg",
+    "author": "뭘로할까",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kind": "venue_archive",
+    "caption_ko": "장소 기록 사진 · 현재 행사 사진 아님"
+  }
+]

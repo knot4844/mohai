@@ -1,0 +1,10 @@
+.env*
+!.env.example
+qa
+research_notes
+.git
+node_modules
+dist
+previews
+
+exports

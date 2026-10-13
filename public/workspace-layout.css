@@ -1,0 +1,29 @@
+/* Independent layout shell: panel internals do not depend on placement.
+   Adjust --exploration-share or grid order here to rearrange the workspace. */
+.workspace.split-workspace{--exploration-share:1fr;display:grid;grid-template-columns:minmax(0,var(--exploration-share)) minmax(0,1fr);align-items:start;gap:0}
+.split-workspace>[data-panel]{min-width:0;width:auto;display:block}
+.split-workspace>[data-panel=exploration]{grid-column:1;padding:22px}
+.split-workspace>[data-panel=information]{grid-column:2;border-left:1px solid var(--line);border-right:0;padding:22px;position:sticky;top:0;max-height:100dvh;overflow:auto}
+.split-workspace .results{display:block;max-height:none;overflow:visible;padding:0}
+.split-workspace .event-card{width:100%;max-width:none}
+.split-workspace #map-shell{height:clamp(440px,65vh,720px);min-height:440px}
+@media(max-width:750px){
+ .workspace.split-workspace{grid-template-columns:minmax(0,1fr)}
+ .split-workspace>[data-panel=exploration],.split-workspace>[data-panel=information]{grid-column:1;padding:16px;position:static;max-height:none;overflow:visible}
+ .split-workspace>[data-panel=information]{border-left:0;border-top:1px solid var(--line)}
+ .split-workspace #map-shell{height:470px;min-height:470px}
+}
+.workspace.split-workspace[data-view] > [data-panel=information],.workspace.split-workspace[data-view] > [data-panel=exploration]{display:block}
+main>.taxonomy-panel{padding:16px 3.2%;margin:0;border-top:1px solid var(--line)}.catalog-place{padding:20px 0;border-bottom:1px solid var(--line)}.catalog-place h3{font-size:18px}.catalog-place p{margin:8px 0}.catalog-place small{color:#5b655e;display:block}.catalog-place a{font-size:13px}
+/* Compact origin picker, left aligned; never stretch into unused panel space. */
+.split-workspace .location-toolbar{justify-content:flex-start}
+.split-workspace .location-toolbar .origin-row{flex:0 1 250px;width:250px;max-width:100%;min-width:0}
+.split-workspace .location-toolbar .origin-row select{flex:1;min-width:0;width:0}
+.split-workspace .location-toolbar .gps-button{flex:none}
+.split-workspace .location-toolbar #location-summary{flex-basis:100%}
+@media(max-width:750px){.split-workspace .location-toolbar .origin-row{flex:0 1 210px;width:210px;min-width:0}}
+/* One reusable information card in document flow: never overlays the graph. */
+#desktop-card-dock .hover-card,#mobile-card-dock .hover-card{position:relative;inset:auto;transform:none;width:100%;max-width:100%;max-height:none;overflow:visible;margin:0 0 18px;padding:20px;z-index:auto;box-shadow:none}
+#desktop-card-dock .hover-card[hidden],#mobile-card-dock .hover-card[hidden]{display:none}
+#desktop-card-dock:empty,#mobile-card-dock:empty{display:none}
+.hover-preview h3{font-size:18px;line-height:1.4;margin:0 0 12px;padding:0}.hover-preview img{display:block;width:100%;height:150px;object-fit:cover;border-radius:10px}.hover-preview p{font-size:14px;line-height:1.6;margin-top:12px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.hover-preview-placeholder{height:110px;display:grid;place-items:center;background:#e7ede4;border-radius:10px;color:#315e4c;font-size:36px}

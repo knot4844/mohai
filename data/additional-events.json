@@ -1,0 +1,5441 @@
+[
+  {
+    "title_ko": "AI 실전 창작소",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-10-08",
+      "end_date": "2026-11-26",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:00~12:00; 접수마감; 목요일 게재, 개별 회차 미확인",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-e4990fba555b",
+        "name_ko": "덕이도서관 1층 교양교실",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MN/program/lectureList.do",
+      "raw_ko": "접수마감; 목요일 게재, 개별 회차 미확인"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "기초 AI 경험이 있는 고양시민 15명"
+    },
+    "id": "mohae-goyang-c5d1c685f73971ae",
+    "source_version": "sha256:969c327660f3928822349158b583a575ae1ae6c8c1f4a43c4c3e793bf1cda4b0",
+    "onsite_languages": null,
+    "summary_ko": "기초 AI 경험이 있는 고양시민 15명; 접수마감; 목요일 게재, 개별 회차 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "AI 실전 창작소",
+        "summary": "2026-10-08–2026-11-26. 덕이도서관 1층 교양교실에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요. 게시된 접수는 마감되었습니다.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MN/program/lectureList.do",
+        "source_version": "sha256:969c327660f3928822349158b583a575ae1ae6c8c1f4a43c4c3e793bf1cda4b0"
+      },
+      "en": {
+        "display_title": "AI Creative Workshop",
+        "summary": "2026-10-08–2026-11-26. Venue (Korean): 덕이도서관 1층 교양교실. Check the official notice for individual sessions and registration requirements. The listed registration period or intake is closed.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MN/program/lectureList.do",
+        "source_version": "sha256:969c327660f3928822349158b583a575ae1ae6c8c1f4a43c4c3e793bf1cda4b0"
+      },
+      "ja": {
+        "display_title": "AI実践創作ワークショップ",
+        "summary": "2026-10-08–2026-11-26。会場（韓国語名）：덕이도서관 1층 교양교실。各回の日程と申込条件は公式案内をご確認ください。 掲載された募集は締め切られています。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MN/program/lectureList.do",
+        "source_version": "sha256:969c327660f3928822349158b583a575ae1ae6c8c1f4a43c4c3e793bf1cda4b0"
+      },
+      "zh-Hans": {
+        "display_title": "AI实践创作工坊",
+        "summary": "2026-10-08–2026-11-26。地点（韩文名称）：덕이도서관 1층 교양교실。请通过官方通知确认各场次及报名条件。 公布的报名已截止。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MN/program/lectureList.do",
+        "source_version": "sha256:969c327660f3928822349158b583a575ae1ae6c8c1f4a43c4c3e793bf1cda4b0"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-595e3b56cf96",
+        "url": "https://www.goyanglib.or.kr/MN/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "기초 AI 경험이 있는 고양시민 15명; 접수마감; 목요일 게재, 개별 회차 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "취업 글쓰기: AI를 활용한 자기탐색과 자기소개서 작성",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-10",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "19:00~20:30; 10/19~11/1 18:00; 화요일 게재",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-bb5c8bde0773",
+        "name_ko": "아람누리도서관 3층 누리실",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MF/program/lectureList.do",
+      "raw_ko": "10/19~11/1 18:00; 화요일 게재"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "만18~35세 고양시민(게시 출생연도1990~2008), 기준연령 확인 필요"
+    },
+    "id": "mohae-goyang-389bf05b171a2a6b",
+    "source_version": "sha256:95f62d239d9a9912e601036cca51a41d0a19c01108287425f2ff4027dcc98592",
+    "onsite_languages": null,
+    "summary_ko": "만18~35세 고양시민(게시 출생연도1990~2008), 기준연령 확인 필요; 10/19~11/1 18:00; 화요일 게재; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "취업 글쓰기: AI를 활용한 자기탐색과 자기소개서 작성",
+        "summary": "2026-11-03–2026-11-10. 아람누리도서관 3층 누리실에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MF/program/lectureList.do",
+        "source_version": "sha256:95f62d239d9a9912e601036cca51a41d0a19c01108287425f2ff4027dcc98592"
+      },
+      "en": {
+        "display_title": "Career Writing with AI",
+        "summary": "2026-11-03–2026-11-10. Venue (Korean): 아람누리도서관 3층 누리실. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MF/program/lectureList.do",
+        "source_version": "sha256:95f62d239d9a9912e601036cca51a41d0a19c01108287425f2ff4027dcc98592"
+      },
+      "ja": {
+        "display_title": "AIを活用した就職文章講座",
+        "summary": "2026-11-03–2026-11-10。会場（韓国語名）：아람누리도서관 3층 누리실。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MF/program/lectureList.do",
+        "source_version": "sha256:95f62d239d9a9912e601036cca51a41d0a19c01108287425f2ff4027dcc98592"
+      },
+      "zh-Hans": {
+        "display_title": "AI求职写作",
+        "summary": "2026-11-03–2026-11-10。地点（韩文名称）：아람누리도서관 3층 누리실。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MF/program/lectureList.do",
+        "source_version": "sha256:95f62d239d9a9912e601036cca51a41d0a19c01108287425f2ff4027dcc98592"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-8c556e2abfbd",
+        "url": "https://www.goyanglib.or.kr/MF/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "만18~35세 고양시민(게시 출생연도1990~2008), 기준연령 확인 필요; 10/19~11/1 18:00; 화요일 게재; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "그림책 속 놀이동산",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-09-03",
+      "end_date": "2026-10-29",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "15:30~16:20; 현장참여; 목요일 게재, 휴강 미확인",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-9604a27a3bfd",
+        "name_ko": "풍동도서관 B동 2층 어린이자료실",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": false,
+      "url": "https://www.goyanglib.or.kr/ML/program/lectureList.do",
+      "raw_ko": "현장참여; 목요일 게재, 휴강 미확인"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "만5세 이상 아동"
+    },
+    "id": "mohae-goyang-5be033bd9ddf5393",
+    "source_version": "sha256:a7bfd6fcf8470ed2d87b6182acd1e8014e8bfac1f93e75c9cbbf75b244398e0d",
+    "onsite_languages": null,
+    "summary_ko": "만5세 이상 아동; 현장참여; 목요일 게재, 휴강 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "그림책 속 놀이동산",
+        "summary": "2026-09-03–2026-10-29. 풍동도서관 B동 2층 어린이자료실에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/ML/program/lectureList.do",
+        "source_version": "sha256:a7bfd6fcf8470ed2d87b6182acd1e8014e8bfac1f93e75c9cbbf75b244398e0d"
+      },
+      "en": {
+        "display_title": "Picture Book Playground",
+        "summary": "2026-09-03–2026-10-29. Venue (Korean): 풍동도서관 B동 2층 어린이자료실. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/ML/program/lectureList.do",
+        "source_version": "sha256:a7bfd6fcf8470ed2d87b6182acd1e8014e8bfac1f93e75c9cbbf75b244398e0d"
+      },
+      "ja": {
+        "display_title": "絵本の遊び場",
+        "summary": "2026-09-03–2026-10-29。会場（韓国語名）：풍동도서관 B동 2층 어린이자료실。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/ML/program/lectureList.do",
+        "source_version": "sha256:a7bfd6fcf8470ed2d87b6182acd1e8014e8bfac1f93e75c9cbbf75b244398e0d"
+      },
+      "zh-Hans": {
+        "display_title": "绘本游乐场",
+        "summary": "2026-09-03–2026-10-29。地点（韩文名称）：풍동도서관 B동 2층 어린이자료실。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/ML/program/lectureList.do",
+        "source_version": "sha256:a7bfd6fcf8470ed2d87b6182acd1e8014e8bfac1f93e75c9cbbf75b244398e0d"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-a130d8d517b7",
+        "url": "https://www.goyanglib.or.kr/ML/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "만5세 이상 아동; 현장참여; 목요일 게재, 휴강 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "K-시니어를 위한 스마트폰 활용 교육",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-10-12",
+      "end_date": "2026-11-30",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:00~11:30; 기존목록10/8마감, 센터홈10/8~10/26추가모집, 상세 미확인",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-d032ffba3d87",
+        "name_ko": "높빛도서관 2층 나눔터",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+      "raw_ko": "기존목록10/8마감, 센터홈10/8~10/26추가모집, 상세 미확인"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "50세 이상"
+    },
+    "id": "mohae-goyang-2a6501ed5a0ac9bc",
+    "source_version": "sha256:56c262b2639239997ec60cd78cf75cfe1ddd23bb8a02793f84042299f740cda7",
+    "onsite_languages": null,
+    "summary_ko": "50세 이상; 기존목록10/8마감, 센터홈10/8~10/26추가모집, 상세 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "K-시니어를 위한 스마트폰 활용 교육",
+        "summary": "2026-10-12–2026-11-30. 높빛도서관 2층 나눔터에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "source_version": "sha256:56c262b2639239997ec60cd78cf75cfe1ddd23bb8a02793f84042299f740cda7"
+      },
+      "en": {
+        "display_title": "Smartphone Skills for Seniors",
+        "summary": "2026-10-12–2026-11-30. Venue (Korean): 높빛도서관 2층 나눔터. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "source_version": "sha256:56c262b2639239997ec60cd78cf75cfe1ddd23bb8a02793f84042299f740cda7"
+      },
+      "ja": {
+        "display_title": "シニア向けスマートフォン講座",
+        "summary": "2026-10-12–2026-11-30。会場（韓国語名）：높빛도서관 2층 나눔터。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "source_version": "sha256:56c262b2639239997ec60cd78cf75cfe1ddd23bb8a02793f84042299f740cda7"
+      },
+      "zh-Hans": {
+        "display_title": "长者智能手机课程",
+        "summary": "2026-10-12–2026-11-30。地点（韩文名称）：높빛도서관 2층 나눔터。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "source_version": "sha256:56c262b2639239997ec60cd78cf75cfe1ddd23bb8a02793f84042299f740cda7"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-ff5f97bef70c",
+        "url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "50세 이상; 기존목록10/8마감, 센터홈10/8~10/26추가모집, 상세 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "높빛북클럽 독서동아리",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-09-17",
+      "end_date": "2026-12-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:30~12:30; 9/2~10/21 17:00; 목요일 게재, 중도합류 확인 필요",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-d83951695548",
+        "name_ko": "높빛도서관 1층 동아리방",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+      "raw_ko": "9/2~10/21 17:00; 목요일 게재, 중도합류 확인 필요"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "성인"
+    },
+    "id": "mohae-goyang-dfdb77f98f3bb680",
+    "source_version": "sha256:a01dc531659344976e04f5f689ec7d8810dc8f320ffe2cac8cfa455d85493e52",
+    "onsite_languages": null,
+    "summary_ko": "성인; 9/2~10/21 17:00; 목요일 게재, 중도합류 확인 필요; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "높빛북클럽 독서동아리",
+        "summary": "2026-09-17–2026-12-24. 높빛도서관 1층 동아리방에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "source_version": "sha256:a01dc531659344976e04f5f689ec7d8810dc8f320ffe2cac8cfa455d85493e52"
+      },
+      "en": {
+        "display_title": "Nopbit Book Club",
+        "summary": "2026-09-17–2026-12-24. Venue (Korean): 높빛도서관 1층 동아리방. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "source_version": "sha256:a01dc531659344976e04f5f689ec7d8810dc8f320ffe2cac8cfa455d85493e52"
+      },
+      "ja": {
+        "display_title": "ノッピッ読書クラブ",
+        "summary": "2026-09-17–2026-12-24。会場（韓国語名）：높빛도서관 1층 동아리방。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "source_version": "sha256:a01dc531659344976e04f5f689ec7d8810dc8f320ffe2cac8cfa455d85493e52"
+      },
+      "zh-Hans": {
+        "display_title": "Nopbit读书会",
+        "summary": "2026-09-17–2026-12-24。地点（韩文名称）：높빛도서관 1층 동아리방。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "source_version": "sha256:a01dc531659344976e04f5f689ec7d8810dc8f320ffe2cac8cfa455d85493e52"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-ff5f97bef70c",
+        "url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "성인; 9/2~10/21 17:00; 목요일 게재, 중도합류 확인 필요; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "꼼지락 책놀이터",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-04-06",
+      "end_date": "2026-11-30",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "16:00~17:00; 현장참여; 월요일 게재, 휴강 미확인",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-dba5bf416a43",
+        "name_ko": "행신어린이도서관 1층 아기도서관",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": false,
+      "url": "https://www.goyanglib.or.kr/MH/program/lectureList.do",
+      "raw_ko": "현장참여; 월요일 게재, 휴강 미확인"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "미취학 유아"
+    },
+    "id": "mohae-goyang-b3837fbb74a205be",
+    "source_version": "sha256:e017bd4eead1257b98d1b3cb31ce1f26a2d090d969b0456f11412d16c5d3cd76",
+    "onsite_languages": null,
+    "summary_ko": "미취학 유아; 현장참여; 월요일 게재, 휴강 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "꼼지락 책놀이터",
+        "summary": "2026-04-06–2026-11-30. 행신어린이도서관 1층 아기도서관에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MH/program/lectureList.do",
+        "source_version": "sha256:e017bd4eead1257b98d1b3cb31ce1f26a2d090d969b0456f11412d16c5d3cd76"
+      },
+      "en": {
+        "display_title": "Little Book Playground",
+        "summary": "2026-04-06–2026-11-30. Venue (Korean): 행신어린이도서관 1층 아기도서관. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MH/program/lectureList.do",
+        "source_version": "sha256:e017bd4eead1257b98d1b3cb31ce1f26a2d090d969b0456f11412d16c5d3cd76"
+      },
+      "ja": {
+        "display_title": "幼児の絵本遊び",
+        "summary": "2026-04-06–2026-11-30。会場（韓国語名）：행신어린이도서관 1층 아기도서관。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MH/program/lectureList.do",
+        "source_version": "sha256:e017bd4eead1257b98d1b3cb31ce1f26a2d090d969b0456f11412d16c5d3cd76"
+      },
+      "zh-Hans": {
+        "display_title": "幼儿绘本乐园",
+        "summary": "2026-04-06–2026-11-30。地点（韩文名称）：행신어린이도서관 1층 아기도서관。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MH/program/lectureList.do",
+        "source_version": "sha256:e017bd4eead1257b98d1b3cb31ce1f26a2d090d969b0456f11412d16c5d3cd76"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-0e348e9c6dc3",
+        "url": "https://www.goyanglib.or.kr/MH/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "미취학 유아; 현장참여; 월요일 게재, 휴강 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "책 밖으로 나온 역사 – 1회차 서오릉 역사 탐방",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:30~12:00; 10/12~10/25 18:00 게시; 행사후마감 충돌, 입장료 별도확인",
+      "sessions": [
+        {
+          "start": "2026-10-24T10:30:00+09:00",
+          "end": "2026-10-24T12:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-4dabf52eec82",
+        "name_ko": "서오릉",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "mixed",
+      "currency": "KRW",
+      "min": null,
+      "max": null,
+      "raw_ko": "수업 무료; 서오릉 입장료 별도 확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do",
+      "raw_ko": "10/12~10/25 18:00 게시; 행사후마감 충돌, 입장료 별도확인"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "어린이를 포함한2~4인가족"
+    },
+    "id": "mohae-goyang-3b5ed9f2cd49c398",
+    "source_version": "sha256:df2bcec4d81badddc9311d4b5b7936ebe046bd62f430b6b2283f659dfdf8ca67",
+    "onsite_languages": null,
+    "summary_ko": "어린이를 포함한2~4인가족; 10/12~10/25 18:00 게시; 행사후마감 충돌, 입장료 별도확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "책 밖으로 나온 역사 – 1회차 서오릉 역사 탐방",
+        "summary": "2026-10-24–2026-10-24. 서오릉에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do",
+        "source_version": "sha256:df2bcec4d81badddc9311d4b5b7936ebe046bd62f430b6b2283f659dfdf8ca67"
+      },
+      "en": {
+        "display_title": "Seooreung History Walk — Session 1",
+        "summary": "2026-10-24–2026-10-24. Venue (Korean): 서오릉. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do",
+        "source_version": "sha256:df2bcec4d81badddc9311d4b5b7936ebe046bd62f430b6b2283f659dfdf8ca67"
+      },
+      "ja": {
+        "display_title": "西五陵歴史散策・第1回",
+        "summary": "2026-10-24–2026-10-24。会場（韓国語名）：서오릉。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do",
+        "source_version": "sha256:df2bcec4d81badddc9311d4b5b7936ebe046bd62f430b6b2283f659dfdf8ca67"
+      },
+      "zh-Hans": {
+        "display_title": "西五陵历史导览·第一场",
+        "summary": "2026-10-24–2026-10-24。地点（韩文名称）：서오릉。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do",
+        "source_version": "sha256:df2bcec4d81badddc9311d4b5b7936ebe046bd62f430b6b2283f659dfdf8ca67"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-8c9c2baf89a0",
+        "url": "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "어린이를 포함한2~4인가족; 10/12~10/25 18:00 게시; 행사후마감 충돌, 입장료 별도확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "2026 길 위의 인문학 – 행신",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-09-01",
+      "end_date": "2026-10-20",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:00~12:00; 추가모집 접수마감; 화요일 게재",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-e4363e6b4e4d",
+        "name_ko": "행신도서관 3층 시청각실",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+      "raw_ko": "추가모집 접수마감; 화요일 게재"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "성인"
+    },
+    "id": "mohae-goyang-e9bbba16f4173140",
+    "source_version": "sha256:c24dda4bd763f4d4514c8112e8377b7f0fba7e148247b514a8beadf0eb6831a0",
+    "onsite_languages": null,
+    "summary_ko": "성인; 추가모집 접수마감; 화요일 게재; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "2026 길 위의 인문학 – 행신",
+        "summary": "2026-09-01–2026-10-20. 행신도서관 3층 시청각실에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요. 게시된 접수는 마감되었습니다.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:c24dda4bd763f4d4514c8112e8377b7f0fba7e148247b514a8beadf0eb6831a0"
+      },
+      "en": {
+        "display_title": "Humanities on the Road — Haengsin",
+        "summary": "2026-09-01–2026-10-20. Venue (Korean): 행신도서관 3층 시청각실. Check the official notice for individual sessions and registration requirements. The listed registration period or intake is closed.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:c24dda4bd763f4d4514c8112e8377b7f0fba7e148247b514a8beadf0eb6831a0"
+      },
+      "ja": {
+        "display_title": "行信・道の上の人文学",
+        "summary": "2026-09-01–2026-10-20。会場（韓国語名）：행신도서관 3층 시청각실。各回の日程と申込条件は公式案内をご確認ください。 掲載された募集は締め切られています。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:c24dda4bd763f4d4514c8112e8377b7f0fba7e148247b514a8beadf0eb6831a0"
+      },
+      "zh-Hans": {
+        "display_title": "幸信行走的人文学",
+        "summary": "2026-09-01–2026-10-20。地点（韩文名称）：행신도서관 3층 시청각실。请通过官方通知确认各场次及报名条件。 公布的报名已截止。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:c24dda4bd763f4d4514c8112e8377b7f0fba7e148247b514a8beadf0eb6831a0"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-d8cc98bf047f",
+        "url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "성인; 추가모집 접수마감; 화요일 게재; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "도서관 어린이 농부 – 행신",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-09-05",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:00~12:00; 접수 종료; 토요일 게재, 장소별회차 미확인",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-eda9de64ab02",
+        "name_ko": "행신도서관 3층 시청각실 및 고양시 농업기술센터",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+      "raw_ko": "접수 종료; 토요일 게재, 장소별회차 미확인"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "초등1~3학년"
+    },
+    "id": "mohae-goyang-336319edbc0e7a69",
+    "source_version": "sha256:10966ef9189803c51520d81f76a90633b2d7b305d91dd37fd12c1dd48279f0d3",
+    "onsite_languages": null,
+    "summary_ko": "초등1~3학년; 접수 종료; 토요일 게재, 장소별회차 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "도서관 어린이 농부 – 행신",
+        "summary": "2026-09-05–2026-10-24. 행신도서관 3층 시청각실 및 고양시 농업기술센터에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요. 게시된 접수는 마감되었습니다.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:10966ef9189803c51520d81f76a90633b2d7b305d91dd37fd12c1dd48279f0d3"
+      },
+      "en": {
+        "display_title": "Young Library Farmers — Haengsin",
+        "summary": "2026-09-05–2026-10-24. Venue (Korean): 행신도서관 3층 시청각실 및 고양시 농업기술센터. Check the official notice for individual sessions and registration requirements. The listed registration period or intake is closed.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:10966ef9189803c51520d81f76a90633b2d7b305d91dd37fd12c1dd48279f0d3"
+      },
+      "ja": {
+        "display_title": "行信・図書館の子ども農業体験",
+        "summary": "2026-09-05–2026-10-24。会場（韓国語名）：행신도서관 3층 시청각실 및 고양시 농업기술센터。各回の日程と申込条件は公式案内をご確認ください。 掲載された募集は締め切られています。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:10966ef9189803c51520d81f76a90633b2d7b305d91dd37fd12c1dd48279f0d3"
+      },
+      "zh-Hans": {
+        "display_title": "幸信图书馆小农夫",
+        "summary": "2026-09-05–2026-10-24。地点（韩文名称）：행신도서관 3층 시청각실 및 고양시 농업기술센터。请通过官方通知确认各场次及报名条件。 公布的报名已截止。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:10966ef9189803c51520d81f76a90633b2d7b305d91dd37fd12c1dd48279f0d3"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-d8cc98bf047f",
+        "url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "초등1~3학년; 접수 종료; 토요일 게재, 장소별회차 미확인; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "문학의 숲에 사는 12동물",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "schedule": {
+      "start_date": "2026-08-20",
+      "end_date": "2026-11-19",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "14:00~17:00; 추가모집도 접수마감; 추가모집종료일11/12와본프로그램11/19상이",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "venues": [
+      {
+        "id": "venue-e4363e6b4e4d",
+        "name_ko": "행신도서관 3층 시청각실",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+      "raw_ko": "추가모집도 접수마감; 추가모집종료일11/12와본프로그램11/19상이"
+    },
+    "status": "scheduled",
+    "publication_status": "research",
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "성인"
+    },
+    "id": "mohae-goyang-9e3e61d32f90e20f",
+    "source_version": "sha256:7dd89aaf157faae64d5c29b340089f6f0ddb5d9217e22083d3de6e5b2be5cab6",
+    "onsite_languages": null,
+    "summary_ko": "성인; 추가모집도 접수마감; 추가모집종료일11/12와본프로그램11/19상이; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+    "translations": {
+      "ko": {
+        "display_title": "문학의 숲에 사는 12동물",
+        "summary": "2026-08-20–2026-11-19. 행신도서관 3층 시청각실에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요. 게시된 접수는 마감되었습니다.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:7dd89aaf157faae64d5c29b340089f6f0ddb5d9217e22083d3de6e5b2be5cab6"
+      },
+      "en": {
+        "display_title": "Twelve Animals in Literature",
+        "summary": "2026-08-20–2026-11-19. Venue (Korean): 행신도서관 3층 시청각실. Check the official notice for individual sessions and registration requirements. The listed registration period or intake is closed.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:7dd89aaf157faae64d5c29b340089f6f0ddb5d9217e22083d3de6e5b2be5cab6"
+      },
+      "ja": {
+        "display_title": "文学の森の十二の動物",
+        "summary": "2026-08-20–2026-11-19。会場（韓国語名）：행신도서관 3층 시청각실。各回の日程と申込条件は公式案内をご確認ください。 掲載された募集は締め切られています。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:7dd89aaf157faae64d5c29b340089f6f0ddb5d9217e22083d3de6e5b2be5cab6"
+      },
+      "zh-Hans": {
+        "display_title": "文学森林中的十二种动物",
+        "summary": "2026-08-20–2026-11-19。地点（韩文名称）：행신도서관 3층 시청각실。请通过官方通知确认各场次及报名条件。 公布的报名已截止。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "source_version": "sha256:7dd89aaf157faae64d5c29b340089f6f0ddb5d9217e22083d3de6e5b2be5cab6"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:20:55+09:00",
+    "evidence": [
+      {
+        "source_id": "source-d8cc98bf047f",
+        "url": "https://www.goyanglib.or.kr/MB/program/lectureList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:20:55+09:00",
+        "note_ko": "성인; 추가모집도 접수마감; 추가모집종료일11/12와본프로그램11/19상이; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외."
+      }
+    ]
+  },
+  {
+    "title_ko": "레이저각인 장비 활용 교육",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-28 10:00~11:30",
+      "sessions": [
+        {
+          "start": "2026-10-28T10:00:00+09:00",
+          "end": "2026-10-28T11:30:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-3203b8921f96",
+        "name_ko": "대화도서관 1층 메이커스페이스",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "목록 무료표기, 추가재료비 상세미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "9/22~10/25 18:00"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "14세 이상"
+    },
+    "id": "mohae-goyang-541b189b3e2069c9",
+    "source_version": "sha256:8ea44e4b174669bfd158541e1437de5ed699aeebd307b38b5a8953b476249be6",
+    "onsite_languages": null,
+    "summary_ko": "14세 이상; 9/22~10/25 18:00; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "레이저각인 장비 활용 교육",
+        "summary": "2026-10-28–2026-10-28. 대화도서관 1층 메이커스페이스에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:8ea44e4b174669bfd158541e1437de5ed699aeebd307b38b5a8953b476249be6"
+      },
+      "en": {
+        "display_title": "Laser Engraving Equipment Training",
+        "summary": "2026-10-28–2026-10-28. Venue (Korean): 대화도서관 1층 메이커스페이스. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:8ea44e4b174669bfd158541e1437de5ed699aeebd307b38b5a8953b476249be6"
+      },
+      "ja": {
+        "display_title": "レーザー刻印機の使い方",
+        "summary": "2026-10-28–2026-10-28。会場（韓国語名）：대화도서관 1층 메이커스페이스。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:8ea44e4b174669bfd158541e1437de5ed699aeebd307b38b5a8953b476249be6"
+      },
+      "zh-Hans": {
+        "display_title": "激光雕刻设备培训",
+        "summary": "2026-10-28–2026-10-28。地点（韩文名称）：대화도서관 1층 메이커스페이스。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:8ea44e4b174669bfd158541e1437de5ed699aeebd307b38b5a8953b476249be6"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "14세 이상; 9/22~10/25 18:00; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "title_ko": "승화전사 평판프레스 장비 활용 교육",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-21 10:00~11:30",
+      "sessions": [
+        {
+          "start": "2026-10-21T10:00:00+09:00",
+          "end": "2026-10-21T11:30:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-3203b8921f96",
+        "name_ko": "대화도서관 1층 메이커스페이스",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "목록 무료표기, 추가재료비 상세미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "9/22~10/18 18:00"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "14세 이상"
+    },
+    "id": "mohae-goyang-ae8f94647d82f591",
+    "source_version": "sha256:0cefa489f2ad2b2b4dbbba616379508b311eda515cf819984df1b989c4a0c9b7",
+    "onsite_languages": null,
+    "summary_ko": "14세 이상; 9/22~10/18 18:00; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "승화전사 평판프레스 장비 활용 교육",
+        "summary": "2026-10-21–2026-10-21. 대화도서관 1층 메이커스페이스에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:0cefa489f2ad2b2b4dbbba616379508b311eda515cf819984df1b989c4a0c9b7"
+      },
+      "en": {
+        "display_title": "Sublimation Heat Press Training",
+        "summary": "2026-10-21–2026-10-21. Venue (Korean): 대화도서관 1층 메이커스페이스. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:0cefa489f2ad2b2b4dbbba616379508b311eda515cf819984df1b989c4a0c9b7"
+      },
+      "ja": {
+        "display_title": "昇華転写プレス機の使い方",
+        "summary": "2026-10-21–2026-10-21。会場（韓国語名）：대화도서관 1층 메이커스페이스。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:0cefa489f2ad2b2b4dbbba616379508b311eda515cf819984df1b989c4a0c9b7"
+      },
+      "zh-Hans": {
+        "display_title": "热升华平板压烫机培训",
+        "summary": "2026-10-21–2026-10-21。地点（韩文名称）：대화도서관 1층 메이커스페이스。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:0cefa489f2ad2b2b4dbbba616379508b311eda515cf819984df1b989c4a0c9b7"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "14세 이상; 9/22~10/18 18:00; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "title_ko": "AI 독서 탐험대",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-17",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-10,2026-10-17 14:00~16:00",
+      "sessions": [
+        {
+          "start": "2026-10-10T14:00:00+09:00",
+          "end": "2026-10-10T16:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-17T14:00:00+09:00",
+          "end": "2026-10-17T16:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-3203b8921f96",
+        "name_ko": "대화도서관 1층 메이커스페이스",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "목록 무료표기, 추가재료비 상세미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "9/16~10/8 17:00; 접수기간 종료"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "12~13세(초등5~6),10/10·17 모두 참석"
+    },
+    "id": "mohae-goyang-711ca15cbeaeff73",
+    "source_version": "sha256:7a25f61d14addd802151431d8a7a321452212279b2b7786891665c4ba16cb529",
+    "onsite_languages": null,
+    "summary_ko": "12~13세(초등5~6),10/10·17 모두 참석; 9/16~10/8 17:00; 접수기간 종료; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "AI 독서 탐험대",
+        "summary": "2026-10-10–2026-10-17. 대화도서관 1층 메이커스페이스에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요. 게시된 접수는 마감되었습니다.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:7a25f61d14addd802151431d8a7a321452212279b2b7786891665c4ba16cb529"
+      },
+      "en": {
+        "display_title": "AI Reading Explorers",
+        "summary": "2026-10-10–2026-10-17. Venue (Korean): 대화도서관 1층 메이커스페이스. Check the official notice for individual sessions and registration requirements. The listed registration period or intake is closed.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:7a25f61d14addd802151431d8a7a321452212279b2b7786891665c4ba16cb529"
+      },
+      "ja": {
+        "display_title": "AI読書探検隊",
+        "summary": "2026-10-10–2026-10-17。会場（韓国語名）：대화도서관 1층 메이커스페이스。各回の日程と申込条件は公式案内をご確認ください。 掲載された募集は締め切られています。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:7a25f61d14addd802151431d8a7a321452212279b2b7786891665c4ba16cb529"
+      },
+      "zh-Hans": {
+        "display_title": "AI阅读探险队",
+        "summary": "2026-10-10–2026-10-17。地点（韩文名称）：대화도서관 1층 메이커스페이스。请通过官方通知确认各场次及报名条件。 公布的报名已截止。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:7a25f61d14addd802151431d8a7a321452212279b2b7786891665c4ba16cb529"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "12~13세(초등5~6),10/10·17 모두 참석; 9/16~10/8 17:00; 접수기간 종료; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "title_ko": "생성형 AI 승화전사 머그컵 만들기",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-31 10:00~12:00",
+      "sessions": [
+        {
+          "start": "2026-10-31T10:00:00+09:00",
+          "end": "2026-10-31T12:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-3203b8921f96",
+        "name_ko": "대화도서관 1층 메이커스페이스",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "목록 무료표기, 추가재료비 상세미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "9/22~10/28 17:00; 대기자접수 표기"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "10세 이상"
+    },
+    "id": "mohae-goyang-0b8855ee1f1fc500",
+    "source_version": "sha256:1bed352855ea4455dddef2d7136684302a89a4a674f9ab08dc7da2bb7238df0e",
+    "onsite_languages": null,
+    "summary_ko": "10세 이상; 9/22~10/28 17:00; 대기자접수 표기; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "생성형 AI 승화전사 머그컵 만들기",
+        "summary": "2026-10-31–2026-10-31. 대화도서관 1층 메이커스페이스에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:1bed352855ea4455dddef2d7136684302a89a4a674f9ab08dc7da2bb7238df0e"
+      },
+      "en": {
+        "display_title": "AI Sublimation Mug Workshop",
+        "summary": "2026-10-31–2026-10-31. Venue (Korean): 대화도서관 1층 메이커스페이스. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:1bed352855ea4455dddef2d7136684302a89a4a674f9ab08dc7da2bb7238df0e"
+      },
+      "ja": {
+        "display_title": "生成AIで昇華転写マグカップ作り",
+        "summary": "2026-10-31–2026-10-31。会場（韓国語名）：대화도서관 1층 메이커스페이스。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:1bed352855ea4455dddef2d7136684302a89a4a674f9ab08dc7da2bb7238df0e"
+      },
+      "zh-Hans": {
+        "display_title": "生成式AI热升华马克杯制作",
+        "summary": "2026-10-31–2026-10-31。地点（韩文名称）：대화도서관 1층 메이커스페이스。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:1bed352855ea4455dddef2d7136684302a89a4a674f9ab08dc7da2bb7238df0e"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "10세 이상; 9/22~10/28 17:00; 대기자접수 표기; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "title_ko": "AI로 쉽게 시작하는 3D프린터 모델링",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-24 10:00~12:00",
+      "sessions": [
+        {
+          "start": "2026-10-24T10:00:00+09:00",
+          "end": "2026-10-24T12:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-3203b8921f96",
+        "name_ko": "대화도서관 1층 메이커스페이스",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "목록 무료표기, 추가재료비 상세미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "9/22~10/21 17:00; 대기자접수 표기"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "10세 이상"
+    },
+    "id": "mohae-goyang-21e0a239957109b3",
+    "source_version": "sha256:7834140313deac9e4ca5c0041090bbb31e4a9e635246d116c2c3aea654c934e2",
+    "onsite_languages": null,
+    "summary_ko": "10세 이상; 9/22~10/21 17:00; 대기자접수 표기; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "AI로 쉽게 시작하는 3D프린터 모델링",
+        "summary": "2026-10-24–2026-10-24. 대화도서관 1층 메이커스페이스에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:7834140313deac9e4ca5c0041090bbb31e4a9e635246d116c2c3aea654c934e2"
+      },
+      "en": {
+        "display_title": "3D Printer Modeling with AI",
+        "summary": "2026-10-24–2026-10-24. Venue (Korean): 대화도서관 1층 메이커스페이스. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:7834140313deac9e4ca5c0041090bbb31e4a9e635246d116c2c3aea654c934e2"
+      },
+      "ja": {
+        "display_title": "AIで始める3Dプリンターモデリング",
+        "summary": "2026-10-24–2026-10-24。会場（韓国語名）：대화도서관 1층 메이커스페이스。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:7834140313deac9e4ca5c0041090bbb31e4a9e635246d116c2c3aea654c934e2"
+      },
+      "zh-Hans": {
+        "display_title": "AI辅助3D打印建模",
+        "summary": "2026-10-24–2026-10-24。地点（韩文名称）：대화도서관 1층 메이커스페이스。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:7834140313deac9e4ca5c0041090bbb31e4a9e635246d116c2c3aea654c934e2"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "10세 이상; 9/22~10/21 17:00; 대기자접수 표기; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "title_ko": "업사이클링 양말목 수납 바구니 만들기",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-20 10:00~12:00",
+      "sessions": [
+        {
+          "start": "2026-10-20T10:00:00+09:00",
+          "end": "2026-10-20T12:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-3203b8921f96",
+        "name_ko": "대화도서관 1층 메이커스페이스",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "목록 무료표기, 추가재료비 상세미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "9/22~10/17 17:00; 대기자접수 표기"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "14세 이상"
+    },
+    "id": "mohae-goyang-ffdf164aa4bfab92",
+    "source_version": "sha256:b5305be740925804dad36e12e61023d2a7107a7434bc073bd13931471cf1a4d6",
+    "onsite_languages": null,
+    "summary_ko": "14세 이상; 9/22~10/17 17:00; 대기자접수 표기; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "업사이클링 양말목 수납 바구니 만들기",
+        "summary": "2026-10-20–2026-10-20. 대화도서관 1층 메이커스페이스에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:b5305be740925804dad36e12e61023d2a7107a7434bc073bd13931471cf1a4d6"
+      },
+      "en": {
+        "display_title": "Upcycled Fabric Basket Workshop",
+        "summary": "2026-10-20–2026-10-20. Venue (Korean): 대화도서관 1층 메이커스페이스. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:b5305be740925804dad36e12e61023d2a7107a7434bc073bd13931471cf1a4d6"
+      },
+      "ja": {
+        "display_title": "アップサイクル布かご作り",
+        "summary": "2026-10-20–2026-10-20。会場（韓国語名）：대화도서관 1층 메이커스페이스。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:b5305be740925804dad36e12e61023d2a7107a7434bc073bd13931471cf1a4d6"
+      },
+      "zh-Hans": {
+        "display_title": "升级再造布条收纳篮",
+        "summary": "2026-10-20–2026-10-20。地点（韩文名称）：대화도서관 1층 메이커스페이스。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:b5305be740925804dad36e12e61023d2a7107a7434bc073bd13931471cf1a4d6"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "14세 이상; 9/22~10/17 17:00; 대기자접수 표기; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "title_ko": "유니맷 스카시톱 컵받침 만들기",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-14 10:00~11:30",
+      "sessions": [
+        {
+          "start": "2026-10-14T10:00:00+09:00",
+          "end": "2026-10-14T11:30:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-3203b8921f96",
+        "name_ko": "대화도서관 1층 메이커스페이스",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": null,
+      "max": null,
+      "raw_ko": "유료, 금액 미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "10/1~10/12 18:00; 금액 미확인"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "14세 이상"
+    },
+    "id": "mohae-goyang-c833ee66c8f80b3a",
+    "source_version": "sha256:067605cec1a96e7fe30c55a71bd306e02232ea4d6a3e14d883cac78475431d1f",
+    "onsite_languages": null,
+    "summary_ko": "14세 이상; 10/1~10/12 18:00; 금액 미확인; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "유니맷 스카시톱 컵받침 만들기",
+        "summary": "2026-10-14–2026-10-14. 대화도서관 1층 메이커스페이스에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:067605cec1a96e7fe30c55a71bd306e02232ea4d6a3e14d883cac78475431d1f"
+      },
+      "en": {
+        "display_title": "Scroll Saw Coaster Workshop",
+        "summary": "2026-10-14–2026-10-14. Venue (Korean): 대화도서관 1층 메이커스페이스. Check the official notice for individual sessions and registration requirements.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:067605cec1a96e7fe30c55a71bd306e02232ea4d6a3e14d883cac78475431d1f"
+      },
+      "ja": {
+        "display_title": "糸のこ盤でコースター作り",
+        "summary": "2026-10-14–2026-10-14。会場（韓国語名）：대화도서관 1층 메이커스페이스。各回の日程と申込条件は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:067605cec1a96e7fe30c55a71bd306e02232ea4d6a3e14d883cac78475431d1f"
+      },
+      "zh-Hans": {
+        "display_title": "线锯杯垫制作",
+        "summary": "2026-10-14–2026-10-14。地点（韩文名称）：대화도서관 1층 메이커스페이스。请通过官方通知确认各场次及报名条件。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:067605cec1a96e7fe30c55a71bd306e02232ea4d6a3e14d883cac78475431d1f"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "14세 이상; 10/1~10/12 18:00; 금액 미확인; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "title_ko": "현직 작가에게 배우는 웹툰 입문",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-31 14:00~16:00",
+      "sessions": [
+        {
+          "start": "2026-10-31T14:00:00+09:00",
+          "end": "2026-10-31T16:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-2d553674ed5e",
+        "name_ko": "대화도서관 4층 메이커스페이스 교육장",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "목록 무료표기, 추가재료비 상세미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "접수마감"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "10세 이상"
+    },
+    "id": "mohae-goyang-a7bf36786a1a45ed",
+    "source_version": "sha256:9c6ff938c5747fef3af0bf3f024b34ad2ff3c27e6d39a732f305940cd780c2e7",
+    "onsite_languages": null,
+    "summary_ko": "10세 이상; 접수마감; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "현직 작가에게 배우는 웹툰 입문",
+        "summary": "2026-10-31–2026-10-31. 대화도서관 4층 메이커스페이스 교육장에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요. 게시된 접수는 마감되었습니다.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:9c6ff938c5747fef3af0bf3f024b34ad2ff3c27e6d39a732f305940cd780c2e7"
+      },
+      "en": {
+        "display_title": "Introduction to Webtoons",
+        "summary": "2026-10-31–2026-10-31. Venue (Korean): 대화도서관 4층 메이커스페이스 교육장. Check the official notice for individual sessions and registration requirements. The listed registration period or intake is closed.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:9c6ff938c5747fef3af0bf3f024b34ad2ff3c27e6d39a732f305940cd780c2e7"
+      },
+      "ja": {
+        "display_title": "作家に学ぶウェブトゥーン入門",
+        "summary": "2026-10-31–2026-10-31。会場（韓国語名）：대화도서관 4층 메이커스페이스 교육장。各回の日程と申込条件は公式案内をご確認ください。 掲載された募集は締め切られています。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:9c6ff938c5747fef3af0bf3f024b34ad2ff3c27e6d39a732f305940cd780c2e7"
+      },
+      "zh-Hans": {
+        "display_title": "职业漫画家的网漫入门课",
+        "summary": "2026-10-31–2026-10-31。地点（韩文名称）：대화도서관 4층 메이커스페이스 교육장。请通过官方通知确认各场次及报名条件。 公布的报名已截止。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:9c6ff938c5747fef3af0bf3f024b34ad2ff3c27e6d39a732f305940cd780c2e7"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "10세 이상; 접수마감; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "title_ko": "가족 드론 미션 챌린지",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "status": "scheduled",
+    "publication_status": "research",
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "2026-10-24 14:00~16:00",
+      "sessions": [
+        {
+          "start": "2026-10-24T14:00:00+09:00",
+          "end": "2026-10-24T16:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "venues": [
+      {
+        "id": "venue-3203b8921f96",
+        "name_ko": "대화도서관 1층 메이커스페이스",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "목록 무료표기, 추가재료비 상세미확인"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "raw_ko": "접수마감"
+    },
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "10세 이상,1가족2인 각각 신청"
+    },
+    "id": "mohae-goyang-dd5aa0d73fbd1bc5",
+    "source_version": "sha256:d6fdab351b00bd88d19c31591463c42ae6776c16a3119d374299ae45723f88a7",
+    "onsite_languages": null,
+    "summary_ko": "10세 이상,1가족2인 각각 신청; 접수마감; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님.",
+    "translations": {
+      "ko": {
+        "display_title": "가족 드론 미션 챌린지",
+        "summary": "2026-10-24–2026-10-24. 대화도서관 1층 메이커스페이스에서 진행하는 프로그램. 정확한 회차와 신청 조건은 공식 안내를 확인하세요. 게시된 접수는 마감되었습니다.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:d6fdab351b00bd88d19c31591463c42ae6776c16a3119d374299ae45723f88a7"
+      },
+      "en": {
+        "display_title": "Family Drone Mission Challenge",
+        "summary": "2026-10-24–2026-10-24. Venue (Korean): 대화도서관 1층 메이커스페이스. Check the official notice for individual sessions and registration requirements. The listed registration period or intake is closed.",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:d6fdab351b00bd88d19c31591463c42ae6776c16a3119d374299ae45723f88a7"
+      },
+      "ja": {
+        "display_title": "家族ドローンミッション",
+        "summary": "2026-10-24–2026-10-24。会場（韓国語名）：대화도서관 1층 메이커스페이스。各回の日程と申込条件は公式案内をご確認ください。 掲載された募集は締め切られています。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:d6fdab351b00bd88d19c31591463c42ae6776c16a3119d374299ae45723f88a7"
+      },
+      "zh-Hans": {
+        "display_title": "家庭无人机任务挑战",
+        "summary": "2026-10-24–2026-10-24。地点（韩文名称）：대화도서관 1층 메이커스페이스。请通过官方通知确认各场次及报名条件。 公布的报名已截止。",
+        "status": "ai_draft",
+        "published": false,
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "source_version": "sha256:d6fdab351b00bd88d19c31591463c42ae6776c16a3119d374299ae45723f88a7"
+      }
+    },
+    "last_verified_at": "2026-10-09T20:24:00+09:00",
+    "evidence": [
+      {
+        "source_id": "source-c2b1c899b2bc",
+        "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "fields": [
+          "dates",
+          "hours",
+          "venue",
+          "fee",
+          "conditions"
+        ],
+        "checked_at": "2026-10-09T20:24:00+09:00",
+        "note_ko": "10세 이상,1가족2인 각각 신청; 접수마감; 지난주 수집 공식 목록의 재열람. 실시간 접수상태 아님."
+      }
+    ]
+  },
+  {
+    "id": "mohae-goyang-4a796647a68417b8",
+    "title_ko": "윤별발레컴퍼니 카르멘",
+    "summary_ko": "고양아람누리 아람극장에서 열리는 윤별발레컴퍼니 카르멘. 2026-10-10~2026-10-11. R7만/S5만/A3만원.12세이상(초등5학년미만불가).95분(인터미션15분 표기). 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-6c24bb68cbad",
+        "name_ko": "고양아람누리 아람극장",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "R7만/S5만/A3만원.12세이상(초등5학년미만불가).95분(인터미션15분 표기).",
+      "sessions": [
+        {
+          "start": "2026-10-10T19:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-11T17:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 30000,
+      "max": 70000,
+      "raw_ko": "R7만/S5만/A3만원.12세이상(초등5학년미만불가).95분(인터미션15분 표기)."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008384",
+      "raw_ko": "R7만/S5만/A3만원.12세이상(초등5학년미만불가).95분(인터미션15분 표기). 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "R7만/S5만/A3만원.12세이상(초등5학년미만불가).95분(인터미션15분 표기). 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-5f445c51499d",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008384",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:0ef0072c74214b870efa37556d1a06e7fca6d5546d0b317652c113388d6364db",
+    "translations": {
+      "ko": {
+        "display_title": "윤별발레컴퍼니 카르멘",
+        "summary": "고양아람누리 아람극장에서 열리는 윤별발레컴퍼니 카르멘. 2026-10-10~2026-10-11. R7만/S5만/A3만원.12세이상(초등5학년미만불가).95분(인터미션15분 표기). 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:0ef0072c74214b870efa37556d1a06e7fca6d5546d0b317652c113388d6364db",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Yoonbyul Ballet Company: Carmen",
+        "summary": "Dates: 2026-10-10 – 2026-10-11. Venue (Korean): 고양아람누리 아람극장. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:0ef0072c74214b870efa37556d1a06e7fca6d5546d0b317652c113388d6364db",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "ユンビョル・バレエ「カルメン」",
+        "summary": "開催日：2026-10-10～2026-10-11。会場（韓国語）：고양아람누리 아람극장。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:0ef0072c74214b870efa37556d1a06e7fca6d5546d0b317652c113388d6364db",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "Yoonbyul芭蕾舞团《卡门》",
+        "summary": "日期：2026-10-10至2026-10-11。地点（韩文）：고양아람누리 아람극장。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:0ef0072c74214b870efa37556d1a06e7fca6d5546d0b317652c113388d6364db",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-4e5941b0f66fd871",
+    "title_ko": "고양시남성합창단 33회 정기연주회",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 고양시남성합창단 33회 정기연주회. 2026-10-18~2026-10-18. 100분,6세이상.전석기획사문의.티켓오픈준비중 표기,잔여미확인. 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "100분,6세이상.전석기획사문의.티켓오픈준비중 표기,잔여미확인.",
+      "sessions": [
+        {
+          "start": "2026-10-18T19:30:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008454",
+      "raw_ko": "100분,6세이상.전석기획사문의.티켓오픈준비중 표기,잔여미확인. 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "100분,6세이상.전석기획사문의.티켓오픈준비중 표기,잔여미확인. 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-0e09e3645574",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008454",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:81044d3770951cb788ff5e72ff7d43138cb8a54e7a2e7c6389193d564078c0ba",
+    "translations": {
+      "ko": {
+        "display_title": "고양시남성합창단 33회 정기연주회",
+        "summary": "고양아람누리 아람음악당에서 열리는 고양시남성합창단 33회 정기연주회. 2026-10-18~2026-10-18. 100분,6세이상.전석기획사문의.티켓오픈준비중 표기,잔여미확인. 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:81044d3770951cb788ff5e72ff7d43138cb8a54e7a2e7c6389193d564078c0ba",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Goyang Men’s Choir: 33rd Concert",
+        "summary": "Dates: 2026-10-18 – 2026-10-18. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:81044d3770951cb788ff5e72ff7d43138cb8a54e7a2e7c6389193d564078c0ba",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "高陽市男声合唱団 第33回演奏会",
+        "summary": "開催日：2026-10-18～2026-10-18。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:81044d3770951cb788ff5e72ff7d43138cb8a54e7a2e7c6389193d564078c0ba",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "高阳市男声合唱团第33届音乐会",
+        "summary": "日期：2026-10-18至2026-10-18。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:81044d3770951cb788ff5e72ff7d43138cb8a54e7a2e7c6389193d564078c0ba",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-78e41373d42df54a",
+    "title_ko": "고양시립합창단 제85회 정기연주회",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 고양시립합창단 제85회 정기연주회. 2026-10-22~2026-10-22. R15,000/S10,000/A5,000원.초등학생이상.1부40분2부45분으로 휴식시간미기재. 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "R15,000/S10,000/A5,000원.초등학생이상.1부40분2부45분으로 휴식시간미기재.",
+      "sessions": [
+        {
+          "start": "2026-10-22T19:30:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 5000,
+      "max": 15000,
+      "raw_ko": "R15,000/S10,000/A5,000원.초등학생이상.1부40분2부45분으로 휴식시간미기재."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008445",
+      "raw_ko": "R15,000/S10,000/A5,000원.초등학생이상.1부40분2부45분으로 휴식시간미기재. 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "R15,000/S10,000/A5,000원.초등학생이상.1부40분2부45분으로 휴식시간미기재. 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-f37dd726a2df",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008445",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:7016aafade89237b9bec83eda391d9b0a2bfac99288c64b722dda3c198ce7cbd",
+    "translations": {
+      "ko": {
+        "display_title": "고양시립합창단 제85회 정기연주회",
+        "summary": "고양아람누리 아람음악당에서 열리는 고양시립합창단 제85회 정기연주회. 2026-10-22~2026-10-22. R15,000/S10,000/A5,000원.초등학생이상.1부40분2부45분으로 휴식시간미기재. 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:7016aafade89237b9bec83eda391d9b0a2bfac99288c64b722dda3c198ce7cbd",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Goyang Civic Choir: 85th Concert",
+        "summary": "Dates: 2026-10-22 – 2026-10-22. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:7016aafade89237b9bec83eda391d9b0a2bfac99288c64b722dda3c198ce7cbd",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "高陽市立合唱団 第85回演奏会",
+        "summary": "開催日：2026-10-22～2026-10-22。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:7016aafade89237b9bec83eda391d9b0a2bfac99288c64b722dda3c198ce7cbd",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "高阳市立合唱团第85届音乐会",
+        "summary": "日期：2026-10-22至2026-10-22。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:7016aafade89237b9bec83eda391d9b0a2bfac99288c64b722dda3c198ce7cbd",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-1411ba6feadff549",
+    "title_ko": "2026 윤종신 전국투어콘서트 가을냄새 고양",
+    "summary_ko": "고양아람누리 아람극장에서 열리는 2026 윤종신 전국투어콘서트 가을냄새 고양. 2026-10-24~2026-10-24. VIP154,000/R143,000/S132,000/A110,000/B88,000원.120분,초등학생이상,ID당8매. 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-6c24bb68cbad",
+        "name_ko": "고양아람누리 아람극장",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "VIP154,000/R143,000/S132,000/A110,000/B88,000원.120분,초등학생이상,ID당8매.",
+      "sessions": [
+        {
+          "start": "2026-10-24T17:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 88000,
+      "max": 154000,
+      "raw_ko": "VIP154,000/R143,000/S132,000/A110,000/B88,000원.120분,초등학생이상,ID당8매."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008415",
+      "raw_ko": "VIP154,000/R143,000/S132,000/A110,000/B88,000원.120분,초등학생이상,ID당8매. 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "VIP154,000/R143,000/S132,000/A110,000/B88,000원.120분,초등학생이상,ID당8매. 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-6ab223c15ad6",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008415",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:0fd0718cc969125009cddf077e772373420fd523d018c7cdd0b62e012ec60e92",
+    "translations": {
+      "ko": {
+        "display_title": "2026 윤종신 전국투어콘서트 가을냄새 고양",
+        "summary": "고양아람누리 아람극장에서 열리는 2026 윤종신 전국투어콘서트 가을냄새 고양. 2026-10-24~2026-10-24. VIP154,000/R143,000/S132,000/A110,000/B88,000원.120분,초등학생이상,ID당8매. 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:0fd0718cc969125009cddf077e772373420fd523d018c7cdd0b62e012ec60e92",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Yoon Jong-shin: Scent of Autumn — Goyang",
+        "summary": "Dates: 2026-10-24 – 2026-10-24. Venue (Korean): 고양아람누리 아람극장. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:0fd0718cc969125009cddf077e772373420fd523d018c7cdd0b62e012ec60e92",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "ユン・ジョンシン「秋の香り」高陽",
+        "summary": "開催日：2026-10-24～2026-10-24。会場（韓国語）：고양아람누리 아람극장。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:0fd0718cc969125009cddf077e772373420fd523d018c7cdd0b62e012ec60e92",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "尹钟信《秋日气息》高阳演唱会",
+        "summary": "日期：2026-10-24至2026-10-24。地点（韩文）：고양아람누리 아람극장。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:0fd0718cc969125009cddf077e772373420fd523d018c7cdd0b62e012ec60e92",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-41b1aa4286a379af",
+    "title_ko": "2026 아람 클래식 비킹구르 올라프손 피아노 리사이틀",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 2026 아람 클래식 비킹구르 올라프손 피아노 리사이틀. 2026-10-29~2026-10-29. R10만/S8만/A6만/B4만원.초등학생이상.관람시간100 표기. 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "R10만/S8만/A6만/B4만원.초등학생이상.관람시간100 표기.",
+      "sessions": [
+        {
+          "start": "2026-10-29T20:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 40000,
+      "max": 100000,
+      "raw_ko": "R10만/S8만/A6만/B4만원.초등학생이상.관람시간100 표기."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008391",
+      "raw_ko": "R10만/S8만/A6만/B4만원.초등학생이상.관람시간100 표기. 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "R10만/S8만/A6만/B4만원.초등학생이상.관람시간100 표기. 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-bdf2d0eaf8c8",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008391",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:1254742be7e257371e5c75c4d15f42a4b053e79d8681cfa30a0d9b78496f7539",
+    "translations": {
+      "ko": {
+        "display_title": "2026 아람 클래식 비킹구르 올라프손 피아노 리사이틀",
+        "summary": "고양아람누리 아람음악당에서 열리는 2026 아람 클래식 비킹구르 올라프손 피아노 리사이틀. 2026-10-29~2026-10-29. R10만/S8만/A6만/B4만원.초등학생이상.관람시간100 표기. 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:1254742be7e257371e5c75c4d15f42a4b053e79d8681cfa30a0d9b78496f7539",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Víkingur Ólafsson Piano Recital",
+        "summary": "Dates: 2026-10-29 – 2026-10-29. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:1254742be7e257371e5c75c4d15f42a4b053e79d8681cfa30a0d9b78496f7539",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "ヴィキングル・オラフソン ピアノリサイタル",
+        "summary": "開催日：2026-10-29～2026-10-29。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:1254742be7e257371e5c75c4d15f42a4b053e79d8681cfa30a0d9b78496f7539",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "维京格·奥拉夫松钢琴独奏会",
+        "summary": "日期：2026-10-29至2026-10-29。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:1254742be7e257371e5c75c4d15f42a4b053e79d8681cfa30a0d9b78496f7539",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-475107bf9c0e5d01",
+    "title_ko": "류이치 사카모토 트리뷰트 콘서트",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 류이치 사카모토 트리뷰트 콘서트. 2026-10-31~2026-10-31. R66,000/S44,000원.120분,초등학생이상. 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "R66,000/S44,000원.120분,초등학생이상.",
+      "sessions": [
+        {
+          "start": "2026-10-31T18:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 44000,
+      "max": 66000,
+      "raw_ko": "R66,000/S44,000원.120분,초등학생이상."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008270",
+      "raw_ko": "R66,000/S44,000원.120분,초등학생이상. 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "R66,000/S44,000원.120분,초등학생이상. 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-2d878dbc8ae5",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008270",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:23d1ea69c98f8e65da2e61a553adeee366e30e19202e315193c1946cc8217482",
+    "translations": {
+      "ko": {
+        "display_title": "류이치 사카모토 트리뷰트 콘서트",
+        "summary": "고양아람누리 아람음악당에서 열리는 류이치 사카모토 트리뷰트 콘서트. 2026-10-31~2026-10-31. R66,000/S44,000원.120분,초등학생이상. 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:23d1ea69c98f8e65da2e61a553adeee366e30e19202e315193c1946cc8217482",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Ryuichi Sakamoto Tribute Concert",
+        "summary": "Dates: 2026-10-31 – 2026-10-31. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:23d1ea69c98f8e65da2e61a553adeee366e30e19202e315193c1946cc8217482",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "坂本龍一トリビュート・コンサート",
+        "summary": "開催日：2026-10-31～2026-10-31。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:23d1ea69c98f8e65da2e61a553adeee366e30e19202e315193c1946cc8217482",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "坂本龙一致敬音乐会",
+        "summary": "日期：2026-10-31至2026-10-31。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:23d1ea69c98f8e65da2e61a553adeee366e30e19202e315193c1946cc8217482",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-a8a09e2826b81408",
+    "title_ko": "2026 고양시민을 위한 Orchestra + Ukulele 콜라보",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 2026 고양시민을 위한 Orchestra + Ukulele 콜라보. 2026-11-05~2026-11-05. R20,000/S10,000원.100분,만5세이상. 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "R20,000/S10,000원.100분,만5세이상.",
+      "sessions": [
+        {
+          "start": "2026-11-05T19:30:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 10000,
+      "max": 20000,
+      "raw_ko": "R20,000/S10,000원.100분,만5세이상."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008397",
+      "raw_ko": "R20,000/S10,000원.100분,만5세이상. 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "R20,000/S10,000원.100분,만5세이상. 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-1ccc2ac29a06",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008397",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:23bbfa237188f14f9c1441812d32cbdf458e895183e42e9f1ac3ad07e4080285",
+    "translations": {
+      "ko": {
+        "display_title": "2026 고양시민을 위한 Orchestra + Ukulele 콜라보",
+        "summary": "고양아람누리 아람음악당에서 열리는 2026 고양시민을 위한 Orchestra + Ukulele 콜라보. 2026-11-05~2026-11-05. R20,000/S10,000원.100분,만5세이상. 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:23bbfa237188f14f9c1441812d32cbdf458e895183e42e9f1ac3ad07e4080285",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Orchestra + Ukulele for Goyang Citizens",
+        "summary": "Dates: 2026-11-05 – 2026-11-05. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:23bbfa237188f14f9c1441812d32cbdf458e895183e42e9f1ac3ad07e4080285",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "高陽市民のためのオーケストラ＋ウクレレ",
+        "summary": "開催日：2026-11-05～2026-11-05。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:23bbfa237188f14f9c1441812d32cbdf458e895183e42e9f1ac3ad07e4080285",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "高阳市民管弦乐与尤克里里合作音乐会",
+        "summary": "日期：2026-11-05至2026-11-05。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:23bbfa237188f14f9c1441812d32cbdf458e895183e42e9f1ac3ad07e4080285",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-50900a2a4a643a37",
+    "title_ko": "DMZ OPEN 국제음악제 Pulse - 시작의 박동",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 DMZ OPEN 국제음악제 Pulse - 시작의 박동. 2026-10-23~2026-10-23. R3만/S2만/A1만원.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "R3만/S2만/A1만원.110분,초등학생이상(2019년포함이전출생).",
+      "sessions": [
+        {
+          "start": "2026-10-23T19:30:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 10000,
+      "max": 30000,
+      "raw_ko": "R3만/S2만/A1만원.110분,초등학생이상(2019년포함이전출생)."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008462",
+      "raw_ko": "R3만/S2만/A1만원.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "R3만/S2만/A1만원.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-b9876e06a637",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008462",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:fd24bba835b5c756434df63708a47ec59f81f284511f8a64d0e4f9fc0fa03847",
+    "translations": {
+      "ko": {
+        "display_title": "DMZ OPEN 국제음악제 Pulse - 시작의 박동",
+        "summary": "고양아람누리 아람음악당에서 열리는 DMZ OPEN 국제음악제 Pulse - 시작의 박동. 2026-10-23~2026-10-23. R3만/S2만/A1만원.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:fd24bba835b5c756434df63708a47ec59f81f284511f8a64d0e4f9fc0fa03847",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "DMZ OPEN: Pulse",
+        "summary": "Dates: 2026-10-23 – 2026-10-23. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:fd24bba835b5c756434df63708a47ec59f81f284511f8a64d0e4f9fc0fa03847",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "DMZ OPEN「Pulse」",
+        "summary": "開催日：2026-10-23～2026-10-23。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:fd24bba835b5c756434df63708a47ec59f81f284511f8a64d0e4f9fc0fa03847",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "DMZ OPEN《Pulse》",
+        "summary": "日期：2026-10-23至2026-10-23。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:fd24bba835b5c756434df63708a47ec59f81f284511f8a64d0e4f9fc0fa03847",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "DMZ OPEN 국제음악제"
+  },
+  {
+    "id": "mohae-goyang-513d7f4f601514a4",
+    "title_ko": "DMZ OPEN 국제음악제 Awaken - 깨어나는 평화",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 DMZ OPEN 국제음악제 Awaken - 깨어나는 평화. 2026-10-24~2026-10-24. 전석1만원.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "전석1만원.110분,초등학생이상(2019년포함이전출생).",
+      "sessions": [
+        {
+          "start": "2026-10-24T11:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 10000,
+      "max": 10000,
+      "raw_ko": "전석1만원.110분,초등학생이상(2019년포함이전출생)."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008463",
+      "raw_ko": "전석1만원.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "전석1만원.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-e09dd6dfd5e7",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008463",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:ed44392e5160c9e112420bbb88a82317e6ac68526f6cdee9a737e8c5f4676bf2",
+    "translations": {
+      "ko": {
+        "display_title": "DMZ OPEN 국제음악제 Awaken - 깨어나는 평화",
+        "summary": "고양아람누리 아람음악당에서 열리는 DMZ OPEN 국제음악제 Awaken - 깨어나는 평화. 2026-10-24~2026-10-24. 전석1만원.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:ed44392e5160c9e112420bbb88a82317e6ac68526f6cdee9a737e8c5f4676bf2",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "DMZ OPEN: Awaken",
+        "summary": "Dates: 2026-10-24 – 2026-10-24. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:ed44392e5160c9e112420bbb88a82317e6ac68526f6cdee9a737e8c5f4676bf2",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "DMZ OPEN「Awaken」",
+        "summary": "開催日：2026-10-24～2026-10-24。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:ed44392e5160c9e112420bbb88a82317e6ac68526f6cdee9a737e8c5f4676bf2",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "DMZ OPEN《Awaken》",
+        "summary": "日期：2026-10-24至2026-10-24。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:ed44392e5160c9e112420bbb88a82317e6ac68526f6cdee9a737e8c5f4676bf2",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "DMZ OPEN 국제음악제"
+  },
+  {
+    "id": "mohae-goyang-7e38689b3634c650",
+    "title_ko": "DMZ OPEN 국제음악제 Connect - 연결되는 마음",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 DMZ OPEN 국제음악제 Connect - 연결되는 마음. 2026-10-24~2026-10-24. R3만/S2만/A1만원.90분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "R3만/S2만/A1만원.90분,초등학생이상(2019년포함이전출생).",
+      "sessions": [
+        {
+          "start": "2026-10-24T19:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 10000,
+      "max": 30000,
+      "raw_ko": "R3만/S2만/A1만원.90분,초등학생이상(2019년포함이전출생)."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008468",
+      "raw_ko": "R3만/S2만/A1만원.90분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "R3만/S2만/A1만원.90분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-11637a2798db",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008468",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:8f45f079530dceba191c30a6457e9fc19d42affc2115267f23626f3a5d12a4ba",
+    "translations": {
+      "ko": {
+        "display_title": "DMZ OPEN 국제음악제 Connect - 연결되는 마음",
+        "summary": "고양아람누리 아람음악당에서 열리는 DMZ OPEN 국제음악제 Connect - 연결되는 마음. 2026-10-24~2026-10-24. R3만/S2만/A1만원.90분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:8f45f079530dceba191c30a6457e9fc19d42affc2115267f23626f3a5d12a4ba",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "DMZ OPEN: Connect",
+        "summary": "Dates: 2026-10-24 – 2026-10-24. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:8f45f079530dceba191c30a6457e9fc19d42affc2115267f23626f3a5d12a4ba",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "DMZ OPEN「Connect」",
+        "summary": "開催日：2026-10-24～2026-10-24。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:8f45f079530dceba191c30a6457e9fc19d42affc2115267f23626f3a5d12a4ba",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "DMZ OPEN《Connect》",
+        "summary": "日期：2026-10-24至2026-10-24。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:8f45f079530dceba191c30a6457e9fc19d42affc2115267f23626f3a5d12a4ba",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "DMZ OPEN 국제음악제"
+  },
+  {
+    "id": "mohae-goyang-eaedf055d8037d22",
+    "title_ko": "DMZ OPEN 국제음악제 Eternity - 계속될 평화",
+    "summary_ko": "고양아람누리 아람음악당에서 열리는 DMZ OPEN 국제음악제 Eternity - 계속될 평화. 2026-10-25~2026-10-25. 전석무료지만1인1매예약권필요,본인ID당2매.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-d1dee96666b8",
+        "name_ko": "고양아람누리 아람음악당",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "전석무료지만1인1매예약권필요,본인ID당2매.110분,초등학생이상(2019년포함이전출생).",
+      "sessions": [
+        {
+          "start": "2026-10-25T17:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "전석무료지만1인1매예약권필요,본인ID당2매.110분,초등학생이상(2019년포함이전출생)."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008469",
+      "raw_ko": "전석무료지만1인1매예약권필요,본인ID당2매.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "전석무료지만1인1매예약권필요,본인ID당2매.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-b4962d618223",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008469",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:6d2d369dc32a7489857590c5bd1c2a8ebdc0996b2d02adcf1442781546a910ac",
+    "translations": {
+      "ko": {
+        "display_title": "DMZ OPEN 국제음악제 Eternity - 계속될 평화",
+        "summary": "고양아람누리 아람음악당에서 열리는 DMZ OPEN 국제음악제 Eternity - 계속될 평화. 2026-10-25~2026-10-25. 전석무료지만1인1매예약권필요,본인ID당2매.110분,초등학생이상(2019년포함이전출생). 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:6d2d369dc32a7489857590c5bd1c2a8ebdc0996b2d02adcf1442781546a910ac",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "DMZ OPEN: Eternity",
+        "summary": "Dates: 2026-10-25 – 2026-10-25. Venue (Korean): 고양아람누리 아람음악당. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:6d2d369dc32a7489857590c5bd1c2a8ebdc0996b2d02adcf1442781546a910ac",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "DMZ OPEN「Eternity」",
+        "summary": "開催日：2026-10-25～2026-10-25。会場（韓国語）：고양아람누리 아람음악당。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:6d2d369dc32a7489857590c5bd1c2a8ebdc0996b2d02adcf1442781546a910ac",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "DMZ OPEN《Eternity》",
+        "summary": "日期：2026-10-25至2026-10-25。地点（韩文）：고양아람누리 아람음악당。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:6d2d369dc32a7489857590c5bd1c2a8ebdc0996b2d02adcf1442781546a910ac",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "DMZ OPEN 국제음악제"
+  },
+  {
+    "id": "mohae-goyang-39ab195f806f77d2",
+    "title_ko": "김창완 밴드 콘서트 고양",
+    "summary_ko": "고양아람누리 아람극장에서 열리는 김창완 밴드 콘서트 고양. 2026-10-31~2026-10-31. R121,000/S99,000/A77,000원.ID당6매,초등학생이상.관람시간120 표기. 실시간 잔여석은 미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-6c24bb68cbad",
+        "name_ko": "고양아람누리 아람극장",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "R121,000/S99,000/A77,000원.ID당6매,초등학생이상.관람시간120 표기.",
+      "sessions": [
+        {
+          "start": "2026-10-31T17:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": 77000,
+      "max": 121000,
+      "raw_ko": "R121,000/S99,000/A77,000원.ID당6매,초등학생이상.관람시간120 표기."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008424",
+      "raw_ko": "R121,000/S99,000/A77,000원.ID당6매,초등학생이상.관람시간120 표기. 실시간 잔여석은 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "R121,000/S99,000/A77,000원.ID당6매,초등학생이상.관람시간120 표기. 실시간 잔여석은 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-ea7f191c506d",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008424",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:d8f0d8c802c1711b6912f4465afa9d86859c697e843bc6320c7b05a35cd609c2",
+    "translations": {
+      "ko": {
+        "display_title": "김창완 밴드 콘서트 고양",
+        "summary": "고양아람누리 아람극장에서 열리는 김창완 밴드 콘서트 고양. 2026-10-31~2026-10-31. R121,000/S99,000/A77,000원.ID당6매,초등학생이상.관람시간120 표기. 실시간 잔여석은 미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:d8f0d8c802c1711b6912f4465afa9d86859c697e843bc6320c7b05a35cd609c2",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Kim Chang-wan Band — Goyang",
+        "summary": "Dates: 2026-10-31 – 2026-10-31. Venue (Korean): 고양아람누리 아람극장. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:d8f0d8c802c1711b6912f4465afa9d86859c697e843bc6320c7b05a35cd609c2",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "キム・チャンワンバンド 高陽",
+        "summary": "開催日：2026-10-31～2026-10-31。会場（韓国語）：고양아람누리 아람극장。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:d8f0d8c802c1711b6912f4465afa9d86859c697e843bc6320c7b05a35cd609c2",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "金昌完乐队高阳演唱会",
+        "summary": "日期：2026-10-31至2026-10-31。地点（韩文）：고양아람누리 아람극장。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:d8f0d8c802c1711b6912f4465afa9d86859c697e843bc6320c7b05a35cd609c2",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-db7868e4bf02e32d",
+    "title_ko": "2026 고카프 킨텍스 더 파이널 시즌 PART 1",
+    "summary_ko": "킨텍스 제2전시장에서 열리는 2026 고카프 킨텍스 더 파이널 시즌 PART 1. 2026-10-09~2026-10-11. 17:30입장마감.현장등록·결제가능.할인예약10/8종료.유료이나가격이미지미검증.반려동물은가방·유모차·이동장이용.",
+    "category": "exhibition",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-dcf2e44e77da",
+        "name_ko": "킨텍스 제2전시장",
+        "address_ko": "경기도 고양시 일산서구 킨텍스로 217-59",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:00~18:00;17:30입장마감",
+      "sessions": [
+        {
+          "start": "2026-10-09T10:00:00+09:00",
+          "end": "2026-10-09T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-10T10:00:00+09:00",
+          "end": "2026-10-10T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-11T10:00:00+09:00",
+          "end": "2026-10-11T18:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": null,
+      "max": null,
+      "raw_ko": "유료. 현장 결제 가능, 상세 금액 공식 원문 확인."
+    },
+    "reservation": {
+      "required": null,
+      "url": "https://gocaf.kr/exhibition-info/2026-gocaf-kintex-the-final-season1/",
+      "raw_ko": "17:30입장마감.현장등록·결제가능.할인예약10/8종료.유료이나가격이미지미검증.반려동물은가방·유모차·이동장이용."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "17:30입장마감.현장등록·결제가능.할인예약10/8종료.유료이나가격이미지미검증.반려동물은가방·유모차·이동장이용."
+    },
+    "evidence": [
+      {
+        "source_id": "source-dcfc7bd33a59",
+        "url": "https://gocaf.kr/exhibition-info/2026-gocaf-kintex-the-final-season1/",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:5a9455b4487a4954f199971e4427c2e468ed524d253be48102671c03034cc626",
+    "translations": {
+      "ko": {
+        "display_title": "2026 고카프 킨텍스 더 파이널 시즌 PART 1",
+        "summary": "킨텍스 제2전시장에서 열리는 2026 고카프 킨텍스 더 파이널 시즌 PART 1. 2026-10-09~2026-10-11. 17:30입장마감.현장등록·결제가능.할인예약10/8종료.유료이나가격이미지미검증.반려동물은가방·유모차·이동장이용.",
+        "status": "ai_draft",
+        "source_version": "sha256:5a9455b4487a4954f199971e4427c2e468ed524d253be48102671c03034cc626",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "GOCAF KINTEX: The Final Season Part 1",
+        "summary": "Dates: 2026-10-09 – 2026-10-11. Venue (Korean): 킨텍스 제2전시장. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:5a9455b4487a4954f199971e4427c2e468ed524d253be48102671c03034cc626",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "GOCAF KINTEX ファイナルシーズン Part 1",
+        "summary": "開催日：2026-10-09～2026-10-11。会場（韓国語）：킨텍스 제2전시장。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:5a9455b4487a4954f199971e4427c2e468ed524d253be48102671c03034cc626",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "GOCAF KINTEX户外露营展 Part 1",
+        "summary": "日期：2026-10-09至2026-10-11。地点（韩文）：킨텍스 제2전시장。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:5a9455b4487a4954f199971e4427c2e468ed524d253be48102671c03034cc626",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-4ecbb7bea1ec79cb",
+    "title_ko": "스페인 미술 거장전 - 피카소, 미로, 달리",
+    "summary_ko": "고양시립 아람미술관에서 열리는 스페인 미술 거장전 - 피카소, 미로, 달리. 2026-10-21~2026-12-31. 월요일휴관,17시입장마감.얼리버드예매9/11~10/20·사용10/21~12/31.20인이상단체사전예약.현재표기가격을전기간일반정가로해석금지.",
+    "category": "exhibition",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-835b50868a9e",
+        "name_ko": "고양시립 아람미술관",
+        "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-21",
+      "end_date": "2026-12-31",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:00~18:00,17시마감,월요일휴관",
+      "sessions": [
+        {
+          "start": "2026-10-21T10:00:00+09:00",
+          "end": "2026-10-21T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-22T10:00:00+09:00",
+          "end": "2026-10-22T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-23T10:00:00+09:00",
+          "end": "2026-10-23T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-24T10:00:00+09:00",
+          "end": "2026-10-24T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-25T10:00:00+09:00",
+          "end": "2026-10-25T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-27T10:00:00+09:00",
+          "end": "2026-10-27T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-28T10:00:00+09:00",
+          "end": "2026-10-28T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-29T10:00:00+09:00",
+          "end": "2026-10-29T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-30T10:00:00+09:00",
+          "end": "2026-10-30T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-31T10:00:00+09:00",
+          "end": "2026-10-31T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-01T10:00:00+09:00",
+          "end": "2026-11-01T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-03T10:00:00+09:00",
+          "end": "2026-11-03T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-04T10:00:00+09:00",
+          "end": "2026-11-04T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-05T10:00:00+09:00",
+          "end": "2026-11-05T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-06T10:00:00+09:00",
+          "end": "2026-11-06T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-07T10:00:00+09:00",
+          "end": "2026-11-07T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-08T10:00:00+09:00",
+          "end": "2026-11-08T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-10T10:00:00+09:00",
+          "end": "2026-11-10T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-11T10:00:00+09:00",
+          "end": "2026-11-11T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-12T10:00:00+09:00",
+          "end": "2026-11-12T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-13T10:00:00+09:00",
+          "end": "2026-11-13T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-14T10:00:00+09:00",
+          "end": "2026-11-14T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-15T10:00:00+09:00",
+          "end": "2026-11-15T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-17T10:00:00+09:00",
+          "end": "2026-11-17T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-18T10:00:00+09:00",
+          "end": "2026-11-18T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-19T10:00:00+09:00",
+          "end": "2026-11-19T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-20T10:00:00+09:00",
+          "end": "2026-11-20T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-21T10:00:00+09:00",
+          "end": "2026-11-21T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-22T10:00:00+09:00",
+          "end": "2026-11-22T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-24T10:00:00+09:00",
+          "end": "2026-11-24T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-25T10:00:00+09:00",
+          "end": "2026-11-25T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-26T10:00:00+09:00",
+          "end": "2026-11-26T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-27T10:00:00+09:00",
+          "end": "2026-11-27T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-28T10:00:00+09:00",
+          "end": "2026-11-28T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-11-29T10:00:00+09:00",
+          "end": "2026-11-29T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-01T10:00:00+09:00",
+          "end": "2026-12-01T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-02T10:00:00+09:00",
+          "end": "2026-12-02T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-03T10:00:00+09:00",
+          "end": "2026-12-03T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-04T10:00:00+09:00",
+          "end": "2026-12-04T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-05T10:00:00+09:00",
+          "end": "2026-12-05T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-06T10:00:00+09:00",
+          "end": "2026-12-06T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-08T10:00:00+09:00",
+          "end": "2026-12-08T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-09T10:00:00+09:00",
+          "end": "2026-12-09T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-10T10:00:00+09:00",
+          "end": "2026-12-10T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-11T10:00:00+09:00",
+          "end": "2026-12-11T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-12T10:00:00+09:00",
+          "end": "2026-12-12T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-13T10:00:00+09:00",
+          "end": "2026-12-13T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-15T10:00:00+09:00",
+          "end": "2026-12-15T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-16T10:00:00+09:00",
+          "end": "2026-12-16T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-17T10:00:00+09:00",
+          "end": "2026-12-17T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-18T10:00:00+09:00",
+          "end": "2026-12-18T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-19T10:00:00+09:00",
+          "end": "2026-12-19T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-20T10:00:00+09:00",
+          "end": "2026-12-20T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-22T10:00:00+09:00",
+          "end": "2026-12-22T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-23T10:00:00+09:00",
+          "end": "2026-12-23T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-24T10:00:00+09:00",
+          "end": "2026-12-24T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-25T10:00:00+09:00",
+          "end": "2026-12-25T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-26T10:00:00+09:00",
+          "end": "2026-12-26T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-27T10:00:00+09:00",
+          "end": "2026-12-27T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-29T10:00:00+09:00",
+          "end": "2026-12-29T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-30T10:00:00+09:00",
+          "end": "2026-12-30T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-12-31T10:00:00+09:00",
+          "end": "2026-12-31T18:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "mixed",
+      "currency": "KRW",
+      "min": null,
+      "max": null,
+      "raw_ko": "얼리버드 표기:성인14,000/청소년12,000/어린이9,000원;24개월미만무료.예매10/20까지. 이후 요금은 미확인."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.artgy.or.kr/EH/EH0201V.aspx?showid=0000008405",
+      "raw_ko": "월요일휴관,17시입장마감.얼리버드예매9/11~10/20·사용10/21~12/31.20인이상단체사전예약.현재표기가격을전기간일반정가로해석금지."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "월요일휴관,17시입장마감.얼리버드예매9/11~10/20·사용10/21~12/31.20인이상단체사전예약.현재표기가격을전기간일반정가로해석금지."
+    },
+    "evidence": [
+      {
+        "source_id": "source-8a50f5df0e93",
+        "url": "https://www.artgy.or.kr/EH/EH0201V.aspx?showid=0000008405",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:af0065066a3105003dc752077e67d9b54581caaffa81f7d5cea4fab4fdd2bd86",
+    "translations": {
+      "ko": {
+        "display_title": "스페인 미술 거장전 - 피카소, 미로, 달리",
+        "summary": "고양시립 아람미술관에서 열리는 스페인 미술 거장전 - 피카소, 미로, 달리. 2026-10-21~2026-12-31. 월요일휴관,17시입장마감.얼리버드예매9/11~10/20·사용10/21~12/31.20인이상단체사전예약.현재표기가격을전기간일반정가로해석금지.",
+        "status": "ai_draft",
+        "source_version": "sha256:af0065066a3105003dc752077e67d9b54581caaffa81f7d5cea4fab4fdd2bd86",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Spanish Masters: Picasso, Miró and Dalí",
+        "summary": "Dates: 2026-10-21 – 2026-12-31. Venue (Korean): 고양시립 아람미술관. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:af0065066a3105003dc752077e67d9b54581caaffa81f7d5cea4fab4fdd2bd86",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "スペイン美術の巨匠展：ピカソ、ミロ、ダリ",
+        "summary": "開催日：2026-10-21～2026-12-31。会場（韓国語）：고양시립 아람미술관。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:af0065066a3105003dc752077e67d9b54581caaffa81f7d5cea4fab4fdd2bd86",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "西班牙艺术大师展：毕加索、米罗、达利",
+        "summary": "日期：2026-10-21至2026-12-31。地点（韩文）：고양시립 아람미술관。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:af0065066a3105003dc752077e67d9b54581caaffa81f7d5cea4fab4fdd2bd86",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-281fd10c8a65a9a3",
+    "source_version": "sha256:e237221879a3049b7afdfcb6f8a218b45bc5d56f8049001f76608d85be8fdbd7",
+    "title_ko": "2026 고양동물교감치유문화제",
+    "summary_ko": "반려동물 체험·교감, 공연과 입양캠페인이 열립니다. 10월24일10~17시. 일부 참여대회·교감은 사전신청 안내가 있습니다.",
+    "category": "festival",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-b10979be10e5",
+        "name_ko": "일산호수공원 주제광장",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "동물교감은 비반려인도 참여. 참여대회 등 사전신청 QR 별도; 일반입장 요금·조건 미확인.",
+      "sessions": [
+        {
+          "start": "2026-10-24T10:00:00+09:00",
+          "end": "2026-10-24T17:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": null,
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "동물교감은 비반려인도 참여. 참여대회 등 사전신청 QR 별도; 일반입장 요금·조건 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-a3a49830805f",
+        "url": "https://www.goyang.go.kr/dygu/user/bbs/BD_selectBbs.do?q_bbsCode=1030&q_bbscttSn=20261007185919613",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "2026 고양동물교감치유문화제",
+        "summary": "반려동물 체험·교감, 공연과 입양캠페인이 열립니다. 10월24일10~17시. 일부 참여대회·교감은 사전신청 안내가 있습니다.",
+        "status": "ai_draft",
+        "source_version": "sha256:e237221879a3049b7afdfcb6f8a218b45bc5d56f8049001f76608d85be8fdbd7",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "2026 Goyang Animal Interaction Festival",
+        "summary": "October 24, 10:00–17:00 at Ilsan Lake Park Theme Plaza. Animal activities, performances and adoption campaigns; some activities require advance registration.",
+        "status": "ai_draft",
+        "source_version": "sha256:e237221879a3049b7afdfcb6f8a218b45bc5d56f8049001f76608d85be8fdbd7",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "2026 高陽動物ふれあい文化祭",
+        "summary": "10月24日10～17時、一山湖水公園主題広場。動物とのふれあい、体験や公演。一部プログラムは事前申込が必要です。",
+        "status": "ai_draft",
+        "source_version": "sha256:e237221879a3049b7afdfcb6f8a218b45bc5d56f8049001f76608d85be8fdbd7",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "2026高阳动物互动文化节",
+        "summary": "10月24日10至17时，一山湖水公园主题广场。动物互动、体验、演出及领养活动，部分项目需提前报名。",
+        "status": "ai_draft",
+        "source_version": "sha256:e237221879a3049b7afdfcb6f8a218b45bc5d56f8049001f76608d85be8fdbd7",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-b82bfd08f5488d6a",
+    "title_ko": "2026 다문화 어울마당",
+    "summary_ko": "일산호수공원에서 열리는 2026 다문화 어울마당. 2026-10-17~2026-10-17. 시공원목록10:30~15:00,상세일산호수공원확인.다문화인식캠페인·교류체험부스.공원내세부위치·요금·예약미확인.",
+    "category": "festival",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-8473926541ae",
+        "name_ko": "일산호수공원",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "10:30~15:00",
+      "sessions": [
+        {
+          "start": "2026-10-17T10:30:00+09:00",
+          "end": "2026-10-17T15:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": {
+      "required": null,
+      "url": "https://www.goyang.go.kr/dygu/user/eventCldr/BD_selectEventCldr.do?q_sn=3577",
+      "raw_ko": "시공원목록10:30~15:00,상세일산호수공원확인.다문화인식캠페인·교류체험부스.공원내세부위치·요금·예약미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "시공원목록10:30~15:00,상세일산호수공원확인.다문화인식캠페인·교류체험부스.공원내세부위치·요금·예약미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-23c79a3fa8bd",
+        "url": "https://www.goyang.go.kr/dygu/user/eventCldr/BD_selectEventCldr.do?q_sn=3577",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      },
+      {
+        "source_id": "source-park-calendar",
+        "url": "https://www.goyang.go.kr/park/user/eventCldr/BD_selectEventCldrList.do",
+        "fields": [
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식목록운영시간"
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:1720fd949dc757bce4ecef85e54c5a7089010932d2eaf11f08cfaf049a8117b8",
+    "translations": {
+      "ko": {
+        "display_title": "2026 다문화 어울마당",
+        "summary": "일산호수공원에서 열리는 2026 다문화 어울마당. 2026-10-17~2026-10-17. 시공원목록10:30~15:00,상세일산호수공원확인.다문화인식캠페인·교류체험부스.공원내세부위치·요금·예약미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:1720fd949dc757bce4ecef85e54c5a7089010932d2eaf11f08cfaf049a8117b8",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Goyang Multicultural Community Festival",
+        "summary": "Dates: 2026-10-17 – 2026-10-17. Venue (Korean): 일산호수공원. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:1720fd949dc757bce4ecef85e54c5a7089010932d2eaf11f08cfaf049a8117b8",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "高陽 多文化交流フェスティバル",
+        "summary": "開催日：2026-10-17～2026-10-17。会場（韓国語）：일산호수공원。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:1720fd949dc757bce4ecef85e54c5a7089010932d2eaf11f08cfaf049a8117b8",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "高阳多元文化交流节",
+        "summary": "日期：2026-10-17至2026-10-17。地点（韩文）：일산호수공원。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:1720fd949dc757bce4ecef85e54c5a7089010932d2eaf11f08cfaf049a8117b8",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-e3ed25a02e7d4e1c",
+    "title_ko": "능참봉이 들려주는 왕릉 이야기 – 서오릉",
+    "summary_ko": "서오릉에서 열리는 능참봉이 들려주는 왕릉 이야기 – 서오릉. 2026-10-17~2026-10-18. 사전예약 및 현장관람.회차종료시각·비용미확인.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-4dabf52eec82",
+        "name_ko": "서오릉",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "timezone": "Asia/Seoul",
+      "raw_ko": null,
+      "sessions": [
+        {
+          "start": "2026-10-17T11:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-17T15:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-18T11:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-18T15:00:00+09:00",
+          "end": null,
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": {
+      "required": null,
+      "url": "https://jrtf.or.kr/info/program/?idx=8",
+      "raw_ko": "사전예약 및 현장관람.회차종료시각·비용미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "사전예약 및 현장관람.회차종료시각·비용미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-a90f8de63542",
+        "url": "https://jrtf.or.kr/info/program/?idx=8",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:0dbd59a7fd3efe729ba703839280816973825248d8eae1ecc8e33d801db11f03",
+    "translations": {
+      "ko": {
+        "display_title": "능참봉이 들려주는 왕릉 이야기 – 서오릉",
+        "summary": "서오릉에서 열리는 능참봉이 들려주는 왕릉 이야기 – 서오릉. 2026-10-17~2026-10-18. 사전예약 및 현장관람.회차종료시각·비용미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:0dbd59a7fd3efe729ba703839280816973825248d8eae1ecc8e33d801db11f03",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Stories from the Royal Tomb Keeper — Seooreung",
+        "summary": "Dates: 2026-10-17 – 2026-10-18. Venue (Korean): 서오릉. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:0dbd59a7fd3efe729ba703839280816973825248d8eae1ecc8e33d801db11f03",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "陵墓守の物語―西五陵",
+        "summary": "開催日：2026-10-17～2026-10-18。会場（韓国語）：서오릉。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:0dbd59a7fd3efe729ba703839280816973825248d8eae1ecc8e33d801db11f03",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "陵墓守护人讲故事—西五陵",
+        "summary": "日期：2026-10-17至2026-10-18。地点（韩文）：서오릉。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:0dbd59a7fd3efe729ba703839280816973825248d8eae1ecc8e33d801db11f03",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "2026 세계유산 조선왕릉축전"
+  },
+  {
+    "id": "mohae-goyang-fb05979a065342b8",
+    "title_ko": "능침 특별 개방 – 서오릉",
+    "summary_ko": "서오릉에서 열리는 능침 특별 개방 – 서오릉. 2026-10-19~2026-10-19. 사전예약필수.월요일특별프로그램으로일반휴무와다름.요금·정원·잔여미확인.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-4dabf52eec82",
+        "name_ko": "서오릉",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "timezone": "Asia/Seoul",
+      "raw_ko": null,
+      "sessions": [
+        {
+          "start": "2026-10-19T14:00:00+09:00",
+          "end": "2026-10-19T16:30:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": {
+      "required": true,
+      "url": "https://jrtf.or.kr/info/program/?idx=12",
+      "raw_ko": "사전예약필수.월요일특별프로그램으로일반휴무와다름.요금·정원·잔여미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "사전예약필수.월요일특별프로그램으로일반휴무와다름.요금·정원·잔여미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-b53171332e05",
+        "url": "https://jrtf.or.kr/info/program/?idx=12",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:53815af9574897fa16b22e614b0140884b6962310c28f5921a6a7f10e9c253a2",
+    "translations": {
+      "ko": {
+        "display_title": "능침 특별 개방 – 서오릉",
+        "summary": "서오릉에서 열리는 능침 특별 개방 – 서오릉. 2026-10-19~2026-10-19. 사전예약필수.월요일특별프로그램으로일반휴무와다름.요금·정원·잔여미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:53815af9574897fa16b22e614b0140884b6962310c28f5921a6a7f10e9c253a2",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Special Tomb Mound Tour — Seooreung",
+        "summary": "Dates: 2026-10-19 – 2026-10-19. Venue (Korean): 서오릉. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:53815af9574897fa16b22e614b0140884b6962310c28f5921a6a7f10e9c253a2",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "陵寝特別公開―西五陵",
+        "summary": "開催日：2026-10-19～2026-10-19。会場（韓国語）：서오릉。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:53815af9574897fa16b22e614b0140884b6962310c28f5921a6a7f10e9c253a2",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "陵寝特别开放—西五陵",
+        "summary": "日期：2026-10-19至2026-10-19。地点（韩文）：서오릉。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:53815af9574897fa16b22e614b0140884b6962310c28f5921a6a7f10e9c253a2",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "2026 세계유산 조선왕릉축전"
+  },
+  {
+    "id": "mohae-goyang-36a33064f72acc65",
+    "title_ko": "조선왕릉 제향 체험 – 서오릉",
+    "summary_ko": "서오릉에서 열리는 조선왕릉 제향 체험 – 서오릉. 2026-10-24~2026-10-25. 사전예약필수.의식절차·제물진설·제관체험.요금·연령·잔여미확인.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-4dabf52eec82",
+        "name_ko": "서오릉",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "timezone": "Asia/Seoul",
+      "raw_ko": null,
+      "sessions": [
+        {
+          "start": "2026-10-24T13:30:00+09:00",
+          "end": "2026-10-24T16:30:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-25T13:30:00+09:00",
+          "end": "2026-10-25T16:30:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": {
+      "required": true,
+      "url": "https://jrtf.or.kr/info/program/?idx=15",
+      "raw_ko": "사전예약필수.의식절차·제물진설·제관체험.요금·연령·잔여미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "사전예약필수.의식절차·제물진설·제관체험.요금·연령·잔여미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-6e3846586aab",
+        "url": "https://jrtf.or.kr/info/program/?idx=15",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:2c10f4a5eccd8de4807cd0ff522ef95499130983f98bca1f71ae73b5684dd0e1",
+    "translations": {
+      "ko": {
+        "display_title": "조선왕릉 제향 체험 – 서오릉",
+        "summary": "서오릉에서 열리는 조선왕릉 제향 체험 – 서오릉. 2026-10-24~2026-10-25. 사전예약필수.의식절차·제물진설·제관체험.요금·연령·잔여미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:2c10f4a5eccd8de4807cd0ff522ef95499130983f98bca1f71ae73b5684dd0e1",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Royal Ancestral Rite Experience — Seooreung",
+        "summary": "Dates: 2026-10-24 – 2026-10-25. Venue (Korean): 서오릉. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:2c10f4a5eccd8de4807cd0ff522ef95499130983f98bca1f71ae73b5684dd0e1",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "朝鮮王陵祭享体験―西五陵",
+        "summary": "開催日：2026-10-24～2026-10-25。会場（韓国語）：서오릉。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:2c10f4a5eccd8de4807cd0ff522ef95499130983f98bca1f71ae73b5684dd0e1",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "朝鲜王陵祭享体验—西五陵",
+        "summary": "日期：2026-10-24至2026-10-25。地点（韩文）：서오릉。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:2c10f4a5eccd8de4807cd0ff522ef95499130983f98bca1f71ae73b5684dd0e1",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "2026 세계유산 조선왕릉축전"
+  },
+  {
+    "id": "mohae-goyang-5a38eec3462b1dea",
+    "title_ko": "조선명탐정 왕릉사관록 – 서오릉",
+    "summary_ko": "서오릉에서 열리는 조선명탐정 왕릉사관록 – 서오릉. 2026-10-17~2026-10-25. 10/17~25 10~17시현장참여안내.월요일10/19운영여부본문미기재로매일회차생성안함.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-4dabf52eec82",
+        "name_ko": "서오릉",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-25",
+      "timezone": "Asia/Seoul",
+      "raw_ko": null,
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": {
+      "required": null,
+      "url": "https://jrtf.or.kr/info/program/?idx=11",
+      "raw_ko": "10/17~25 10~17시현장참여안내.월요일10/19운영여부본문미기재로매일회차생성안함."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "10/17~25 10~17시현장참여안내.월요일10/19운영여부본문미기재로매일회차생성안함."
+    },
+    "evidence": [
+      {
+        "source_id": "source-52888dfc7592",
+        "url": "https://jrtf.or.kr/info/program/?idx=11",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:7c604afbf54d06c7660f6e1c27164fe737a0673e28d6389c714a9c278d429149",
+    "translations": {
+      "ko": {
+        "display_title": "조선명탐정 왕릉사관록 – 서오릉",
+        "summary": "서오릉에서 열리는 조선명탐정 왕릉사관록 – 서오릉. 2026-10-17~2026-10-25. 10/17~25 10~17시현장참여안내.월요일10/19운영여부본문미기재로매일회차생성안함.",
+        "status": "ai_draft",
+        "source_version": "sha256:7c604afbf54d06c7660f6e1c27164fe737a0673e28d6389c714a9c278d429149",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Royal Tomb Mystery — Seooreung",
+        "summary": "Dates: 2026-10-17 – 2026-10-25. Venue (Korean): 서오릉. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:7c604afbf54d06c7660f6e1c27164fe737a0673e28d6389c714a9c278d429149",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "王陵ミステリー―西五陵",
+        "summary": "開催日：2026-10-17～2026-10-25。会場（韓国語）：서오릉。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:7c604afbf54d06c7660f6e1c27164fe737a0673e28d6389c714a9c278d429149",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "朝鲜名侦探—西五陵",
+        "summary": "日期：2026-10-17至2026-10-25。地点（韩文）：서오릉。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:7c604afbf54d06c7660f6e1c27164fe737a0673e28d6389c714a9c278d429149",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "2026 세계유산 조선왕릉축전"
+  },
+  {
+    "id": "mohae-goyang-d8cd4ccc0a25c744",
+    "title_ko": "왕릉 컬처라운지 – 서오릉",
+    "summary_ko": "서오릉 익릉 입구에서 열리는 왕릉 컬처라운지 – 서오릉. 2026-10-17~2026-10-25. 10/17~25.숲결채집화11·12·13·14시,주말RE:POT12·13·14·15시.휴관일적용·개별예약·요금미확인으로회차미확정.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-c1e39f312a09",
+        "name_ko": "서오릉 익릉 입구",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-25",
+      "timezone": "Asia/Seoul",
+      "raw_ko": null,
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": {
+      "required": null,
+      "url": "https://jrtf.or.kr/info/program/?idx=13",
+      "raw_ko": "10/17~25.숲결채집화11·12·13·14시,주말RE:POT12·13·14·15시.휴관일적용·개별예약·요금미확인으로회차미확정."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "10/17~25.숲결채집화11·12·13·14시,주말RE:POT12·13·14·15시.휴관일적용·개별예약·요금미확인으로회차미확정."
+    },
+    "evidence": [
+      {
+        "source_id": "source-be7d57f5d450",
+        "url": "https://jrtf.or.kr/info/program/?idx=13",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:3aeb0b69d807ed19a707f0536caf7884ee1824f38730ff73d156f7f06e6da354",
+    "translations": {
+      "ko": {
+        "display_title": "왕릉 컬처라운지 – 서오릉",
+        "summary": "서오릉 익릉 입구에서 열리는 왕릉 컬처라운지 – 서오릉. 2026-10-17~2026-10-25. 10/17~25.숲결채집화11·12·13·14시,주말RE:POT12·13·14·15시.휴관일적용·개별예약·요금미확인으로회차미확정.",
+        "status": "ai_draft",
+        "source_version": "sha256:3aeb0b69d807ed19a707f0536caf7884ee1824f38730ff73d156f7f06e6da354",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Royal Tomb Culture Lounge — Seooreung",
+        "summary": "Dates: 2026-10-17 – 2026-10-25. Venue (Korean): 서오릉 익릉 입구. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:3aeb0b69d807ed19a707f0536caf7884ee1824f38730ff73d156f7f06e6da354",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "王陵カルチャーラウンジ―西五陵",
+        "summary": "開催日：2026-10-17～2026-10-25。会場（韓国語）：서오릉 익릉 입구。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:3aeb0b69d807ed19a707f0536caf7884ee1824f38730ff73d156f7f06e6da354",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "王陵文化休闲空间—西五陵",
+        "summary": "日期：2026-10-17至2026-10-25。地点（韩文）：서오릉 익릉 입구。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:3aeb0b69d807ed19a707f0536caf7884ee1824f38730ff73d156f7f06e6da354",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "2026 세계유산 조선왕릉축전"
+  },
+  {
+    "id": "mohae-goyang-b94a8a6dd5d3e63d",
+    "title_ko": "2026 경기공예문화축제",
+    "summary_ko": "고양꽃전시관에서 열리는 2026 경기공예문화축제. 2026-10-08~2026-10-11. 가을꽃축제연계행사.공예작품·체험.시공식보도에서기간·장소확인,시간·요금·회차·예약미확인.",
+    "category": "exhibition",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-23392d7984a2",
+        "name_ko": "고양꽃전시관",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-11",
+      "timezone": "Asia/Seoul",
+      "raw_ko": null,
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": {
+      "required": null,
+      "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+      "raw_ko": "가을꽃축제연계행사.공예작품·체험.시공식보도에서기간·장소확인,시간·요금·회차·예약미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "가을꽃축제연계행사.공예작품·체험.시공식보도에서기간·장소확인,시간·요금·회차·예약미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-f751b169fddf",
+        "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:f387dfd2ce80719b0aa4ba9ae86994ffd1d0c39fd5f59b4a62e2f9a71904d0ca",
+    "translations": {
+      "ko": {
+        "display_title": "2026 경기공예문화축제",
+        "summary": "고양꽃전시관에서 열리는 2026 경기공예문화축제. 2026-10-08~2026-10-11. 가을꽃축제연계행사.공예작품·체험.시공식보도에서기간·장소확인,시간·요금·회차·예약미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:f387dfd2ce80719b0aa4ba9ae86994ffd1d0c39fd5f59b4a62e2f9a71904d0ca",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Gyeonggi Craft Culture Festival",
+        "summary": "Dates: 2026-10-08 – 2026-10-11. Venue (Korean): 고양꽃전시관. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:f387dfd2ce80719b0aa4ba9ae86994ffd1d0c39fd5f59b4a62e2f9a71904d0ca",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "京畿工芸文化祭",
+        "summary": "開催日：2026-10-08～2026-10-11。会場（韓国語）：고양꽃전시관。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:f387dfd2ce80719b0aa4ba9ae86994ffd1d0c39fd5f59b4a62e2f9a71904d0ca",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "京畿工艺文化节",
+        "summary": "日期：2026-10-08至2026-10-11。地点（韩文）：고양꽃전시관。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:f387dfd2ce80719b0aa4ba9ae86994ffd1d0c39fd5f59b4a62e2f9a71904d0ca",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "2026 고양 가을꽃 축제"
+  },
+  {
+    "id": "mohae-goyang-b957dc9f49a31d09",
+    "title_ko": "2026 고양가을꽃축제 토크콘서트",
+    "summary_ko": "고양꽃전시관에서 열리는 2026 고양가을꽃축제 토크콘서트. 2026-10-09~2026-10-11. 시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인.",
+    "category": "performance",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-23392d7984a2",
+        "name_ko": "고양꽃전시관",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "timezone": "Asia/Seoul",
+      "raw_ko": null,
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "paid",
+      "currency": "KRW",
+      "min": null,
+      "max": null,
+      "raw_ko": "유료 입장권 필요.금액미확인."
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+      "raw_ko": "시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-f751b169fddf",
+        "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+        "fields": [
+          "title_ko",
+          "schedule",
+          "venues",
+          "price"
+        ],
+        "checked_at": "2026-10-09T20:23:33+09:00",
+        "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:23:33+09:00",
+    "publication_status": "research",
+    "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+    "translations": {
+      "ko": {
+        "display_title": "2026 고양가을꽃축제 토크콘서트",
+        "summary": "고양꽃전시관에서 열리는 2026 고양가을꽃축제 토크콘서트. 2026-10-09~2026-10-11. 시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Goyang Autumn Flower Festival Talk Concert",
+        "summary": "Dates: 2026-10-09 – 2026-10-11. Venue (Korean): 고양꽃전시관. Check the official source for entry conditions and current availability.",
+        "status": "ai_draft",
+        "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "高陽秋の花祭り トークコンサート",
+        "summary": "開催日：2026-10-09～2026-10-11。会場（韓国語）：고양꽃전시관。参加条件と最新の空き状況は公式案内をご確認ください。",
+        "status": "ai_draft",
+        "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "高阳秋花节访谈音乐会",
+        "summary": "日期：2026-10-09至2026-10-11。地点（韩文）：고양꽃전시관。参加条件及最新名额请查看官方说明。",
+        "status": "ai_draft",
+        "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+        "published": false,
+        "source_url": null
+      }
+    },
+    "parent_event_title": "2026 고양 가을꽃 축제"
+  },
+  {
+    "id": "mohae-goyang-9f942cae63516551",
+    "source_version": "sha256:78d0b24f425198176d71c4d94325c88803da78dc09f06c32711fb33f489f03a7",
+    "title_ko": "2026 고양시 청소년 환경 페스티벌",
+    "summary_ko": "10월31일13~16시 환경·메이커체험, 놀이·피크닉존, 경품이벤트를 운영합니다. 누구나 참여하되 일부 부스·경품은 청소년만 가능합니다.",
+    "category": "festival",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-c5101a4dc620",
+        "name_ko": "송포 호미걸이 공원",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "누구나 참여. 일부 체험부스·경품 청소년만. 부스별 수량한정 조기마감. 국물음식·배달음식 불가.",
+      "sessions": [
+        {
+          "start": "2026-10-31T13:00:00+09:00",
+          "end": "2026-10-31T16:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": null,
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "누구나 참여. 일부 체험부스·경품 청소년만. 부스별 수량한정 조기마감. 국물음식·배달음식 불가."
+    },
+    "evidence": [
+      {
+        "source_id": "source-1a335d1989a3",
+        "url": "https://www.gcyf.or.kr/bbs/board.php?bo_table=notice&wr_id=4292",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "2026 고양시 청소년 환경 페스티벌",
+        "summary": "10월31일13~16시 환경·메이커체험, 놀이·피크닉존, 경품이벤트를 운영합니다. 누구나 참여하되 일부 부스·경품은 청소년만 가능합니다.",
+        "status": "ai_draft",
+        "source_version": "sha256:78d0b24f425198176d71c4d94325c88803da78dc09f06c32711fb33f489f03a7",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "2026 Goyang Youth Environment Festival",
+        "summary": "October 31, 13:00–16:00 at Songpo Homigeori Park. Environmental crafts, play and picnic zones. Open to all; some booths and prizes are youth-only.",
+        "status": "ai_draft",
+        "source_version": "sha256:78d0b24f425198176d71c4d94325c88803da78dc09f06c32711fb33f489f03a7",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "2026 高陽青少年環境フェスティバル",
+        "summary": "10月31日13～16時、松浦ホミゴリ公園。環境工作、遊び、ピクニック。誰でも参加できますが一部体験・景品は青少年限定です。",
+        "status": "ai_draft",
+        "source_version": "sha256:78d0b24f425198176d71c4d94325c88803da78dc09f06c32711fb33f489f03a7",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "2026高阳青少年环境节",
+        "summary": "10月31日13至16时，松浦Homigeori公园。环境手工、游戏和野餐区；所有人可参加，部分体验及奖品仅限青少年。",
+        "status": "ai_draft",
+        "source_version": "sha256:78d0b24f425198176d71c4d94325c88803da78dc09f06c32711fb33f489f03a7",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-20a09dc9341a59f9",
+    "source_version": "sha256:cc5ed3cc032fac27cafe53d8bbfd662cb118df98285419755d80aa6d0d86ae0d",
+    "title_ko": "할로윈 잭-오-랜턴 만들기",
+    "summary_ko": "10월20~23일14~18시 잭오랜턴 만들기. 1인1회이며 재료 소진시 조기 마감합니다.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-cdf7c1161a95",
+        "name_ko": "행신청소년자유공간 1층 놀터 이벤트존",
+        "address_ko": "경기도 고양시 덕양구 충경로 32",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-23",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "재료한정·조기마감. 1인1회. 정확한 연령·요금·접수방식 미확인.",
+      "sessions": [
+        {
+          "start": "2026-10-20T14:00:00+09:00",
+          "end": "2026-10-20T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-21T14:00:00+09:00",
+          "end": "2026-10-21T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-22T14:00:00+09:00",
+          "end": "2026-10-22T18:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-23T14:00:00+09:00",
+          "end": "2026-10-23T18:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": null,
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "재료한정·조기마감. 1인1회. 정확한 연령·요금·접수방식 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-94dde93025b1",
+        "url": "https://www.gcyf.or.kr/hs/bbs/board.php?bo_table=notice&wr_id=4295",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "할로윈 잭-오-랜턴 만들기",
+        "summary": "10월20~23일14~18시 잭오랜턴 만들기. 1인1회이며 재료 소진시 조기 마감합니다.",
+        "status": "ai_draft",
+        "source_version": "sha256:cc5ed3cc032fac27cafe53d8bbfd662cb118df98285419755d80aa6d0d86ae0d",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Halloween Jack-o’-Lantern Craft",
+        "summary": "October 20–23, 14:00–18:00 at Haengsin Youth Free Space, first-floor event zone. One activity per person; closes early if supplies run out.",
+        "status": "ai_draft",
+        "source_version": "sha256:cc5ed3cc032fac27cafe53d8bbfd662cb118df98285419755d80aa6d0d86ae0d",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "ハロウィーン・ジャックオーランタン作り",
+        "summary": "10月20～23日14～18時、幸信青少年自由空間1階イベントゾーン。1人1回、材料がなくなり次第終了。",
+        "status": "ai_draft",
+        "source_version": "sha256:cc5ed3cc032fac27cafe53d8bbfd662cb118df98285419755d80aa6d0d86ae0d",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "万圣节南瓜灯制作",
+        "summary": "10月20至23日14至18时，幸信青少年自由空间一层活动区。每人一次，材料用完提前结束。",
+        "status": "ai_draft",
+        "source_version": "sha256:cc5ed3cc032fac27cafe53d8bbfd662cb118df98285419755d80aa6d0d86ae0d",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-b0f7bbd3610e3908",
+    "source_version": "sha256:02c4bbcd143c3ede44459470aecef1a1339054acd1dd767afed2c70c48efa19a",
+    "title_ko": "영화로 꿈꾸는 DAY",
+    "summary_ko": "10월16일16~17시40분 케이팝 데몬 헌터스를 보는 청소년 여가 프로그램입니다. 세부 입장조건은 기관 확인이 필요합니다.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-e252e47f9a55",
+        "name_ko": "주교청소년자유공간",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "공식 주교청소년자유공간 공지와 동일기관명 포스터. 세부상영실·연령·예약·요금 미확인.",
+      "sessions": [
+        {
+          "start": "2026-10-16T16:00:00+09:00",
+          "end": "2026-10-16T17:40:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": null,
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "공식 주교청소년자유공간 공지와 동일기관명 포스터. 세부상영실·연령·예약·요금 미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-0e678ea1ea91",
+        "url": "https://www.gcyf.or.kr/jg/bbs/board.php?bo_table=notice&page=1&wr_id=4282",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "영화로 꿈꾸는 DAY",
+        "summary": "10월16일16~17시40분 케이팝 데몬 헌터스를 보는 청소년 여가 프로그램입니다. 세부 입장조건은 기관 확인이 필요합니다.",
+        "status": "ai_draft",
+        "source_version": "sha256:02c4bbcd143c3ede44459470aecef1a1339054acd1dd767afed2c70c48efa19a",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Dreaming Through Movies Day",
+        "summary": "October 16, 16:00–17:40 at Jugyo Youth Free Space. Screening of KPop Demon Hunters; admission requirements remain unverified.",
+        "status": "ai_draft",
+        "source_version": "sha256:02c4bbcd143c3ede44459470aecef1a1339054acd1dd767afed2c70c48efa19a",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "映画で夢見るDAY",
+        "summary": "10月16日16～17時40分、舟橋青少年自由空間。KPop Demon Hunters上映。参加条件は施設への確認が必要です。",
+        "status": "ai_draft",
+        "source_version": "sha256:02c4bbcd143c3ede44459470aecef1a1339054acd1dd767afed2c70c48efa19a",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "电影梦想日",
+        "summary": "10月16日16至17时40分，舟桥青少年自由空间放映KPop Demon Hunters。参加条件尚待确认。",
+        "status": "ai_draft",
+        "source_version": "sha256:02c4bbcd143c3ede44459470aecef1a1339054acd1dd767afed2c70c48efa19a",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-285030637b57ae4c",
+    "source_version": "sha256:fc9f73a8b6db42450f90378659384250eef46e0008649814f0b7b99dd4cd6f38",
+    "title_ko": "제4회 한마음 나눔장터 & 음악회",
+    "summary_ko": "10월17일11~17시 장터·체험·전시. 주교올림픽12시30분~14시, 음악회14~16시입니다.",
+    "category": "festival",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-35c5233f42d8",
+        "name_ko": "마상공원 축구장 및 주변",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "나눔장터11~17시. 주민올림픽12:30~14시. 음악회14~16시. 판매자접수와 일반관람조건은 구분 필요.",
+      "sessions": [
+        {
+          "start": "2026-10-17T11:00:00+09:00",
+          "end": "2026-10-17T17:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": null,
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "나눔장터11~17시. 주민올림픽12:30~14시. 음악회14~16시. 판매자접수와 일반관람조건은 구분 필요."
+    },
+    "evidence": [
+      {
+        "source_id": "source-d744d2e078f5",
+        "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1030&q_bbscttSn=20261007163118105",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "제4회 한마음 나눔장터 & 음악회",
+        "summary": "10월17일11~17시 장터·체험·전시. 주교올림픽12시30분~14시, 음악회14~16시입니다.",
+        "status": "ai_draft",
+        "source_version": "sha256:fc9f73a8b6db42450f90378659384250eef46e0008649814f0b7b99dd4cd6f38",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "4th Hanmaeum Sharing Market and Concert",
+        "summary": "October 17, 11:00–17:00 at Masang Park football field and surroundings. Community market, activities and exhibitions; concert 14:00–16:00.",
+        "status": "ai_draft",
+        "source_version": "sha256:fc9f73a8b6db42450f90378659384250eef46e0008649814f0b7b99dd4cd6f38",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "第4回ハンマウム分かち合い市と音楽会",
+        "summary": "10月17日11～17時、マサン公園サッカー場周辺。市場、体験、展示。音楽会は14～16時。",
+        "status": "ai_draft",
+        "source_version": "sha256:fc9f73a8b6db42450f90378659384250eef46e0008649814f0b7b99dd4cd6f38",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "第四届同心分享集市与音乐会",
+        "summary": "10月17日11至17时，Masang公园足球场及周边。集市、体验和展览，音乐会14至16时。",
+        "status": "ai_draft",
+        "source_version": "sha256:fc9f73a8b6db42450f90378659384250eef46e0008649814f0b7b99dd4cd6f38",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-1fb672655225a389",
+    "source_version": "sha256:c969947e9b289152b394ba16a7f1d567a898ed1f48bd1c46614302aabdd0e5b5",
+    "title_ko": "2026 고양특례시 평생학습축제",
+    "summary_ko": "10월24일11~17시 평생학습 체험·전시부스와 동아리 공연을 운영합니다. 개막식11시30분~12시30분.",
+    "category": "festival",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-ea032e41ea24",
+        "name_ko": "일산호수공원 노래하는분수대 일원",
+        "address_ko": null,
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "시민 참여 안내. 운영부스 모집8/18~9/4는 관객예약기간이 아님.",
+      "sessions": [
+        {
+          "start": "2026-10-24T11:00:00+09:00",
+          "end": "2026-10-24T17:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": null,
+    "reservation": null,
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "시민 참여 안내. 운영부스 모집8/18~9/4는 관객예약기간이 아님."
+    },
+    "evidence": [
+      {
+        "source_id": "source-b8594f68c483",
+        "url": "https://newportal.goyang.go.kr/edu/M000074/S001/fw/bbs/board/00001/view.do?bbs_seq=6239",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "2026 고양특례시 평생학습축제",
+        "summary": "10월24일11~17시 평생학습 체험·전시부스와 동아리 공연을 운영합니다. 개막식11시30분~12시30분.",
+        "status": "ai_draft",
+        "source_version": "sha256:c969947e9b289152b394ba16a7f1d567a898ed1f48bd1c46614302aabdd0e5b5",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "2026 Goyang Lifelong Learning Festival",
+        "summary": "October 24, 11:00–17:00 around Ilsan Lake Park’s Singing Fountain. Learning activities, exhibitions and club performances; opening ceremony 11:30–12:30.",
+        "status": "ai_draft",
+        "source_version": "sha256:c969947e9b289152b394ba16a7f1d567a898ed1f48bd1c46614302aabdd0e5b5",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "2026 高陽生涯学習祭り",
+        "summary": "10月24日11～17時、一山湖水公園・歌う噴水周辺。体験、展示、学習サークル公演。開幕式11時30分～12時30分。",
+        "status": "ai_draft",
+        "source_version": "sha256:c969947e9b289152b394ba16a7f1d567a898ed1f48bd1c46614302aabdd0e5b5",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "2026高阳终身学习节",
+        "summary": "10月24日11至17时，一山湖水公园音乐喷泉周边。学习体验、展览及社团表演；开幕式11时30分至12时30分。",
+        "status": "ai_draft",
+        "source_version": "sha256:c969947e9b289152b394ba16a7f1d567a898ed1f48bd1c46614302aabdd0e5b5",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-13106a1b40932331",
+    "source_version": "sha256:e0e23fde033e849d938309a04db605c7a06acb30109f2ba22b43d93cb77780b6",
+    "title_ko": "10월 자연환경 해설 및 체험: 가을 열매와 신나게 놀아요",
+    "summary_ko": "매주 화~토10~12시, 공휴일 휴관. 5세~성인15명. 온라인신청.7명미만취소;기상에따라취소·변경. 어린이단체 인솔필수.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-496112ecb5c6",
+        "name_ko": "고양생태교육센터",
+        "address_ko": "경기도 고양시 일산서구 대화로 315",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-31",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "매주 화~토10~12시, 공휴일 휴관. 5세~성인15명. 온라인신청.7명미만취소;기상에따라취소·변경. 어린이단체 인솔필수.",
+      "sessions": [
+        {
+          "start": "2026-10-01T10:00:00+09:00",
+          "end": "2026-10-01T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-02T10:00:00+09:00",
+          "end": "2026-10-02T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-06T10:00:00+09:00",
+          "end": "2026-10-06T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-07T10:00:00+09:00",
+          "end": "2026-10-07T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-08T10:00:00+09:00",
+          "end": "2026-10-08T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-10T10:00:00+09:00",
+          "end": "2026-10-10T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-13T10:00:00+09:00",
+          "end": "2026-10-13T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-14T10:00:00+09:00",
+          "end": "2026-10-14T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-15T10:00:00+09:00",
+          "end": "2026-10-15T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-16T10:00:00+09:00",
+          "end": "2026-10-16T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-17T10:00:00+09:00",
+          "end": "2026-10-17T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-20T10:00:00+09:00",
+          "end": "2026-10-20T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-21T10:00:00+09:00",
+          "end": "2026-10-21T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-22T10:00:00+09:00",
+          "end": "2026-10-22T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-23T10:00:00+09:00",
+          "end": "2026-10-23T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-24T10:00:00+09:00",
+          "end": "2026-10-24T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-27T10:00:00+09:00",
+          "end": "2026-10-27T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-28T10:00:00+09:00",
+          "end": "2026-10-28T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-29T10:00:00+09:00",
+          "end": "2026-10-29T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-30T10:00:00+09:00",
+          "end": "2026-10-30T12:00:00+09:00",
+          "status": "scheduled"
+        },
+        {
+          "start": "2026-10-31T10:00:00+09:00",
+          "end": "2026-10-31T12:00:00+09:00",
+          "status": "scheduled"
+        }
+      ],
+      "exceptions": [
+        {
+          "date": "2026-10-09",
+          "closed": true,
+          "reason_ko": "공휴일 휴관 안내"
+        }
+      ],
+      "precision": "complete_sessions"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "수강료 무료"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=351",
+      "raw_ko": "온라인 사전신청 필요. 개별 회차 잔여석·승인 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "매주 화~토10~12시, 공휴일 휴관. 5세~성인15명. 온라인신청.7명미만취소;기상에따라취소·변경. 어린이단체 인솔필수."
+    },
+    "evidence": [
+      {
+        "source_id": "source-98c283f10fad",
+        "url": "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=351",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "10월 자연환경 해설 및 체험: 가을 열매와 신나게 놀아요",
+        "summary": "매주 화~토10~12시, 공휴일 휴관. 5세~성인15명. 온라인신청.7명미만취소;기상에따라취소·변경. 어린이단체 인솔필수.",
+        "status": "ai_draft",
+        "source_version": "sha256:e0e23fde033e849d938309a04db605c7a06acb30109f2ba22b43d93cb77780b6",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "October Nature Interpretation: Autumn Seeds and Fruits",
+        "summary": "October 1–31, Tuesday–Saturday 10:00–12:00, excluding public holidays. Ages 5 to adult. Free online booking; minimum attendance and weather restrictions apply.",
+        "status": "ai_draft",
+        "source_version": "sha256:e0e23fde033e849d938309a04db605c7a06acb30109f2ba22b43d93cb77780b6",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "10月の自然解説・体験：秋の実と遊ぼう",
+        "summary": "10月1～31日、火～土10～12時（祝日休館）。5歳以上、無料・オンライン申込。人数不足や悪天候で中止・変更の場合があります。",
+        "status": "ai_draft",
+        "source_version": "sha256:e0e23fde033e849d938309a04db605c7a06acb30109f2ba22b43d93cb77780b6",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "十月自然解说与体验：秋日果实",
+        "summary": "10月1至31日，周二至周六10至12时，节假日闭馆。5岁以上，免费网上报名；人数不足或天气不佳可能取消。",
+        "status": "ai_draft",
+        "source_version": "sha256:e0e23fde033e849d938309a04db605c7a06acb30109f2ba22b43d93cb77780b6",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-63e378622c7f39e9",
+    "source_version": "sha256:c99e8a20e13ed4e6b3982e46cd910a8fb73390b293a74d547725dbb2d75d9364",
+    "title_ko": "가족 참여 토닥 토닥 수고했어!",
+    "summary_ko": "가족60명. 무료온라인신청9/24~10/13 17시. 표시시간10~12시/14~16시이나 실제회차별날짜 미검증. 연속매일운영으로 간주하지 않음.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-496112ecb5c6",
+        "name_ko": "고양생태교육센터",
+        "address_ko": "경기도 고양시 일산서구 대화로 315",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-17",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "가족60명. 무료온라인신청9/24~10/13 17시. 표시시간10~12시/14~16시이나 실제회차별날짜 미검증. 연속매일운영으로 간주하지 않음.",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "수강료 무료"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=352",
+      "raw_ko": "온라인 사전신청 필요. 개별 회차 잔여석·승인 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "가족60명. 무료온라인신청9/24~10/13 17시. 표시시간10~12시/14~16시이나 실제회차별날짜 미검증. 연속매일운영으로 간주하지 않음."
+    },
+    "evidence": [
+      {
+        "source_id": "source-ddf0b136dcb9",
+        "url": "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=352",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "가족 참여 토닥 토닥 수고했어!",
+        "summary": "가족60명. 무료온라인신청9/24~10/13 17시. 표시시간10~12시/14~16시이나 실제회차별날짜 미검증. 연속매일운영으로 간주하지 않음.",
+        "status": "ai_draft",
+        "source_version": "sha256:c99e8a20e13ed4e6b3982e46cd910a8fb73390b293a74d547725dbb2d75d9364",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Family Nature Programme: Well Done!",
+        "summary": "October 10–17 at Goyang Ecology Education Center. Free online registration for families. Individual session dates must be confirmed before booking.",
+        "status": "ai_draft",
+        "source_version": "sha256:c99e8a20e13ed4e6b3982e46cd910a8fb73390b293a74d547725dbb2d75d9364",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "家族向け自然体験「おつかれさま！」",
+        "summary": "10月10～17日、高陽生態教育センター。家族対象、無料・オンライン申込。実施回ごとの日程は要確認。",
+        "status": "ai_draft",
+        "source_version": "sha256:c99e8a20e13ed4e6b3982e46cd910a8fb73390b293a74d547725dbb2d75d9364",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "家庭自然活动：辛苦了！",
+        "summary": "10月10至17日，高阳生态教育中心。面向家庭，免费网上报名；具体场次日期需确认。",
+        "status": "ai_draft",
+        "source_version": "sha256:c99e8a20e13ed4e6b3982e46cd910a8fb73390b293a74d547725dbb2d75d9364",
+        "published": false,
+        "source_url": null
+      }
+    }
+  },
+  {
+    "id": "mohae-goyang-6205c69f52aa9dee",
+    "source_version": "sha256:23d32210067bd76c3e7c2390d3c71224f36df3d3c7377068d49b4dfdf0d01916",
+    "title_ko": "유아 씨앗기후환경학교: 작은 씨앗 큰 세상",
+    "summary_ko": "어린이집·유치원 등 유아교육기관 대상.15명당강사1명,담임안전관리. 기관명·교사연락처 필요. 무료온라인신청. 개별가족 나들이로 자동추천금지. 실제요일·회차미확인.",
+    "category": "experience",
+    "area_id": "kr-41-goyang",
+    "venues": [
+      {
+        "id": "venue-496112ecb5c6",
+        "name_ko": "고양생태교육센터",
+        "address_ko": "경기도 고양시 일산서구 대화로 315",
+        "latitude": null,
+        "longitude": null,
+        "coordinate_source_url": null
+      }
+    ],
+    "schedule": {
+      "start_date": "2026-09-10",
+      "end_date": "2026-10-30",
+      "timezone": "Asia/Seoul",
+      "raw_ko": "어린이집·유치원 등 유아교육기관 대상.15명당강사1명,담임안전관리. 기관명·교사연락처 필요. 무료온라인신청. 개별가족 나들이로 자동추천금지. 실제요일·회차미확인.",
+      "sessions": [],
+      "exceptions": [],
+      "precision": "dates_only"
+    },
+    "status": "scheduled",
+    "price": {
+      "kind": "free",
+      "currency": "KRW",
+      "min": 0,
+      "max": 0,
+      "raw_ko": "수강료 무료"
+    },
+    "reservation": {
+      "required": true,
+      "url": "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=350",
+      "raw_ko": "온라인 사전신청 필요. 개별 회차 잔여석·승인 미확인."
+    },
+    "onsite_languages": null,
+    "visitor_access": {
+      "korean_phone_required": null,
+      "local_identity_required": null,
+      "foreign_card_accepted": null,
+      "notes_ko": "어린이집·유치원 등 유아교육기관 대상.15명당강사1명,담임안전관리. 기관명·교사연락처 필요. 무료온라인신청. 개별가족 나들이로 자동추천금지. 실제요일·회차미확인."
+    },
+    "evidence": [
+      {
+        "source_id": "source-5d865810a838",
+        "url": "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=350",
+        "fields": [
+          "title_ko",
+          "venues",
+          "schedule"
+        ],
+        "checked_at": "2026-10-09T20:20:45+09:00",
+        "note_ko": "공식 본문 또는 공식 공지에 첨부된 포스터를 직접 확인. 사진 재게시 권리와 별개로 사실을 정리."
+      }
+    ],
+    "last_verified_at": "2026-10-09T20:20:45+09:00",
+    "publication_status": "research",
+    "translations": {
+      "ko": {
+        "display_title": "유아 씨앗기후환경학교: 작은 씨앗 큰 세상",
+        "summary": "어린이집·유치원 등 유아교육기관 대상.15명당강사1명,담임안전관리. 기관명·교사연락처 필요. 무료온라인신청. 개별가족 나들이로 자동추천금지. 실제요일·회차미확인.",
+        "status": "ai_draft",
+        "source_version": "sha256:23d32210067bd76c3e7c2390d3c71224f36df3d3c7377068d49b4dfdf0d01916",
+        "published": false,
+        "source_url": null
+      },
+      "en": {
+        "display_title": "Preschool Climate School: Small Seeds, Big World",
+        "summary": "September 10–October 30 at Goyang Ecology Education Center. Free institution-based preschool programme; individual family drop-in visits are not confirmed.",
+        "status": "ai_draft",
+        "source_version": "sha256:23d32210067bd76c3e7c2390d3c71224f36df3d3c7377068d49b4dfdf0d01916",
+        "published": false,
+        "source_url": null
+      },
+      "ja": {
+        "display_title": "幼児気候環境学校：小さな種、大きな世界",
+        "summary": "9月10日～10月30日、高陽生態教育センター。幼稚園・保育施設向け無料プログラム。個人家族の当日参加は未確認。",
+        "status": "ai_draft",
+        "source_version": "sha256:23d32210067bd76c3e7c2390d3c71224f36df3d3c7377068d49b4dfdf0d01916",
+        "published": false,
+        "source_url": null
+      },
+      "zh-Hans": {
+        "display_title": "幼儿气候环境学校：小种子大世界",
+        "summary": "9月10日至10月30日，高阳生态教育中心。面向幼教机构的免费活动，个人家庭随到随参加尚未获确认。",
+        "status": "ai_draft",
+        "source_version": "sha256:23d32210067bd76c3e7c2390d3c71224f36df3d3c7377068d49b4dfdf0d01916",
+        "published": false,
+        "source_url": null
+      }
+    }
+  }
+]

@@ -1,0 +1,4196 @@
+{
+  "scope": "서울·경기 2026-10-09~2026-12-31 조사. 지역 전체 완전성 및 실시간 운영 보장 아님",
+  "generated_at": "2026-10-09T12:53:03.601Z",
+  "registered": 232,
+  "states_at_publication": {
+    "reviewed": 126,
+    "listed": 98,
+    "conflict": 6,
+    "unreviewed": 2
+  },
+  "events": [
+    {
+      "id": "mohae-goyang-e6da1b391beb5c1c",
+      "title": "2026 고양 가을꽃 축제",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=652&tourRsrcNo=1923",
+        "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y"
+      ]
+    },
+    {
+      "id": "mohae-goyang-03a9f44070a621cb",
+      "title": "가을밤, 고양에 물들다",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=",
+        "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd="
+      ]
+    },
+    {
+      "id": "mohae-goyang-9a1065174eb5415a",
+      "title": "2026 아람 클래식 - 아트하우스 17 내한공연",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://m.artgy.or.kr/Ticket/Performance/Details?performanceId=9610",
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008389"
+      ]
+    },
+    {
+      "id": "mohae-goyang-18a6121854d03004",
+      "title": "코베 베이비페어·유아교육전 일산",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.cobe.co.kr/__page/kintex/summary.php",
+        "https://www.cobe.co.kr/__page/kintex/visit_info.php",
+        "https://www.cobe.co.kr/__page/kintex/summary.php"
+      ]
+    },
+    {
+      "id": "mohae-goyang-25f15ce12b08b4ff",
+      "title": "2026 카페&베이커리페어 시즌2",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.cafenbakeryfair.com/page/page4"
+      ]
+    },
+    {
+      "id": "mohae-goyang-e8ab44efdfdec122",
+      "title": "Charlie Puth - Whatever's Clever! World Tour",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "hours",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://nol.yanolja.com/ticket/products/26005759"
+      ]
+    },
+    {
+      "id": "mohae-goyang-9b00ac974e446dee",
+      "title": "DMZ 평화의 길, 고양 장항습지생태 코스",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "hours",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+      ]
+    },
+    {
+      "id": "mohae-goyang-943e94b2c7fa0813",
+      "title": "2026년 10월 백마 화사랑 오픈 마이크",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldr.do?q_sn=3581",
+        "https://newportal.goyang.go.kr/dygu/index.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-17721f6917df7a94",
+      "title": "해움·새들 오픈스튜디오 #4 연계 기획전시",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldr.do?q_sn=3579"
+      ]
+    },
+    {
+      "id": "mohae-goyang-e96398033f9f7aa6",
+      "title": "비누 속에 그림을 쏙, 클레이솝 만들기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gcyf.or.kr/bbs/board.php?bo_table=notice&wr_id=4293"
+      ]
+    },
+    {
+      "id": "mohae-goyang-8c9c2baf89a04450",
+      "title": "그림책 속 놀이터",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-4e8207772a773223",
+      "title": "안녕을 묻는 저녁② 예소연 작가와의 만남",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-a21fb2890b8fd220",
+      "title": "유튜브 입문 1인 크리에이터 미디어 클래스",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-b088f431b2245d0e",
+      "title": "삶을 기록하는 문장들",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-f7b1015217613b09",
+      "title": "꼬마농부의 텃밭 대작전!",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-d1c11ec8a9b97e63",
+      "title": "내가 사는 고양, 내가 그린 고양(시즌2) 10월",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-b00a67fa8046b43a",
+      "title": "문학으로 디베이트 하기 2차시",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MT/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-73dba1ce785c874c",
+      "title": "10월 최소한의 이기주의자",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-fd4f8348de33cb65",
+      "title": "책 읽어주는 도서관",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-59416543c0f33694",
+      "title": "학교 가는 책 친구, 도서관에서 레벨업!",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-595e3b56cf96bbbb",
+      "title": "차향으로 읽는 고전 2차시: 아침의 첫 잔",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MN/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-a5f8d9702f3ff98f",
+      "title": "차향으로 읽는 고전 1차시: 고전 읽기의 즐거움",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MN/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-c79bd17310a29ddb",
+      "title": "일상이 글이 되려면",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "fee",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MM/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-a5a6054619e588f3",
+      "title": "도란도란 그림책 읽어주기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MM/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-8c556e2abfbde4b6",
+      "title": "이 계절의 클래식 시즌4: 겨울, 도서관에서 듣는 근대시대 음악",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MF/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-6ff47369d4bf8d81",
+      "title": "달마다 책모임: 인생, 위화 장편소설",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MF/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-a130d8d517b79f9a",
+      "title": "에코라이프 로그: 12달의 초록 기록",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "conflict",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/ML/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-cb3fdda3758ac68a",
+      "title": "기후 프레스크",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/ML/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-1c653314c424140e",
+      "title": "그림책과 종이접기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MK/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-85892a5669de7b62",
+      "title": "10월 모여라! 그림책 놀이터",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MK/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-a68928f5d9e275ca",
+      "title": "3시의 그림책 여행",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "unreviewed",
+      "missing": [
+        "dates",
+        "hours",
+        "venue",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": []
+    },
+    {
+      "id": "mohae-goyang-96ee2947d6a95b0b",
+      "title": "도시 어린이 농부",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "unreviewed",
+      "missing": [
+        "dates",
+        "hours",
+        "venue",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": []
+    },
+    {
+      "id": "mohae-goyang-6ebe008730d796d9",
+      "title": "임신부 독서모임 배부른 책읽기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MG/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-7fc1dd01588bf4d0",
+      "title": "2026 행주가 예술이야",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832",
+        "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=844",
+        "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832"
+      ]
+    },
+    {
+      "id": "mohae-goyang-336c91d688bd512b",
+      "title": "왕릉 책마당 – 서오릉",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://jrtf.or.kr/info/program/?idx=14"
+      ]
+    },
+    {
+      "id": "mohae-goyang-27b994c28aa78a01",
+      "title": "상상력이 쑥쑥! 나만의 AI 동화 만들기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/ME/program/lectureDetail.do?lectureIdx=516375"
+      ]
+    },
+    {
+      "id": "mohae-goyang-ddee156d9fd5f2c1",
+      "title": "그림책으로 키우는 미디어 문해력",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "conflict",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/ME/program/lectureDetail.do?lectureIdx=515079"
+      ]
+    },
+    {
+      "id": "mohae-goyang-f42d4efa43063738",
+      "title": "옛날 이야기랑 놀자! 북스타트 연계",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MV/program/lectureDetail.do?lectureIdx=515801"
+      ]
+    },
+    {
+      "id": "mohae-goyang-5f0e19c487152a56",
+      "title": "오늘부터 나도 도시농부",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MV/program/lectureDetail.do?lectureIdx=518240"
+      ]
+    },
+    {
+      "id": "mohae-goyang-cb806a94af486608",
+      "title": "문학으로 만나는 인간의 조건",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MP/menu/12499/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-0af88a3e3e00cc2f",
+      "title": "도서관에 온 꼬마농부",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MP/menu/12499/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-4c67d3ec7c5c4047",
+      "title": "2026 고양특례시 청소년어울림마당 아트樂",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gcyf.or.kr/td/bbs/board.php?bo_table=notice&wr_id=4274",
+        "https://www.gcyf.or.kr/td/bbs/board.php?bo_table=notice&wr_id=4274"
+      ]
+    },
+    {
+      "id": "mohae-goyang-6bebbd10d625b144",
+      "title": "지도로 풀어보는 세계사",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MH/program/lectureDetail.do?lectureIdx=518479"
+      ]
+    },
+    {
+      "id": "mohae-goyang-926e19d041a838e7",
+      "title": "캔바 AI로 만드는 나의 꿈 콘텐츠",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MI/program/lectureDetail.do?lectureIdx=517823"
+      ]
+    },
+    {
+      "id": "mohae-goyang-f2e18bd4e7766a61",
+      "title": "Granny와 뒹굴뒹굴 영어그림책",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MI/program/lectureDetail.do?lectureIdx=482525"
+      ]
+    },
+    {
+      "id": "mohae-goyang-682092d97e35ec76",
+      "title": "강은철&자전거탄풍경&양하영의 가을 편지",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008435",
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008435"
+      ]
+    },
+    {
+      "id": "mohae-goyang-24930104d11c381f",
+      "title": "어린이 베스트셀러 뮤지컬 콧구멍을 후비면",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008428"
+      ]
+    },
+    {
+      "id": "mohae-goyang-cbc7554d448ed51f",
+      "title": "성악가 부부의 아름다운 사랑이야기 \"노래는 사랑을 싣고\"",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008448"
+      ]
+    },
+    {
+      "id": "mohae-goyang-5e2e95288f17b736",
+      "title": "페인터즈",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008412"
+      ]
+    },
+    {
+      "id": "mohae-goyang-1c0edd031d1c37b9",
+      "title": "명작 라이브 가족뮤지컬 라푼젤",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008433"
+      ]
+    },
+    {
+      "id": "mohae-goyang-8d6f2609db559076",
+      "title": "소프라노 양세원 리사이틀",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008460"
+      ]
+    },
+    {
+      "id": "mohae-goyang-cc14b70d7616430e",
+      "title": "THE DREAM FESTIVAL",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/EH/EH0201V.aspx?showid=0000008476",
+        "https://www.artgy.or.kr/EH/EH0201V.aspx?showid=0000008476"
+      ]
+    },
+    {
+      "id": "mohae-goyang-11244459d288c6f3",
+      "title": "꿈틀 그림책 교실 – 10월 나",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MO/program/lectureDetail.do?lectureIdx=518315"
+      ]
+    },
+    {
+      "id": "mohae-goyang-d0a8c0c479f3051d",
+      "title": "영어그림책 리딩수업",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "fee",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MO/program/lectureDetail.do?lectureIdx=518321"
+      ]
+    },
+    {
+      "id": "mohae-goyang-be16d900b7c3c113",
+      "title": "포켓몬 카드로 배우는 미국 주식 – 십대를 위한 경제수업",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "conflict",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MO/program/lectureDetail.do?lectureIdx=518306"
+      ]
+    },
+    {
+      "id": "mohae-goyang-826a8820f5233d3c",
+      "title": "2026 고양꽃향기페스타",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+        "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1030&q_bbscttSn=20261007170055846"
+      ]
+    },
+    {
+      "id": "mohae-goyang-91418530770bfbff",
+      "title": "제19회 꽃우물축제",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T17:43:35+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/dong/user/bbs/BD_selectBbs.do?q_bbsCode=1074&q_bbscttSn=20261002091534466",
+        "https://www.goyang.go.kr/dong/user/bbs/BD_selectBbs.do?q_bbsCode=1074&q_bbscttSn=20261002091534466"
+      ]
+    },
+    {
+      "id": "mohae-goyang-c5d1c685f73971ae",
+      "title": "AI 실전 창작소",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MN/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-389bf05b171a2a6b",
+      "title": "취업 글쓰기: AI를 활용한 자기탐색과 자기소개서 작성",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MF/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-5be033bd9ddf5393",
+      "title": "그림책 속 놀이동산",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/ML/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-2a6501ed5a0ac9bc",
+      "title": "K-시니어를 위한 스마트폰 활용 교육",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "conflict",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MV/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-dfdb77f98f3bb680",
+      "title": "높빛북클럽 독서동아리",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MV/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-b3837fbb74a205be",
+      "title": "꼼지락 책놀이터",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MH/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-3b5ed9f2cd49c398",
+      "title": "책 밖으로 나온 역사 – 1회차 서오릉 역사 탐방",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "conflict",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-e9bbba16f4173140",
+      "title": "2026 길 위의 인문학 – 행신",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MB/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-336319edbc0e7a69",
+      "title": "도서관 어린이 농부 – 행신",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MB/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-9e3e61d32f90e20f",
+      "title": "문학의 숲에 사는 12동물",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "conflict",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "recheck_after": "2026-10-10T20:20:55+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MB/program/lectureList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-541b189b3e2069c9",
+      "title": "레이저각인 장비 활용 교육",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-ae8f94647d82f591",
+      "title": "승화전사 평판프레스 장비 활용 교육",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-711ca15cbeaeff73",
+      "title": "AI 독서 탐험대",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-0b8855ee1f1fc500",
+      "title": "생성형 AI 승화전사 머그컵 만들기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-21e0a239957109b3",
+      "title": "AI로 쉽게 시작하는 3D프린터 모델링",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-ffdf164aa4bfab92",
+      "title": "업사이클링 양말목 수납 바구니 만들기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-c833ee66c8f80b3a",
+      "title": "유니맷 스카시톱 컵받침 만들기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-a7bf36786a1a45ed",
+      "title": "현직 작가에게 배우는 웹툰 입문",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-dd5aa0d73fbd1bc5",
+      "title": "가족 드론 미션 챌린지",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "recheck_after": "2026-10-10T20:24:00+09:00",
+      "missing": [
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do"
+      ]
+    },
+    {
+      "id": "mohae-goyang-4a796647a68417b8",
+      "title": "윤별발레컴퍼니 카르멘",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008384"
+      ]
+    },
+    {
+      "id": "mohae-goyang-4e5941b0f66fd871",
+      "title": "고양시남성합창단 33회 정기연주회",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008454"
+      ]
+    },
+    {
+      "id": "mohae-goyang-78e41373d42df54a",
+      "title": "고양시립합창단 제85회 정기연주회",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008445"
+      ]
+    },
+    {
+      "id": "mohae-goyang-1411ba6feadff549",
+      "title": "2026 윤종신 전국투어콘서트 가을냄새 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008415"
+      ]
+    },
+    {
+      "id": "mohae-goyang-41b1aa4286a379af",
+      "title": "2026 아람 클래식 비킹구르 올라프손 피아노 리사이틀",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008391"
+      ]
+    },
+    {
+      "id": "mohae-goyang-475107bf9c0e5d01",
+      "title": "류이치 사카모토 트리뷰트 콘서트",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008270"
+      ]
+    },
+    {
+      "id": "mohae-goyang-a8a09e2826b81408",
+      "title": "2026 고양시민을 위한 Orchestra + Ukulele 콜라보",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008397"
+      ]
+    },
+    {
+      "id": "mohae-goyang-50900a2a4a643a37",
+      "title": "DMZ OPEN 국제음악제 Pulse - 시작의 박동",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008462"
+      ]
+    },
+    {
+      "id": "mohae-goyang-513d7f4f601514a4",
+      "title": "DMZ OPEN 국제음악제 Awaken - 깨어나는 평화",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008463"
+      ]
+    },
+    {
+      "id": "mohae-goyang-7e38689b3634c650",
+      "title": "DMZ OPEN 국제음악제 Connect - 연결되는 마음",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008468"
+      ]
+    },
+    {
+      "id": "mohae-goyang-eaedf055d8037d22",
+      "title": "DMZ OPEN 국제음악제 Eternity - 계속될 평화",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008469"
+      ]
+    },
+    {
+      "id": "mohae-goyang-39ab195f806f77d2",
+      "title": "김창완 밴드 콘서트 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008424"
+      ]
+    },
+    {
+      "id": "mohae-goyang-db7868e4bf02e32d",
+      "title": "2026 고카프 킨텍스 더 파이널 시즌 PART 1",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://gocaf.kr/exhibition-info/2026-gocaf-kintex-the-final-season1/"
+      ]
+    },
+    {
+      "id": "mohae-goyang-4ecbb7bea1ec79cb",
+      "title": "스페인 미술 거장전 - 피카소, 미로, 달리",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.artgy.or.kr/EH/EH0201V.aspx?showid=0000008405"
+      ]
+    },
+    {
+      "id": "mohae-goyang-281fd10c8a65a9a3",
+      "title": "2026 고양동물교감치유문화제",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/dygu/user/bbs/BD_selectBbs.do?q_bbsCode=1030&q_bbscttSn=20261007185919613"
+      ]
+    },
+    {
+      "id": "mohae-goyang-b82bfd08f5488d6a",
+      "title": "2026 다문화 어울마당",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/dygu/user/eventCldr/BD_selectEventCldr.do?q_sn=3577"
+      ]
+    },
+    {
+      "id": "mohae-goyang-e3ed25a02e7d4e1c",
+      "title": "능참봉이 들려주는 왕릉 이야기 – 서오릉",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://jrtf.or.kr/info/program/?idx=8"
+      ]
+    },
+    {
+      "id": "mohae-goyang-fb05979a065342b8",
+      "title": "능침 특별 개방 – 서오릉",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://jrtf.or.kr/info/program/?idx=12"
+      ]
+    },
+    {
+      "id": "mohae-goyang-36a33064f72acc65",
+      "title": "조선왕릉 제향 체험 – 서오릉",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://jrtf.or.kr/info/program/?idx=15"
+      ]
+    },
+    {
+      "id": "mohae-goyang-5a38eec3462b1dea",
+      "title": "조선명탐정 왕릉사관록 – 서오릉",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "hours",
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://jrtf.or.kr/info/program/?idx=11"
+      ]
+    },
+    {
+      "id": "mohae-goyang-d8cd4ccc0a25c744",
+      "title": "왕릉 컬처라운지 – 서오릉",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "hours",
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://jrtf.or.kr/info/program/?idx=13"
+      ]
+    },
+    {
+      "id": "mohae-goyang-b94a8a6dd5d3e63d",
+      "title": "2026 경기공예문화축제",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y"
+      ]
+    },
+    {
+      "id": "mohae-goyang-b957dc9f49a31d09",
+      "title": "2026 고양가을꽃축제 토크콘서트",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "recheck_after": "2026-10-10T20:23:33+09:00",
+      "missing": [
+        "hours",
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y"
+      ]
+    },
+    {
+      "id": "mohae-goyang-9f942cae63516551",
+      "title": "2026 고양시 청소년 환경 페스티벌",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gcyf.or.kr/bbs/board.php?bo_table=notice&wr_id=4292"
+      ]
+    },
+    {
+      "id": "mohae-goyang-20a09dc9341a59f9",
+      "title": "할로윈 잭-오-랜턴 만들기",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gcyf.or.kr/hs/bbs/board.php?bo_table=notice&wr_id=4295"
+      ]
+    },
+    {
+      "id": "mohae-goyang-b0f7bbd3610e3908",
+      "title": "영화로 꿈꾸는 DAY",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gcyf.or.kr/jg/bbs/board.php?bo_table=notice&page=1&wr_id=4282"
+      ]
+    },
+    {
+      "id": "mohae-goyang-285030637b57ae4c",
+      "title": "제4회 한마음 나눔장터 & 음악회",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1030&q_bbscttSn=20261007163118105"
+      ]
+    },
+    {
+      "id": "mohae-goyang-1fb672655225a389",
+      "title": "2026 고양특례시 평생학습축제",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://newportal.goyang.go.kr/edu/M000074/S001/fw/bbs/board/00001/view.do?bbs_seq=6239"
+      ]
+    },
+    {
+      "id": "mohae-goyang-13106a1b40932331",
+      "title": "10월 자연환경 해설 및 체험: 가을 열매와 신나게 놀아요",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=351"
+      ]
+    },
+    {
+      "id": "mohae-goyang-63e378622c7f39e9",
+      "title": "가족 참여 토닥 토닥 수고했어!",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "hours",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=352"
+      ]
+    },
+    {
+      "id": "mohae-goyang-6205c69f52aa9dee",
+      "title": "유아 씨앗기후환경학교: 작은 씨앗 큰 세상",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "recheck_after": "2026-10-10T20:20:45+09:00",
+      "missing": [
+        "hours",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.goyang.go.kr/ecoedu/enrolment/listview.do?idx=350"
+      ]
+    },
+    {
+      "id": "seoul-taste-2026",
+      "title": "2026 서울미식주간",
+      "area_id": "kr-11-seoul-wide",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/eventsx/TASTE-OF-SEOUL2026/KOPbdvixl"
+      ]
+    },
+    {
+      "id": "seoul-urban-planning-2026",
+      "title": "서울도시계획 대관람",
+      "area_id": "kr-11-jongno",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/SeoulUrbanPlanning/KOP72abp2"
+      ]
+    },
+    {
+      "id": "seoul-gallery-autumn-2026",
+      "title": "서울갤러리 가을맞이 특별행사",
+      "area_id": "kr-11-jung",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/events/SeoulGalleryAutumnSpecialEvent/KOPb6opgy"
+      ]
+    },
+    {
+      "id": "seoul-natural-unrestrained-2026",
+      "title": "우리는 자연스러웠고 거침없었다",
+      "area_id": "kr-11-jung",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/We-Were-Natural-and-Unrestrained/KOP6njrb9"
+      ]
+    },
+    {
+      "id": "seoul-sinawi-2026",
+      "title": "국립무용단 더블빌: 시나위",
+      "area_id": "kr-11-jung",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/DOUBLEBILL-SINAWI/KOPevx16g"
+      ]
+    },
+    {
+      "id": "seoul-gohuidong-2026",
+      "title": "만고상청: 군자의 품격",
+      "area_id": "kr-11-jongno",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/TheDignityoftheNobleScholar/KOPn5137y"
+      ]
+    },
+    {
+      "id": "seoul-bitseom-2026",
+      "title": "2026 서울라이트 한강 빛섬축제",
+      "area_id": "kr-11-yongsan",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/events/2026SEOULLIGHT-BITSEOMFESTIVAL/KOPjfg1i9"
+      ]
+    },
+    {
+      "id": "seoul-grain-light-2026",
+      "title": "김덕용·변용국 2인전: 결에 머문 빛",
+      "area_id": "kr-11-gangnam",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/Light-Resting-in-the-Grain/KOPm986je"
+      ]
+    },
+    {
+      "id": "seoul-human-error-2026",
+      "title": "2026 타이틀 매치: 오인환 vs. 장서영—휴먼 에러",
+      "area_id": "kr-11-nowon",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/TitleMatch2026/KOPx8qi2o"
+      ]
+    },
+    {
+      "id": "seoul-sookjinjo-2026",
+      "title": "조숙진: 지나가는 자리",
+      "area_id": "kr-11-gwanak",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/ThatsHowtheLightGetsIn/KOPo2o028"
+      ]
+    },
+    {
+      "id": "seoul-kaws-2026",
+      "title": "카우스: 친구, 그리고 이웃",
+      "area_id": "kr-11-gangseo",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/KAWS/KOPzy336c"
+      ]
+    },
+    {
+      "id": "seoul-martin-parr-2026",
+      "title": "마틴 파: We Are Martin Parr",
+      "area_id": "kr-11-dobong",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/We-Are-Martin-Parr/KOPgeb6on"
+      ]
+    },
+    {
+      "id": "seoul-simlee-2026",
+      "title": "보편타당한 당신—심이다은",
+      "area_id": "kr-11-nowon",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/You-As-You-Are/KOPlhr9s8"
+      ]
+    },
+    {
+      "id": "seoul-full-colors-2026",
+      "title": "팔색찬란—K로 가득한 지역",
+      "area_id": "kr-11-jongno",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/Full-of-Colors/KOPij99b4"
+      ]
+    },
+    {
+      "id": "seoul-kwon-2026",
+      "title": "권병준: 내 마음 속에 너는",
+      "area_id": "kr-11-nowon",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/exhibition/IEmbraceYou/KOPm8j6gm"
+      ]
+    },
+    {
+      "id": "seoul-outdoor-library-2026",
+      "title": "2026 서울야외도서관",
+      "area_id": "kr-11-seoul-wide",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitseoul.net/events/2026SeoulOutdoorLibrary/KOPvro3vg"
+      ]
+    },
+    {
+      "id": "seoul-design-week-2026",
+      "title": "2026 서울디자인위크",
+      "area_id": "kr-11-jung",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=449"
+      ]
+    },
+    {
+      "id": "seoul-moonlight-2026",
+      "title": "2026 노원달빛산책",
+      "area_id": "kr-11-nowon",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=535"
+      ]
+    },
+    {
+      "id": "seoul-shrimp-2026",
+      "title": "제19회 마포나루 새우젓축제",
+      "area_id": "kr-11-mapo",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=556"
+      ]
+    },
+    {
+      "id": "seoul-hangang-autumn-2026",
+      "title": "2026 한강페스티벌—가을",
+      "area_id": "kr-11-seoul-wide",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=400"
+      ]
+    },
+    {
+      "id": "seoul-silvergrass-2026",
+      "title": "제25회 서울억새축제",
+      "area_id": "kr-11-mapo",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=683"
+      ]
+    },
+    {
+      "id": "seoul-bbq-2026",
+      "title": "2026 서울 바비큐 페스티벌",
+      "area_id": "kr-11-mapo",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=350"
+      ]
+    },
+    {
+      "id": "seoul-jeongdong-2026",
+      "title": "2026 정동야행",
+      "area_id": "kr-11-jung",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=601"
+      ]
+    },
+    {
+      "id": "seoul-hanok-2026",
+      "title": "2026 서울한옥위크",
+      "area_id": "kr-11-jongno",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:28:59Z",
+      "recheck_after": "2026-10-10T12:28:59+00:00",
+      "missing": [
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=479"
+      ]
+    },
+    {
+      "id": "paju-korean-gipsy-20261010",
+      "title": "코리안 집시",
+      "area_id": "kr-41-paju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.paju.go.kr/user/link/cultural/BD_index.do"
+      ]
+    },
+    {
+      "id": "paju-energy-day-20261017",
+      "title": "제2회 파주에너지데이",
+      "area_id": "kr-41-paju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.paju.go.kr/user/link/cultural/BD_index.do"
+      ]
+    },
+    {
+      "id": "paju-fair-book-culture-20261009",
+      "title": "파주 페어 북앤컬처",
+      "area_id": "kr-41-paju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.paju.go.kr/user/link/cultural/BD_index.do"
+      ]
+    },
+    {
+      "id": "paju-yulgok-healing-20261009",
+      "title": "율곡힐링캠프",
+      "area_id": "kr-41-paju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.paju.go.kr/user/link/cultural/BD_index.do"
+      ]
+    },
+    {
+      "id": "paju-dmz-open-staging-20261012",
+      "title": "DMZ OPEN 전시: 스테이징",
+      "area_id": "kr-41-paju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.paju.go.kr/user/link/cultural/BD_index.do"
+      ]
+    },
+    {
+      "id": "paju-tongil-tourism-week-20261010",
+      "title": "2026 통일동산 관광특구 방문주간",
+      "area_id": "kr-41-paju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.paju.go.kr/user/link/cultural/BD_index.do"
+      ]
+    },
+    {
+      "id": "paju-ginseng-festival-20261017",
+      "title": "2026 파주개성인삼축제",
+      "area_id": "kr-41-paju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://tour.paju.go.kr/tour/festival/festival02/festival02_1/festival_02_1_tab1_1/festival_02_1_tab1_1_01.jsp"
+      ]
+    },
+    {
+      "id": "yeoncheon-kochia-garden-20260919",
+      "title": "2026 연천 댑싸리정원 개장",
+      "area_id": "kr-41-yeoncheon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.yeoncheon.go.kr/www/index.do"
+      ]
+    },
+    {
+      "id": "yeoncheon-chrysanthemum-20261016",
+      "title": "제8회 연천국화축제",
+      "area_id": "kr-41-yeoncheon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pRo=2&pSeq=13334"
+      ]
+    },
+    {
+      "id": "yeoncheon-yulmu-20261023",
+      "title": "제5회 연천율무축제",
+      "area_id": "kr-41-yeoncheon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.yeoncheon.go.kr/www/index.do"
+      ]
+    },
+    {
+      "id": "yeoncheon-sureul-20261031",
+      "title": "수레울 문화축제",
+      "area_id": "kr-41-yeoncheon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.yeoncheon.go.kr/www/index.do"
+      ]
+    },
+    {
+      "id": "guri-cosmos-20261009",
+      "title": "2026 구리 코스모스 축제",
+      "area_id": "kr-41-guri",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.guri.go.kr/cosmos/index.do?key=7239"
+      ]
+    },
+    {
+      "id": "guri-jangjamot-20261017",
+      "title": "제8회 장자못축제",
+      "area_id": "kr-41-guri",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://guri.go.kr/www/index.do?yyyymm=165005"
+      ]
+    },
+    {
+      "id": "gapyeong-jarasum-jazz-20261009",
+      "title": "제23회 자라섬재즈페스티벌",
+      "area_id": "kr-41-gapyeong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gp.go.kr/portal/selectBbsNttView.do?bbsNo=76&key=443&nttNo=273447"
+      ]
+    },
+    {
+      "id": "gapyeong-dangdang-run-20261101",
+      "title": "2026 댕댕런",
+      "area_id": "kr-41-gapyeong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gp.go.kr/portal/selectBbsNttView.do?bbsNo=76&key=443&nttNo=273447"
+      ]
+    },
+    {
+      "id": "yangju-gwana-night-20261010",
+      "title": "2026 양주관아지 밤마실",
+      "area_id": "kr-41-yangju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.yangju.go.kr/www/selectBbsNttView.do?bbsNo=14&key=203&nttNo=208612"
+      ]
+    },
+    {
+      "id": "yangju-gwana-family-20261011",
+      "title": "다함께 양주관아지 한바퀴",
+      "area_id": "kr-41-yangju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.yangju.go.kr/www/selectBbsNttView.do?bbsNo=14&key=203&nttNo=208745"
+      ]
+    },
+    {
+      "id": "yangju-jeon-gabin-posture-20260929",
+      "title": "전가빈 개인전 《자세》",
+      "area_id": "kr-41-yangju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.yangju.go.kr/www/selectBbsNttView.do?bbsNo=14&key=203&nttNo=208723"
+      ]
+    },
+    {
+      "id": "namyangju-gwangneung-forest-20261024",
+      "title": "제21회 광릉숲축제",
+      "area_id": "kr-41-namyangju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:25:22Z",
+      "recheck_after": "2026-10-10T12:25:22+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.nyj.go.kr/gff/index.do"
+      ]
+    },
+    {
+      "id": "gg-suwon-gwanggyo-autumn-2026",
+      "title": "수원광교박물관 이웃과 함께하는 가을문화축제",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-suwon-gundeul-2026",
+      "title": "제11회 군들 청룡문화제",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-suwon-culture-city-2026",
+      "title": "제3회 문화도시 수원 페스티벌",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-suwon-carbon-2026",
+      "title": "제2회 탄소중립 한마당 축제",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-suwon-hwaseong-2026",
+      "title": "제63회 수원화성문화제",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-suwon-choir-2026",
+      "title": "수원시립합창단 합창음악극 행복시계방",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-suwon-chicken-2026",
+      "title": "2026 수원 통닭거리 축제",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-suwon-orchestra-2026",
+      "title": "수원시립교향악단 제305회 정기연주회",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-suwon-youth-2026",
+      "title": "2026 수원시 청소년 대축제",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.suwon.go.kr/culture/smartSearchList.do?q_ingYn=0"
+      ]
+    },
+    {
+      "id": "gg-hwaseong-clubs-2026",
+      "title": "화성 학생동아리축제",
+      "area_id": "kr-41-hwaseong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://tour.hscity.go.kr/NEW/6festival/festival5.jsp"
+      ]
+    },
+    {
+      "id": "gg-hwaseong-luna-2026",
+      "title": "화성 루나빛축제",
+      "area_id": "kr-41-hwaseong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://tour.hscity.go.kr/NEW/6festival/festival5.jsp"
+      ]
+    },
+    {
+      "id": "gg-hwaseong-learning-2026",
+      "title": "화성시 평생학습축제",
+      "area_id": "kr-41-hwaseong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://tour.hscity.go.kr/NEW/6festival/festival5.jsp"
+      ]
+    },
+    {
+      "id": "gg-pyeongtaek-reeds-2026",
+      "title": "2026 평택 원평나루 억새축제",
+      "area_id": "kr-41-pyeongtaek",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.pccf.or.kr/bbs/view.do?key=2603050028&pstSn=2609170002"
+      ]
+    },
+    {
+      "id": "gg-pyeongtaek-mato-2026",
+      "title": "10월 마토예술제 브로드웨이 인 안정리",
+      "area_id": "kr-41-pyeongtaek",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.pccf.or.kr/bbs/view.do?key=2603050028&pstSn=2609170002"
+      ]
+    },
+    {
+      "id": "gg-pyeongtaek-nongrak-2026",
+      "title": "평택 농업 경관 콘서트 농락",
+      "area_id": "kr-41-pyeongtaek",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.pccf.or.kr/pfmc/pfmcAllList.do"
+      ]
+    },
+    {
+      "id": "gg-seongnam-song-2026",
+      "title": "제27회 성남 박태현 전국 창작동요제",
+      "area_id": "kr-41-seongnam",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.seongnam.go.kr/pm010201"
+      ]
+    },
+    {
+      "id": "gg-seongnam-pinwheel-2026",
+      "title": "제16회 바람개비 콘서트",
+      "area_id": "kr-41-seongnam",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.seongnam.go.kr/pm010201"
+      ]
+    },
+    {
+      "id": "gg-yongin-book-2026",
+      "title": "제8회 용인 북페스티벌",
+      "area_id": "kr-41-yongin",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://lib.yongin.go.kr/dongbaek/20005/bbsPostDetail.do?postIdx=388540"
+      ]
+    },
+    {
+      "id": "gg-gimpo-laveniche-2026",
+      "title": "2026 김포 라베니체축제",
+      "area_id": "kr-41-gimpo",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://m.gimpo.go.kr/culture/selectTourCntntsWebView.do?key=6866&pageIndex=3&pageUnit=8&searchCnd=all&sortTy=RECOMEND&tourNo=1996"
+      ]
+    },
+    {
+      "id": "gg-gimpo-art-2026",
+      "title": "김국주, 어울림을 부탁해",
+      "area_id": "kr-41-gimpo",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gcf.or.kr/main/exh/view.do?exh_sn=1887&mthd=FEST"
+      ]
+    },
+    {
+      "id": "gg-ansan-festa-2026",
+      "title": "안산페스타 2026",
+      "area_id": "kr-41-ansan",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.ansan.go.kr/www/common/bbs/selectBbsDetail.do?bbs_code=B0238&bbs_seq=1684213"
+      ]
+    },
+    {
+      "id": "gg-anyang-youth-2026",
+      "title": "제7회 안양청년축제 청춘은 보라",
+      "area_id": "kr-41-anyang",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.anyang.go.kr/main/index.do"
+      ]
+    },
+    {
+      "id": "gg-siheung-wolgot-2026",
+      "title": "시흥월곶포구축제",
+      "area_id": "kr-41-siheung",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=646ab327-6614-457f-b147-b77abf72e257"
+      ]
+    },
+    {
+      "id": "gg-gwangmyeong-learning-2026",
+      "title": "제23회 광명시 평생학습축제",
+      "area_id": "kr-41-gwangmyeong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-bucheon-biaf-2026",
+      "title": "제28회 부천국제애니메이션페스티벌",
+      "area_id": "kr-41-bucheon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-seongnam-tech-2026",
+      "title": "2026 성남 테크아트 페스티벌",
+      "area_id": "kr-41-seongnam",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-yangpyeong-chives-2026",
+      "title": "제7회 양평 부추축제",
+      "area_id": "kr-41-yangpyeong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-yangpyeong-gardens-2026",
+      "title": "제14회 경기정원문화박람회",
+      "area_id": "kr-41-yangpyeong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-yangpyeong-ferment-2026",
+      "title": "제3회 지평전통발효축제",
+      "area_id": "kr-41-yangpyeong",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-yeoju-grains-2026",
+      "title": "여주오곡나루축제",
+      "area_id": "kr-41-yeoju",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-osan-doksanseong-2026",
+      "title": "제17회 오산독산성문화제",
+      "area_id": "kr-41-osan",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-icheon-rice-2026",
+      "title": "제25회 이천쌀문화축제",
+      "area_id": "kr-41-icheon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "gg-icheon-pets-2026",
+      "title": "2026 이천펫축제",
+      "area_id": "kr-41-icheon",
+      "review_state_at_publication": "listed",
+      "checked_at": "2026-10-09T12:24:55Z",
+      "recheck_after": "2026-10-10T12:24:55+00:00",
+      "missing": [
+        "hours",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gg.go.kr/bbs/boardView.do?bIdx=263490602&bcIdx=0&bsIdx=838&menuId=1534"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37207",
+      "title": "해금앙상블 해이야 제4회 정기연주회 <가락, 시간을 걷다>",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:44.597580+00:00",
+      "recheck_after": "2026-10-10T12:47:44.597580+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37207"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37379",
+      "title": "최옥삼 서거 70주기 추모음악회 (사)최옥삼류가야금산조보존회 제24회 정기연주회",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:44.637216+00:00",
+      "recheck_after": "2026-10-10T12:47:44.637216+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37379"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak38437",
+      "title": "제52회 신악회 작곡발표회 : 신라 향가, 현대의 가락으로 다시 살아나다.",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:44.629017+00:00",
+      "recheck_after": "2026-10-10T12:47:44.629017+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=38437"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37209",
+      "title": "이영훈의 여행자 Ⅲ <바람의 길>",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:44.712377+00:00",
+      "recheck_after": "2026-10-10T12:47:44.712377+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37209"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak39496",
+      "title": "정악단 정기공연 <영산회상>",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:44.626931+00:00",
+      "recheck_after": "2026-10-10T12:47:44.626931+00:00",
+      "missing": [
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=39496"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37257",
+      "title": "양희진 해금 독주회 [해금현대음악사용설명서Ⅱ·LUX]",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:44.622770+00:00",
+      "recheck_after": "2026-10-10T12:47:44.622770+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37257"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak392981",
+      "title": "김민주 거문고 독주회",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:44.715164+00:00",
+      "recheck_after": "2026-10-10T12:47:44.715164+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=392981"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37954",
+      "title": "신윤아 가야금병창 독주회 ″울림″",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:45.943208+00:00",
+      "recheck_after": "2026-10-10T12:47:45.943208+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37954"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37259",
+      "title": "서울가야금앙상블 창단10주년 기념 정기연주회",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:45.917247+00:00",
+      "recheck_after": "2026-10-10T12:47:45.917247+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37259"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37956",
+      "title": "임준형의 대금 <가즌회상>",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:45.989355+00:00",
+      "recheck_after": "2026-10-10T12:47:45.989355+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37956"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37395",
+      "title": "문빈 해금독주회",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:46.066381+00:00",
+      "recheck_after": "2026-10-10T12:47:46.066381+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37395"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37225",
+      "title": "고제거문고음악연구회 창단연주회",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:45.998684+00:00",
+      "recheck_after": "2026-10-10T12:47:45.998684+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37225"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak38445",
+      "title": "김현섭 작곡 발표회 <현섭하다 IV>",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:46.108759+00:00",
+      "recheck_after": "2026-10-10T12:47:46.108759+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=38445"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37608",
+      "title": "왕조의 꿈, 태평서곡",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:46.103527+00:00",
+      "recheck_after": "2026-10-10T12:47:46.103527+00:00",
+      "missing": [
+        "fee",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37608"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak391381",
+      "title": "(사)세계판소리협회 창립 5주년 기념 2026 송년음악회 <One Voice One Dream>",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:47.383533+00:00",
+      "recheck_after": "2026-10-10T12:47:47.383533+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=391381"
+      ]
+    },
+    {
+      "id": "seoul-yearend-fun389",
+      "title": "제야의 종 타종행사",
+      "area_id": "kr-11-jongno",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:46:39.538616+00:00",
+      "recheck_after": "2026-10-10T12:46:39.538616+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=389"
+      ]
+    },
+    {
+      "id": "seoul-yearend-fun386",
+      "title": "언폴드엑스 2026",
+      "area_id": "kr-11-jung",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:47:46.578013+00:00",
+      "recheck_after": "2026-10-10T12:47:46.578013+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386"
+      ]
+    },
+    {
+      "id": "seoul-yearend-sac-nutcracker",
+      "title": "2026 예술의전당 & 국립발레단 호두까기인형",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:46:39.457481+00:00",
+      "recheck_after": "2026-10-10T12:46:39.457481+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.sac.or.kr/site/main/content/2026_SACpresents"
+      ]
+    },
+    {
+      "id": "seoul-yearend-sac-newyear",
+      "title": "2026 예술의전당 제야음악회",
+      "area_id": "kr-11-seocho",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:46:39.457481+00:00",
+      "recheck_after": "2026-10-10T12:46:39.457481+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.sac.or.kr/site/main/content/2026_SACpresents"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8453",
+      "title": "가장 찬란한 착각",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008453"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8418",
+      "title": "뮤지컬 [장수탕 선녀님] - 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008418"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8308",
+      "title": "최현우 19+I - 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008308"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8485",
+      "title": "고양시립소년소녀합창단 제40회 정기연주회",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008485"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8442",
+      "title": "2026 김창옥 토크콘서트 시즌5 - 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008442"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8363",
+      "title": "지브리&디즈니 영화음악 FESTA",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008363"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8458",
+      "title": "유니버설발레단 [호두까기인형]",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008458"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8422",
+      "title": "2026 연극 [사랑해 엄마]",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008422"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8444",
+      "title": "장애인을 위한 \"세상의 빛\" 음악회",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008444"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8301",
+      "title": "송승환의 가족뮤지컬 [더 스토리 오브 언더더씨]- 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008301"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8484",
+      "title": "오페라 [서울*라보엠]",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008484"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8434",
+      "title": "\"200만부 판매\" 베스트셀러 뮤지컬[누가내머리에똥쌌어]",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008434"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8477",
+      "title": "제14회 올키즈스트라 정기연주회",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008477"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8443",
+      "title": "가족뮤지컬[메탈카드봇W]- 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008443"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8439",
+      "title": "가족뮤지컬 [로보카폴리 - 브룸스타운의 에너지를 지켜라!]",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008439"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8427",
+      "title": "2026 이창섭 단독 콘서트 [Unknown] - 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008427"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8464",
+      "title": "판소리음악극 [긴긴밤]",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008464"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8465",
+      "title": "THE GREATEST : 전율 소향 X 김기태",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008465"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8466",
+      "title": "조항조 전국투어 콘서트 : 생각",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008466"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8467",
+      "title": "2026 김장훈 전국투어 콘서트 : 원맨쇼",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008467"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8449",
+      "title": "연극 [친정엄마와 2박3일] - 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008449"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8472",
+      "title": "팝페라테너 임형주 초청 독창회 [Christmas in Love]",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008472"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8452",
+      "title": "이은결 30주년 [ONE OF ONE] - 고양",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008452"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8473",
+      "title": "2026 아람 크리스마스 콘서트 #2 - 리베란테",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473"
+      ]
+    },
+    {
+      "id": "goyang-megashow-travel-20261112",
+      "title": "메가쇼 & 트래블쇼 2026 시즌2",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://megashow.co.kr/main"
+      ]
+    },
+    {
+      "id": "goyang-megazoo-20261120",
+      "title": "메가주 2026 일산 시즌2",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://k-pet.co.kr/information/exhibition-scheduled-registration/"
+      ]
+    },
+    {
+      "id": "goyang-agf-20261204",
+      "title": "AGF 2026",
+      "area_id": "kr-41-goyang",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.agfkorea.com/event?idx=1"
+      ]
+    },
+    {
+      "id": "suwon-yuhojin-20261107",
+      "title": "유호진 더 이미지네이션",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://photo.swcf.or.kr/?idx=3050&listUrl=137&p=29_view"
+      ]
+    },
+    {
+      "id": "suwon-stage-m-carol-20261213",
+      "title": "스테이지엠 크리스마스 영화음악 & 캐롤 콘서트 2026 - 수원",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.ggac.or.kr/ggac/M0000155/show/view.do?idx=SM000174"
+      ]
+    },
+    {
+      "id": "suwon-boohwal-20261205",
+      "title": "2026 부활 연말 콘서트 Where Is Here - 수원",
+      "area_id": "kr-41-suwon",
+      "review_state_at_publication": "reviewed",
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+      "missing": [
+        "hours",
+        "fee",
+        "reservation",
+        "conditions",
+        "liveAvailability",
+        "entrance",
+        "languages"
+      ],
+      "source_urls": [
+        "https://www.ticketlink.co.kr/help/notice/65829"
+      ]
+    }
+  ]
+}

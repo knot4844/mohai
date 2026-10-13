@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {resolveStaticPath} from '../lib/static-path.mjs';
+test('static root trailing slash permits files but never traversal or sibling prefix',()=>{assert.equal(resolveStaticPath('/tmp/site/public/','/app.js'),'/tmp/site/public/app.js');assert.equal(resolveStaticPath('/tmp/site/public','/vendor/three.js'),'/tmp/site/public/vendor/three.js');assert.equal(resolveStaticPath('/tmp/site/public/','/../.env'),null);assert.equal(resolveStaticPath('/tmp/site/public/','/../public-other/key'),null);});

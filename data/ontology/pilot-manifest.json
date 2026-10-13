@@ -1,0 +1,416 @@
+{
+  "schema_version": "0.1.0",
+  "transform_version": "pilot-1",
+  "as_of": "2026-10-11T00:00:00+09:00",
+  "mode": "offline_research",
+  "expected": {
+    "objects": 24,
+    "places": 16,
+    "events": 8
+  },
+  "selections": [
+    {
+      "id": "4f6c40e7-8243-4b5b-a8a6-8c034a8a997a",
+      "record_id": "ada0dffd-cab4-4a81-8537-f6b1c5d07973",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-8473926541ae",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "4ba007c1-6075-4a27-9bb2-a43ac1c0fb04",
+      "record_id": "ab9926e7-67e1-44c7-aa03-063b3bd3f388",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-9f29da024f99",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "e68d47bc-fa2f-40e5-bd95-d8030ce1a60f",
+      "record_id": "c25b87a1-8188-4ce5-80ac-3395175f0638",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-23392d7984a2",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "79060257-e889-474c-968e-6cee8872813d",
+      "record_id": "ebb74318-1052-4174-9115-af6567f318fa",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-2e6ae2f12843",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "be90c0e8-a86a-424b-b55e-58c749b8ca80",
+      "record_id": "83c9b0f7-c22c-43c7-808a-f47627da1038",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-359257cc5332",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "241ab6bd-b859-47e7-b0fa-22627d82dfc6",
+      "record_id": "0dfaa007-9180-4ccc-ae5b-f5dd5e7ba224",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-c8ea428fa5dc",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "5187d587-7ffe-447a-a52c-e32a2a1848ba",
+      "record_id": "a66978e9-5c17-43ec-b6a3-47cfb0c398ad",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-e94f4e438ad8",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "fcbc31e9-b027-4f85-81fb-4bed55f17bc6",
+      "record_id": "50a16413-1af1-4626-ac6f-5922a0f29e97",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-f6c6c05f17d8",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "2b23f14c-f076-45ea-b112-d2f18dcc9b82",
+      "record_id": "6118c50a-d879-4382-aef0-53800268cc0a",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-d9cf4e7b0372",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "d0221bdd-0fbe-4ca2-ad67-2b92287e1ef6",
+      "record_id": "79a25a65-eb50-4a21-bcaf-0aac7cb410e1",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "place-cf2333ad17f8",
+      "case": "시설 기준점과 좌표 근거 보존",
+      "occurrence_ids": []
+    },
+    {
+      "id": "c8937b8f-7ccf-45dc-896f-dfa395affbf6",
+      "record_id": "acf5b5bc-3ea2-4173-aa1e-6a2387bc3f47",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "forest-outings-ilsan",
+      "case": "상설 지점과 미확인 운영정보",
+      "occurrence_ids": []
+    },
+    {
+      "id": "b76cf641-dd33-4848-a6eb-82a607126bb2",
+      "record_id": "77408327-16d7-48ff-95de-8960a5335f45",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "gatten-starfield-goyang",
+      "case": "상설 지점과 미확인 운영정보",
+      "occurrence_ids": []
+    },
+    {
+      "id": "3b270553-524a-48b8-8ef7-7c31813d117a",
+      "record_id": "86811782-bcf2-4f0f-a29b-8017a6a679b8",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "mijin-starfield-goyang",
+      "case": "상설 지점과 미확인 운영정보",
+      "occurrence_ids": []
+    },
+    {
+      "id": "bbb5467c-49d1-4fe0-9434-76215de59f26",
+      "record_id": "5960dc31-69e8-4b77-8277-82918995834a",
+      "kind": "place",
+      "source_path": "",
+      "legacy_id": "starfield-goyang",
+      "case": "상설 지점과 미확인 운영정보",
+      "occurrence_ids": []
+    },
+    {
+      "id": "596161f5-c2c2-4421-8350-2c62ed149d11",
+      "record_id": "d12059ea-51df-47d5-8342-70d0c8a8f37d",
+      "kind": "event",
+      "source_path": "",
+      "legacy_id": "mohae-goyang-e6da1b391beb5c1c",
+      "case": "기간·회차·입장·검증 상태 이관",
+      "occurrence_ids": [
+        "1ce09d2a-2b4e-414d-9e7d-58e6ab93e5f7",
+        "26a878bc-d14b-486f-82e9-23e2634b4f61",
+        "18b86d85-ec00-4ebf-954e-c3a2005e9e94",
+        "b4beccb0-f1c4-459b-8896-4e3a82c194bb",
+        "78be3b38-3200-4b1e-b59e-ef2b06d9e968",
+        "03bf0bef-d686-4b87-a3e0-5c4af36a0dcd",
+        "dbc357df-21f0-413e-93b2-21ca4c319c06",
+        "81f4e48b-c1d0-4d9c-8375-1dd208688c5a",
+        "4bf0f3d2-48c4-4d01-88bd-8ef54217b3cf",
+        "7510c556-609e-408d-ba47-c3b9ffbcf1ef",
+        "318ac3f8-ebe5-4c0d-8791-07486ef45fe4"
+      ]
+    },
+    {
+      "id": "b387ab27-dcfa-403a-93c4-2759de249a42",
+      "record_id": "d12059ea-51df-47d5-8342-70d0c8a8f37d",
+      "kind": "place",
+      "source_path": "/venues/0",
+      "legacy_id": "venue-06ab264499a1",
+      "case": "공원과 주제광장 분리",
+      "occurrence_ids": []
+    },
+    {
+      "id": "e98507a4-2c67-498c-836b-4e9f8ba5c9a2",
+      "record_id": "0c2dee6c-a72a-4144-8f88-c06ee2a1808e",
+      "kind": "event",
+      "source_path": "",
+      "legacy_id": "mohae-goyang-b957dc9f49a31d09",
+      "case": "기간·회차·입장·검증 상태 이관",
+      "occurrence_ids": []
+    },
+    {
+      "id": "f41c2b50-3b52-4b0c-834e-b70e053c8998",
+      "record_id": "7d50a47e-8f54-4149-9abf-b5dd24efab7e",
+      "kind": "event",
+      "source_path": "",
+      "legacy_id": "goyang-artgy-8473",
+      "case": "기간·회차·입장·검증 상태 이관",
+      "occurrence_ids": [
+        "5b6a2ff4-8664-4de5-91f5-0b07c153f0e0"
+      ]
+    },
+    {
+      "id": "b2952cdd-befb-4b1f-8f27-607caa36abfd",
+      "record_id": "7d50a47e-8f54-4149-9abf-b5dd24efab7e",
+      "kind": "place",
+      "source_path": "/venues/0",
+      "legacy_id": "place-9f29da024f99",
+      "case": "동일 legacy ID의 시설과 극장 분리",
+      "occurrence_ids": []
+    },
+    {
+      "id": "614b3441-e1df-44ca-9a6a-dc2b7c88e1cd",
+      "record_id": "560f6ac5-90f0-4962-8546-20174bdf1f9b",
+      "kind": "event",
+      "source_path": "",
+      "legacy_id": "mohae-goyang-03a9f44070a621cb",
+      "case": "기간·회차·입장·검증 상태 이관",
+      "occurrence_ids": [
+        "73bb9ef6-3a83-4cd3-ad03-b28614bf4cce",
+        "c76d914b-eaaf-4813-9a27-01ea150c448b",
+        "c674a532-0186-453e-b810-6041cf01e133",
+        "57722b95-da39-4e19-9c8a-1b91a48d115f"
+      ]
+    },
+    {
+      "id": "127cbf96-f7be-4642-a063-5c67640ba302",
+      "record_id": "5624dd52-67fa-4f4e-a81a-3d679627fc7e",
+      "kind": "event",
+      "source_path": "",
+      "legacy_id": "mohae-goyang-17721f6917df7a94",
+      "case": "기간·회차·입장·검증 상태 이관",
+      "occurrence_ids": []
+    },
+    {
+      "id": "e0fcea54-b0d7-4d3d-b11a-3ac0554644e4",
+      "record_id": "f519669b-b6d4-423f-ad80-0b63e503d3fd",
+      "kind": "event",
+      "source_path": "",
+      "legacy_id": "mohae-goyang-ddee156d9fd5f2c1",
+      "case": "기간·회차·입장·검증 상태 이관",
+      "occurrence_ids": []
+    },
+    {
+      "id": "0016ca21-70b0-4a87-9140-d4ea1783fbf1",
+      "record_id": "692b7f2d-7459-48f9-8657-8e6ede433b21",
+      "kind": "event",
+      "source_path": "",
+      "legacy_id": "mohae-goyang-7fc1dd01588bf4d0",
+      "case": "기간·회차·입장·검증 상태 이관",
+      "occurrence_ids": [
+        "47f545d4-2caf-4ab5-b75d-671db582f942",
+        "0fe496ba-7272-4507-bd87-fa667382d274",
+        "7c9a391f-699f-4eaa-9e34-d9ce962f889b",
+        "7482b48a-7c4b-4008-a490-312a824f770c",
+        "7bc8547b-2f8e-46a6-82c8-ec788229b6fd",
+        "e5e3839b-3274-424b-abc8-20fb9b7c515b",
+        "2bc2176e-e84a-4881-8b98-cab01e5ed1f6",
+        "0cd1922d-9802-4500-8f13-3eaadc7018e8",
+        "9b22c6d7-1baa-4b89-a14c-22cb317c1a83",
+        "75aac98f-438d-4303-bc2c-09f7427581ef"
+      ]
+    },
+    {
+      "id": "423989c5-ee53-4684-aebe-42c15735cc0a",
+      "record_id": "2b210e2e-4c8d-4e98-be1d-594fbf75ef6b",
+      "kind": "event",
+      "source_path": "",
+      "legacy_id": "goyang-megashow-travel-20261112",
+      "case": "기간·회차·입장·검증 상태 이관",
+      "occurrence_ids": []
+    }
+  ],
+  "gaps": [
+    "숙박·상품·실시간 예약 표본 미확보: 구조를 채우기 위해 가짜 객체를 생성하지 않음",
+    "취소·자정넘김·거짓/해당없음은 실제 출력과 분리된 합성 회귀검사. 일반 병합/분리 및 전체 공개 릴리스 복구는 다음 그림자 이관 단계에 남음."
+  ],
+  "source_digest": "6e15b3d903175e98ae7fc54bf3f042696632425e2af354cfc523fbc2baa17cef",
+  "relation_decisions": [
+    {
+      "id": "725da510-9739-4196-b460-b097a4c56656",
+      "record_id": "d12059ea-51df-47d5-8342-70d0c8a8f37d",
+      "source_path": "/editorial/locations/0",
+      "from_id": "596161f5-c2c2-4421-8350-2c62ed149d11",
+      "to_id": "4f6c40e7-8243-4b5b-a8a6-8c034a8a997a",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "4a700245-02a0-4e03-87ba-723b4ada5a6d",
+      "record_id": "d12059ea-51df-47d5-8342-70d0c8a8f37d",
+      "source_path": "/venues/0",
+      "from_id": "596161f5-c2c2-4421-8350-2c62ed149d11",
+      "to_id": "b387ab27-dcfa-403a-93c4-2759de249a42",
+      "predicate": "held_at",
+      "review_state": "legacy_import",
+      "reason": "원문에 명시된 개최 구역/극장을 별도 객체로 분리; 신규 확인 아님"
+    },
+    {
+      "id": "2f93ea96-f6f0-436e-bd2c-bef48ca15336",
+      "record_id": "d12059ea-51df-47d5-8342-70d0c8a8f37d",
+      "source_path": "/venues/0/name_ko",
+      "from_id": "b387ab27-dcfa-403a-93c4-2759de249a42",
+      "to_id": "4f6c40e7-8243-4b5b-a8a6-8c034a8a997a",
+      "predicate": "part_of",
+      "review_state": "proposed",
+      "reason": "명칭·기존 시설 연결에 따른 포함관계 검토안; 운영시간/좌표 상속 금지"
+    },
+    {
+      "id": "ea45f5eb-9673-4b6d-9748-7d16ac548fe2",
+      "record_id": "0c2dee6c-a72a-4144-8f88-c06ee2a1808e",
+      "source_path": "/editorial/locations/0",
+      "from_id": "e98507a4-2c67-498c-836b-4e9f8ba5c9a2",
+      "to_id": "e68d47bc-fa2f-40e5-bd95-d8030ce1a60f",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "7f0edcea-b889-4f2f-a0bb-d52dc077d6b7",
+      "record_id": "7d50a47e-8f54-4149-9abf-b5dd24efab7e",
+      "source_path": "/editorial/locations/0",
+      "from_id": "f41c2b50-3b52-4b0c-834e-b70e053c8998",
+      "to_id": "4ba007c1-6075-4a27-9bb2-a43ac1c0fb04",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "ca77bd14-541e-4c5e-92c0-dcc323079a26",
+      "record_id": "7d50a47e-8f54-4149-9abf-b5dd24efab7e",
+      "source_path": "/venues/0",
+      "from_id": "f41c2b50-3b52-4b0c-834e-b70e053c8998",
+      "to_id": "b2952cdd-befb-4b1f-8f27-607caa36abfd",
+      "predicate": "held_at",
+      "review_state": "legacy_import",
+      "reason": "원문에 명시된 개최 구역/극장을 별도 객체로 분리; 신규 확인 아님"
+    },
+    {
+      "id": "f945d0e0-198d-413b-a3a3-0dd0eec83f71",
+      "record_id": "7d50a47e-8f54-4149-9abf-b5dd24efab7e",
+      "source_path": "/venues/0/name_ko",
+      "from_id": "b2952cdd-befb-4b1f-8f27-607caa36abfd",
+      "to_id": "4ba007c1-6075-4a27-9bb2-a43ac1c0fb04",
+      "predicate": "part_of",
+      "review_state": "proposed",
+      "reason": "명칭·기존 시설 연결에 따른 포함관계 검토안; 운영시간/좌표 상속 금지"
+    },
+    {
+      "id": "9d97f305-05a0-472c-9a70-e68188aba684",
+      "record_id": "560f6ac5-90f0-4962-8546-20174bdf1f9b",
+      "source_path": "/editorial/locations/0",
+      "from_id": "614b3441-e1df-44ca-9a6a-dc2b7c88e1cd",
+      "to_id": "79060257-e889-474c-968e-6cee8872813d",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "5971ccbb-df5d-49cf-a847-459d7a2e200e",
+      "record_id": "5624dd52-67fa-4f4e-a81a-3d679627fc7e",
+      "source_path": "/editorial/locations/0",
+      "from_id": "127cbf96-f7be-4642-a063-5c67640ba302",
+      "to_id": "be90c0e8-a86a-424b-b55e-58c749b8ca80",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "19007ab7-4599-46f7-9fce-46c9a6cb0c8d",
+      "record_id": "5624dd52-67fa-4f4e-a81a-3d679627fc7e",
+      "source_path": "/editorial/locations/1",
+      "from_id": "127cbf96-f7be-4642-a063-5c67640ba302",
+      "to_id": "241ab6bd-b859-47e7-b0fa-22627d82dfc6",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "7e1d10f3-624e-4507-a98a-cf790f184bcc",
+      "record_id": "f519669b-b6d4-423f-ad80-0b63e503d3fd",
+      "source_path": "/editorial/locations/0",
+      "from_id": "e0fcea54-b0d7-4d3d-b11a-3ac0554644e4",
+      "to_id": "5187d587-7ffe-447a-a52c-e32a2a1848ba",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "2155b5a2-c8a7-4540-b040-6065f06f53b1",
+      "record_id": "692b7f2d-7459-48f9-8657-8e6ede433b21",
+      "source_path": "/editorial/locations/0",
+      "from_id": "0016ca21-70b0-4a87-9140-d4ea1783fbf1",
+      "to_id": "fcbc31e9-b027-4f85-81fb-4bed55f17bc6",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "667d4e8b-2866-494d-94cc-4f6b0af24199",
+      "record_id": "2b210e2e-4c8d-4e98-be1d-594fbf75ef6b",
+      "source_path": "/editorial/locations/0",
+      "from_id": "423989c5-ee53-4684-aebe-42c15735cc0a",
+      "to_id": "2b23f14c-f076-45ea-b112-d2f18dcc9b82",
+      "predicate": "facility_reference",
+      "review_state": "legacy_import",
+      "reason": "기존 시설 참조 바인딩 보존; 실제 홀/입구와 구별"
+    },
+    {
+      "id": "af2724fb-2305-4f82-81be-316970b550a8",
+      "record_id": "77408327-16d7-48ff-95de-8960a5335f45",
+      "source_path": "/address",
+      "from_id": "b76cf641-dd33-4848-a6eb-82a607126bb2",
+      "to_id": "bbb5467c-49d1-4fe0-9434-76215de59f26",
+      "predicate": "part_of",
+      "review_state": "proposed",
+      "reason": "원문 지점명·층 표시 기반 포함관계 검토안; 지점 ID와 운영시간 별도"
+    },
+    {
+      "id": "22067900-adaf-4d00-b313-804aa1ebe50e",
+      "record_id": "86811782-bcf2-4f0f-a29b-8017a6a679b8",
+      "source_path": "/address",
+      "from_id": "3b270553-524a-48b8-8ef7-7c31813d117a",
+      "to_id": "bbb5467c-49d1-4fe0-9434-76215de59f26",
+      "predicate": "part_of",
+      "review_state": "proposed",
+      "reason": "원문 지점명·층 표시 기반 포함관계 검토안; 지점 ID와 운영시간 별도"
+    }
+  ]
+}

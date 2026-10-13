@@ -1,0 +1,205 @@
+{
+  "schema_version": "0.1.0",
+  "as_of": "2026-10-11T00:00:00+09:00",
+  "mode": "offline_research",
+  "ok": true,
+  "canonical_sha256": "5366dff3b811743b21ee21bcf96d9bc6e1148416237a2c0144569614aed9f0e6",
+  "source_sha256": "6e15b3d903175e98ae7fc54bf3f042696632425e2af354cfc523fbc2baa17cef",
+  "reproducible": true,
+  "counts": {
+    "snapshots": 22,
+    "objects": 24,
+    "places": 16,
+    "events": 8,
+    "occurrences": 26,
+    "relations": 15,
+    "schedules": 8,
+    "admissions": 8,
+    "prices": 8,
+    "facts": 256,
+    "classifications": 27,
+    "mappings": 43
+  },
+  "knowledge": {
+    "known": 166,
+    "unknown": 89,
+    "not_applicable": 0,
+    "conflict": 1
+  },
+  "freshness": {
+    "fresh": 0,
+    "stale": 123,
+    "unverified": 133,
+    "legacy_only": 0
+  },
+  "errors": [],
+  "issues": [
+    {
+      "object_id": "4f6c40e7-8243-4b5b-a8a6-8c034a8a997a",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "4ba007c1-6075-4a27-9bb2-a43ac1c0fb04",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "e68d47bc-fa2f-40e5-bd95-d8030ce1a60f",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "79060257-e889-474c-968e-6cee8872813d",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "be90c0e8-a86a-424b-b55e-58c749b8ca80",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "241ab6bd-b859-47e7-b0fa-22627d82dfc6",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "5187d587-7ffe-447a-a52c-e32a2a1848ba",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "fcbc31e9-b027-4f85-81fb-4bed55f17bc6",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "2b23f14c-f076-45ea-b112-d2f18dcc9b82",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "d0221bdd-0fbe-4ca2-ad67-2b92287e1ef6",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "c8937b8f-7ccf-45dc-896f-dfa395affbf6",
+      "code": "location_unknown",
+      "note": "원본 좌표 미확인"
+    },
+    {
+      "object_id": "c8937b8f-7ccf-45dc-896f-dfa395affbf6",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "b76cf641-dd33-4848-a6eb-82a607126bb2",
+      "code": "location_unknown",
+      "note": "원본 좌표 미확인"
+    },
+    {
+      "object_id": "b76cf641-dd33-4848-a6eb-82a607126bb2",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "3b270553-524a-48b8-8ef7-7c31813d117a",
+      "code": "location_unknown",
+      "note": "원본 좌표 미확인"
+    },
+    {
+      "object_id": "3b270553-524a-48b8-8ef7-7c31813d117a",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "bbb5467c-49d1-4fe0-9434-76215de59f26",
+      "code": "location_unknown",
+      "note": "원본 좌표 미확인"
+    },
+    {
+      "object_id": "bbb5467c-49d1-4fe0-9434-76215de59f26",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "596161f5-c2c2-4421-8350-2c62ed149d11",
+      "code": "admission_evidence_gap",
+      "note": "walk_in 표시와 예약 미확인이 함께 있어 입장 확정 보류"
+    },
+    {
+      "object_id": "b387ab27-dcfa-403a-93c4-2759de249a42",
+      "code": "location_unknown",
+      "note": "시설 좌표를 개별 구역/홀로 복사하지 않음"
+    },
+    {
+      "object_id": "b387ab27-dcfa-403a-93c4-2759de249a42",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "e98507a4-2c67-498c-836b-4e9f8ba5c9a2",
+      "code": "no_explicit_occurrences",
+      "note": "전체 기간/시간 원문에서 회차를 자동 생성하지 않음"
+    },
+    {
+      "object_id": "f41c2b50-3b52-4b0c-834e-b70e053c8998",
+      "code": "occurrence_end_unknown",
+      "note": "시작만 확인된 회차에 종료·체류시간을 생성하지 않음"
+    },
+    {
+      "object_id": "b2952cdd-befb-4b1f-8f27-607caa36abfd",
+      "code": "location_unknown",
+      "note": "시설 좌표를 개별 구역/홀로 복사하지 않음"
+    },
+    {
+      "object_id": "b2952cdd-befb-4b1f-8f27-607caa36abfd",
+      "code": "opening_unknown",
+      "note": "상설 운영시간을 행사·본관으로부터 상속하지 않음"
+    },
+    {
+      "object_id": "127cbf96-f7be-4642-a063-5c67640ba302",
+      "code": "no_explicit_occurrences",
+      "note": "전체 기간/시간 원문에서 회차를 자동 생성하지 않음"
+    },
+    {
+      "object_id": "e0fcea54-b0d7-4d3d-b11a-3ac0554644e4",
+      "code": "no_explicit_occurrences",
+      "note": "전체 기간/시간 원문에서 회차를 자동 생성하지 않음"
+    },
+    {
+      "object_id": "e0fcea54-b0d7-4d3d-b11a-3ac0554644e4",
+      "code": "legacy_conflict",
+      "note": "기존 검증의 충돌을 유지, 접수 조건 채택 보류"
+    },
+    {
+      "object_id": "423989c5-ee53-4684-aebe-42c15735cc0a",
+      "code": "no_explicit_occurrences",
+      "note": "전체 기간/시간 원문에서 회차를 자동 생성하지 않음"
+    }
+  ],
+  "gaps": [
+    "숙박·상품·실시간 예약 표본 미확보: 구조를 채우기 위해 가짜 객체를 생성하지 않음",
+    "취소·자정넘김·거짓/해당없음은 실제 출력과 분리된 합성 회귀검사. 일반 병합/분리 및 전체 공개 릴리스 복구는 다음 그림자 이관 단계에 남음."
+  ],
+  "sql": {
+    "ok": true,
+    "engine": "sqlite-memory-contract",
+    "tables": {
+      "snapshots": 22,
+      "objects": 24,
+      "places": 16,
+      "events": 8,
+      "occurrences": 26,
+      "relations": 15,
+      "schedules": 8,
+      "admissions": 8,
+      "prices": 8,
+      "facts": 256,
+      "classifications": 27,
+      "mappings": 43
+    }
+  }
+}

@@ -1,0 +1,1936 @@
+[
+  {
+    "id": "place-ab12456cfaf0",
+    "name": "가좌도서관",
+    "point": {
+      "lat": 37.686331,
+      "lng": 126.7202754,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MT/menu/12869/contents/40086/contents.do"
+    },
+    "address": "고양시 일산서구 가좌3로 16(가좌동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28ot7.json"
+  },
+  {
+    "id": "place-5d7e48cc9128",
+    "name": "높빛도서관",
+    "point": {
+      "lat": 37.7100789,
+      "lng": 126.9052997,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MV/menu/130230/contents/40093/contents.do"
+    },
+    "address": "고양시 덕양구 푸른마을로 34-8(고양동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2cqm3.json"
+  },
+  {
+    "id": "place-de44ea6f55d3",
+    "name": "대화도서관",
+    "point": {
+      "lat": 37.6809677,
+      "lng": 126.7539146,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MJ/menu/11645/contents/40070/contents.do"
+    },
+    "address": "고양시 일산서구 일산로 689(대화동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9h.json"
+  },
+  {
+    "id": "place-82a0b3df2fc5",
+    "name": "덕이도서관",
+    "point": {
+      "lat": 37.7028982,
+      "lng": 126.7542867,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MN/menu/12257/contents/40078/contents.do"
+    },
+    "address": "고양시 일산서구 하이파크로 128(덕이동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9i.json"
+  },
+  {
+    "id": "place-619f3604c1bb",
+    "name": "마두도서관",
+    "point": {
+      "lat": 37.6666902,
+      "lng": 126.7820071,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MA/menu/10268/contents/40052/contents.do"
+    },
+    "address": "고양시 일산동구 일산로 355(마두동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9m.json"
+  },
+  {
+    "id": "place-5a40ddeff869",
+    "name": "백석도서관",
+    "point": {
+      "lat": 37.6472499,
+      "lng": 126.7936036,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MD/menu/10727/contents/40058/contents.do"
+    },
+    "address": "고양시 일산동구 일산로 118(백석동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9n.json"
+  },
+  {
+    "id": "place-e20673c6e71a",
+    "name": "별꿈도서관",
+    "point": {
+      "lat": 37.6457612,
+      "lng": 126.8941546,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MQ/menu/12716/contents/40084/contents.do"
+    },
+    "address": "고양시 덕양구 고양대로 1937(동산동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9o.json"
+  },
+  {
+    "id": "place-a605bbcac8ba",
+    "name": "삼송도서관",
+    "point": {
+      "lat": 37.6488483,
+      "lng": 126.8848539,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MP/menu/12563/contents/40082/contents.do"
+    },
+    "address": "고양시 덕양구 덕수천1로 73(삼송동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9q.json"
+  },
+  {
+    "id": "place-5d957b58fa6e",
+    "name": "식사도서관",
+    "point": {
+      "lat": 37.6760715,
+      "lng": 126.8159865,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MM/menu/12104/contents/40076/contents.do"
+    },
+    "address": "고양시 일산동구 위시티2로 43-6(식사동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9r.json"
+  },
+  {
+    "id": "place-4becbf0a001e",
+    "name": "신원도서관",
+    "point": {
+      "lat": 37.6663829,
+      "lng": 126.8863592,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MO/menu/12410/contents/40080/contents.do"
+    },
+    "address": "고양시 덕양구 신원2로 24(신원동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9s.json"
+  },
+  {
+    "id": "place-94f95ebe525a",
+    "name": "아람누리도서관",
+    "point": {
+      "lat": 37.661311,
+      "lng": 126.7731783,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MF/menu/11033/contents/40062/contents.do"
+    },
+    "address": "고양시 일산동구 중앙로 1286(마두동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9t.json"
+  },
+  {
+    "id": "place-ec909a7998d2",
+    "name": "원당도서관",
+    "point": {
+      "lat": 37.6546569,
+      "lng": 126.8406714,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MC/menu/10574/contents/40056/contents.do"
+    },
+    "address": "고양시 덕양구 호국로 790번길 87(성사동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9u.json"
+  },
+  {
+    "id": "place-fc9c9b18470e",
+    "name": "일산도서관",
+    "point": {
+      "lat": 37.6849895,
+      "lng": 126.7643949,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MU/menu/13022/contents/40088/contents.do"
+    },
+    "address": "고양시 일산서구 고양대로 586-65(일산동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28p9x.json"
+  },
+  {
+    "id": "place-94f7fe167e1b",
+    "name": "주엽어린이도서관",
+    "point": {
+      "lat": 37.6684134,
+      "lng": 126.7564678,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MG/menu/11186/contents/40064/contents.do"
+    },
+    "address": "고양시 일산서구 주엽로 104(주엽동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28pa8.json"
+  },
+  {
+    "id": "place-9b2107b8c2b0",
+    "name": "풍동도서관",
+    "point": {
+      "lat": 37.6705808,
+      "lng": 126.7951259,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/ML/menu/11951/contents/40074/contents.do"
+    },
+    "address": "고양시 일산동구 숲속마을로 108(풍동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28seu.json"
+  },
+  {
+    "id": "place-5db1414c5ce3",
+    "name": "한뫼도서관",
+    "point": {
+      "lat": 37.693597,
+      "lng": 126.7762002,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MK/menu/11798/contents/40072/contents.do"
+    },
+    "address": "고양시 일산서구 탄중로 284(일산동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28pab.json"
+  },
+  {
+    "id": "place-34710c99508e",
+    "name": "행신도서관",
+    "point": {
+      "lat": 37.6207446,
+      "lng": 126.8283745,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MB/menu/10421/contents/40054/contents.do"
+    },
+    "address": "고양시 덕양구 행당로 33번길 25-6(행신동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28sew.json"
+  },
+  {
+    "id": "place-7d159926d54a",
+    "name": "행신어린이도서관",
+    "point": {
+      "lat": 37.6148371,
+      "lng": 126.8434566,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MH/menu/11339/contents/40066/contents.do"
+    },
+    "address": "고양시 덕양구 소원로181번길 42(행신동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28pad.json"
+  },
+  {
+    "id": "place-e94f4e438ad8",
+    "name": "화정도서관",
+    "point": {
+      "lat": 37.6377927,
+      "lng": 126.8370456,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/ME/menu/10880/contents/40060/contents.do"
+    },
+    "address": "고양시 덕양구 은빛로77번길 8(화정동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28sgz.json"
+  },
+  {
+    "id": "place-d8b0b5c701b9",
+    "name": "화정어린이도서관",
+    "point": {
+      "lat": 37.6328328,
+      "lng": 126.8263029,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyanglib.or.kr/MI/menu/11492/contents/40068/contents.do"
+    },
+    "address": "고양시 덕양구 화신로 323(화정동)",
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/28sg6.json"
+  },
+  {
+    "id": "place-9f29da024f99",
+    "name": "고양아람누리",
+    "point": {
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    },
+    "address": "경기도 고양시 일산동구 중앙로 1286",
+    "region": {
+      "province": "gyeonggi",
+      "city": "goyang",
+      "labels": {
+        "ko": "고양시",
+        "en": "Goyang",
+        "ja": "高陽市",
+        "zh-Hans": "高阳市"
+      }
+    }
+  },
+  {
+    "id": "place-0046dfefa6f0",
+    "name": "고양관광정보센터",
+    "point": {
+      "lat": 37.6594811,
+      "lng": 126.7727033,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-2e6ae2f12843",
+    "name": "라페스타",
+    "point": {
+      "lat": 37.6606813,
+      "lng": 126.7690617,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-425b80842004",
+    "name": "노래하는분수대",
+    "point": {
+      "lat": 37.6639561,
+      "lng": 126.7576951,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-c8ea428fa5dc",
+    "name": "새들",
+    "point": {
+      "lat": 37.6263638,
+      "lng": 126.7838094,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-359257cc5332",
+    "name": "해움",
+    "point": {
+      "lat": 37.6529548,
+      "lng": 126.76874,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-79a853a17950",
+    "name": "백마 화사랑",
+    "point": {
+      "lat": 37.6715431,
+      "lng": 126.7910518,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-cf2333ad17f8",
+    "name": "고양생태공원",
+    "point": {
+      "lat": 37.6839562,
+      "lng": 126.7441251,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-3e264d5fcd0a",
+    "name": "스타필드 고양",
+    "point": {
+      "lat": 37.6469771,
+      "lng": 126.8947781,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+    }
+  },
+  {
+    "id": "place-4dabf52eec82",
+    "name": "서오릉",
+    "point": {
+      "lat": 37.6235562,
+      "lng": 126.9007674,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+    }
+  },
+  {
+    "id": "place-06604e53d8a2",
+    "name": "가와지볍씨박물관",
+    "point": {
+      "lat": 37.6497779,
+      "lng": 126.870086,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+    }
+  },
+  {
+    "id": "place-8473926541ae",
+    "name": "일산호수공원",
+    "point": {
+      "lat": 37.6562024,
+      "lng": 126.7639759,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    }
+  },
+  {
+    "id": "place-d9cf4e7b0372",
+    "name": "킨텍스",
+    "point": {
+      "lat": 37.6689595,
+      "lng": 126.7462423,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+    },
+    "address": "경기도 고양시 일산서구 킨텍스로 217-60",
+    "region": {
+      "province": "gyeonggi",
+      "city": "goyang",
+      "labels": {
+        "ko": "고양시",
+        "en": "Goyang",
+        "ja": "高陽市",
+        "zh-Hans": "高阳市"
+      }
+    }
+  },
+  {
+    "id": "place-496112ecb5c6",
+    "name": "고양생태교육센터",
+    "point": {
+      "lat": 37.6837365,
+      "lng": 126.7442284,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goyang.go.kr/ecoedu/center/directions.do"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2aopo.json"
+  },
+  {
+    "id": "place-e488257cab11",
+    "name": "신원중학교",
+    "point": {
+      "lat": 37.6675952,
+      "lng": 126.8878716,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.goegy.kr/gysinwon-m/lm/location/locationMapView.do?mi=7155"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2gix3.json"
+  },
+  {
+    "id": "place-15b90a8803a4",
+    "name": "송포청소년문화의집",
+    "point": {
+      "lat": 37.6713626,
+      "lng": 126.7352755,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gcyf.or.kr/sp/bbs/content.php?co_id=songpo_01_4"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2f6ja.json"
+  },
+  {
+    "id": "place-e252e47f9a55",
+    "name": "주교청소년자유공간",
+    "point": {
+      "lat": 37.659818,
+      "lng": 126.8330989,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gcyf.or.kr/jg/bbs/content.php?co_id=jugyo_01_5"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/268d8.json"
+  },
+  {
+    "id": "place-1b349d4cb69f",
+    "name": "행신청소년자유공간",
+    "point": {
+      "lat": 37.6153024,
+      "lng": 126.8332256,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gcyf.or.kr/hs/bbs/content.php?co_id=haengsin_01_4"
+    },
+    "coordinateSource": "https://t1.kakaocdn.net/roughmap/2ahxf.json"
+  },
+  {
+    "id": "place-23392d7984a2",
+    "name": "고양꽃전시관",
+    "point": {
+      "lat": 37.6552847,
+      "lng": 126.7689083,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=59ce3dd9-38d2-4c68-91fa-356c79cbefa7"
+    },
+    "coordinateSource": null
+  },
+  {
+    "id": "place-9f366963cabb",
+    "name": "고양종합운동장",
+    "point": {
+      "lat": 37.6755401,
+      "lng": 126.7436717,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gys.or.kr/subpage/index/109"
+    },
+    "coordinateSource": null
+  },
+  {
+    "id": "place-685194b0ee1d",
+    "name": "호미걸이공원",
+    "point": {
+      "lat": 37.6718082,
+      "lng": 126.7349837,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/1010949198"
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-5f6838f47072",
+    "name": "마상공원",
+    "point": {
+      "lat": 37.6625164,
+      "lng": 126.832743,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/relation/11180870"
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-a175e9c9af3a",
+    "name": "일산 호수공원",
+    "point": {
+      "lat": 37.657019,
+      "lng": 126.763746,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q6477301"
+    }
+  },
+  {
+    "id": "place-f6c6c05f17d8",
+    "name": "행주산성",
+    "point": {
+      "lat": 37.596947,
+      "lng": 126.831958,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q12624761"
+    }
+  },
+  {
+    "id": "place-4c438c28577f",
+    "name": "고양어울림누리",
+    "point": {
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q12584337"
+    },
+    "address": "경기도 고양시 덕양구 어울림로 33",
+    "region": {
+      "province": "gyeonggi",
+      "city": "goyang",
+      "labels": {
+        "ko": "고양시",
+        "en": "Goyang",
+        "ja": "高陽市",
+        "zh-Hans": "高阳市"
+      }
+    }
+  },
+  {
+    "id": "place-7c4dd98b02b2",
+    "name": "화정역",
+    "point": {
+      "lat": 37.6345889,
+      "lng": 126.8326694,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q79836"
+    }
+  },
+  {
+    "id": "place-640f81e2885f",
+    "name": "DDP 및 서울 전역",
+    "point": {
+      "lat": 37.5680445876689,
+      "lng": 127.010890355484,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/eventsx/TASTE-OF-SEOUL2026/KOPbdvixl"
+    },
+    "address": "서울 중구 을지로 281",
+    "region": {
+      "province": "seoul",
+      "city": "seoul-wide",
+      "labels": {
+        "ko": "서울시 전역",
+        "en": "Across Seoul",
+        "ja": "ソウル各地",
+        "zh-Hans": "首尔各地"
+      }
+    }
+  },
+  {
+    "id": "place-c0f950a46039",
+    "name": "서울역사박물관 기획전시실A",
+    "point": {
+      "lat": 37.5704968494713,
+      "lng": 126.97107522045,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/SeoulUrbanPlanning/KOP72abp2"
+    },
+    "address": "서울 종로구 새문안로 55",
+    "region": {
+      "province": "seoul",
+      "city": "jongno",
+      "labels": {
+        "ko": "종로구",
+        "en": "Jongno-gu",
+        "ja": "鍾路区",
+        "zh-Hans": "钟路区"
+      }
+    }
+  },
+  {
+    "id": "place-ceb6bd2907c6",
+    "name": "서울시청 지하1층 서울갤러리",
+    "point": {
+      "lat": 37.566370776634,
+      "lng": 126.977918351844,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/events/SeoulGalleryAutumnSpecialEvent/KOPb6opgy"
+    },
+    "address": "서울 중구 세종대로 110",
+    "region": {
+      "province": "seoul",
+      "city": "jung",
+      "labels": {
+        "ko": "중구",
+        "en": "Jung-gu",
+        "ja": "中区",
+        "zh-Hans": "中区"
+      }
+    }
+  },
+  {
+    "id": "place-595a124688a2",
+    "name": "충무로 와이아트갤러리",
+    "point": {
+      "lat": 37.5623817630809,
+      "lng": 126.991642957434,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/We-Were-Natural-and-Unrestrained/KOP6njrb9"
+    },
+    "address": "서울 중구 퇴계로27길 28 한영빌딩 지하1층 3호",
+    "region": {
+      "province": "seoul",
+      "city": "jung",
+      "labels": {
+        "ko": "중구",
+        "en": "Jung-gu",
+        "ja": "中区",
+        "zh-Hans": "中区"
+      }
+    }
+  },
+  {
+    "id": "place-89738af0c344",
+    "name": "국립극장 해오름극장",
+    "point": {
+      "lat": 37.5519949082942,
+      "lng": 126.999267349473,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/DOUBLEBILL-SINAWI/KOPevx16g"
+    },
+    "address": "서울 중구 장충단로 59",
+    "region": {
+      "province": "seoul",
+      "city": "jung",
+      "labels": {
+        "ko": "중구",
+        "en": "Jung-gu",
+        "ja": "中区",
+        "zh-Hans": "中区"
+      }
+    }
+  },
+  {
+    "id": "place-db80333cde9f",
+    "name": "종로구립 고희동미술관",
+    "point": {
+      "lat": 37.5831855099227,
+      "lng": 126.988884857967,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/TheDignityoftheNobleScholar/KOPn5137y"
+    },
+    "address": "서울 종로구 창덕궁5길 40",
+    "region": {
+      "province": "seoul",
+      "city": "jongno",
+      "labels": {
+        "ko": "종로구",
+        "en": "Jongno-gu",
+        "ja": "鍾路区",
+        "zh-Hans": "钟路区"
+      }
+    }
+  },
+  {
+    "id": "place-c9d6e033f7cc",
+    "name": "노들섬",
+    "point": {
+      "lat": 37.5176638307111,
+      "lng": 126.958036465507,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/events/2026SEOULLIGHT-BITSEOMFESTIVAL/KOPjfg1i9"
+    },
+    "address": "서울 용산구 양녕로 445",
+    "region": {
+      "province": "seoul",
+      "city": "yongsan",
+      "labels": {
+        "ko": "용산구",
+        "en": "Yongsan-gu",
+        "ja": "龍山区",
+        "zh-Hans": "龙山区"
+      }
+    }
+  },
+  {
+    "id": "place-48cd79783e59",
+    "name": "아트큐브 투알투 갤러리",
+    "point": {
+      "lat": 37.5088515512806,
+      "lng": 127.044212516797,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/Light-Resting-in-the-Grain/KOPm986je"
+    },
+    "address": "서울 강남구 선릉로 563 1층",
+    "region": {
+      "province": "seoul",
+      "city": "gangnam",
+      "labels": {
+        "ko": "강남구",
+        "en": "Gangnam-gu",
+        "ja": "江南区",
+        "zh-Hans": "江南区"
+      }
+    }
+  },
+  {
+    "id": "place-ed44ba695d9f",
+    "name": "서울시립 북서울미술관",
+    "point": {
+      "lat": 37.6406604547872,
+      "lng": 127.066865579183,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/IEmbraceYou/KOPm8j6gm"
+    },
+    "address": "서울 노원구 동일로 1238",
+    "region": {
+      "province": "seoul",
+      "city": "nowon",
+      "labels": {
+        "ko": "노원구",
+        "en": "Nowon-gu",
+        "ja": "蘆原区",
+        "zh-Hans": "芦原区"
+      }
+    }
+  },
+  {
+    "id": "place-d9c64420f716",
+    "name": "서울시립 남서울미술관 2층 및 야외 정원",
+    "point": {
+      "lat": 37.4760535374985,
+      "lng": 126.979465861688,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/ThatsHowtheLightGetsIn/KOPo2o028"
+    },
+    "address": "서울 관악구 남부순환로 2076",
+    "region": {
+      "province": "seoul",
+      "city": "gwanak",
+      "labels": {
+        "ko": "관악구",
+        "en": "Gwanak-gu",
+        "ja": "冠岳区",
+        "zh-Hans": "冠岳区"
+      }
+    }
+  },
+  {
+    "id": "place-bd5df1370bc9",
+    "name": "스페이스K 서울",
+    "point": {
+      "lat": 37.5610929270592,
+      "lng": 126.830974669978,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/KAWS/KOPzy336c"
+    },
+    "address": "서울 강서구 마곡중앙8로 32",
+    "region": {
+      "province": "seoul",
+      "city": "gangseo",
+      "labels": {
+        "ko": "강서구",
+        "en": "Gangseo-gu",
+        "ja": "江西区",
+        "zh-Hans": "江西区"
+      }
+    }
+  },
+  {
+    "id": "place-c84ca582d0b4",
+    "name": "서울시립 사진미술관",
+    "point": {
+      "lat": 37.6555150225578,
+      "lng": 127.048947814686,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/We-Are-Martin-Parr/KOPgeb6on"
+    },
+    "address": "서울 도봉구 마들로13길 68",
+    "region": {
+      "province": "seoul",
+      "city": "dobong",
+      "labels": {
+        "ko": "도봉구",
+        "en": "Dobong-gu",
+        "ja": "道峰区",
+        "zh-Hans": "道峰区"
+      }
+    }
+  },
+  {
+    "id": "place-70d30a893a4a",
+    "name": "청와대 사랑채 1층 전시실 및 로비",
+    "point": {
+      "lat": 37.582544875368,
+      "lng": 126.973059283309,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/exhibition/Full-of-Colors/KOPij99b4"
+    },
+    "address": "서울 종로구 효자로13길 45",
+    "region": {
+      "province": "seoul",
+      "city": "jongno",
+      "labels": {
+        "ko": "종로구",
+        "en": "Jongno-gu",
+        "ja": "鍾路区",
+        "zh-Hans": "钟路区"
+      }
+    }
+  },
+  {
+    "id": "place-882a50a6f033",
+    "name": "서울광장·광화문광장·청계천",
+    "point": {
+      "lat": 37.5687660094097,
+      "lng": 126.97956155404,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://korean.visitseoul.net/events/2026SeoulOutdoorLibrary/KOPvro3vg"
+    },
+    "address": null,
+    "region": {
+      "province": "seoul",
+      "city": "seoul-wide",
+      "labels": {
+        "ko": "서울시 전역",
+        "en": "Across Seoul",
+        "ja": "ソウル各地",
+        "zh-Hans": "首尔各地"
+      }
+    }
+  },
+  {
+    "id": "place-dcea06cc2d2e",
+    "name": "DDP",
+    "point": {
+      "lat": 37.56721314456831,
+      "lng": 127.00991554538312,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=449"
+    },
+    "address": "서울특별시 중구 을지로 281",
+    "region": {
+      "province": "seoul",
+      "city": "jung",
+      "labels": {
+        "ko": "중구",
+        "en": "Jung-gu",
+        "ja": "中区",
+        "zh-Hans": "中区"
+      }
+    }
+  },
+  {
+    "id": "place-a3fad5304203",
+    "name": "당현천 당현마루 일원",
+    "point": {
+      "lat": 37.6495430501738,
+      "lng": 127.065946730739,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=535"
+    },
+    "address": "서울특별시 노원구 동일로 1322-70",
+    "region": {
+      "province": "seoul",
+      "city": "nowon",
+      "labels": {
+        "ko": "노원구",
+        "en": "Nowon-gu",
+        "ja": "蘆原区",
+        "zh-Hans": "芦原区"
+      }
+    }
+  },
+  {
+    "id": "place-d33ac9423f5b",
+    "name": "월드컵공원 평화의광장",
+    "point": {
+      "lat": 37.565050585892315,
+      "lng": 126.89619540508934,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=556"
+    },
+    "address": "서울 마포구 성산동 390-1",
+    "region": {
+      "province": "seoul",
+      "city": "mapo",
+      "labels": {
+        "ko": "마포구",
+        "en": "Mapo-gu",
+        "ja": "麻浦区",
+        "zh-Hans": "麻浦区"
+      }
+    }
+  },
+  {
+    "id": "place-fe6cd4bb2098",
+    "name": "한강 수상 및 한강공원 일대",
+    "point": {
+      "lat": 37.52219896843469,
+      "lng": 127.01256232234181,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=400"
+    },
+    "address": "서울 서초구 잠원동 121",
+    "region": {
+      "province": "seoul",
+      "city": "seoul-wide",
+      "labels": {
+        "ko": "서울시 전역",
+        "en": "Across Seoul",
+        "ja": "ソウル各地",
+        "zh-Hans": "首尔各地"
+      }
+    }
+  },
+  {
+    "id": "place-f825229f4cf8",
+    "name": "월드컵공원 하늘공원 일대",
+    "point": {
+      "lat": 37.56852888619263,
+      "lng": 126.88688610574323,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=683"
+    },
+    "address": "서울 마포구 상암동 481-72",
+    "region": {
+      "province": "seoul",
+      "city": "mapo",
+      "labels": {
+        "ko": "마포구",
+        "en": "Mapo-gu",
+        "ja": "麻浦区",
+        "zh-Hans": "麻浦区"
+      }
+    }
+  },
+  {
+    "id": "place-7abdde33adc7",
+    "name": "난지한강공원·난지캠핑장",
+    "point": {
+      "lat": 37.569982501639984,
+      "lng": 126.87217984016716,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=350"
+    },
+    "address": "서울 마포구 상암동 495-81",
+    "region": {
+      "province": "seoul",
+      "city": "mapo",
+      "labels": {
+        "ko": "마포구",
+        "en": "Mapo-gu",
+        "ja": "麻浦区",
+        "zh-Hans": "麻浦区"
+      }
+    }
+  },
+  {
+    "id": "place-c40ccb275d2f",
+    "name": "북촌·서촌 등 한옥마을 일대",
+    "point": {
+      "lat": 37.58177491128534,
+      "lng": 126.98481244926822,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=479"
+    },
+    "address": "서울특별시 종로구 북촌로 53",
+    "region": {
+      "province": "seoul",
+      "city": "jongno",
+      "labels": {
+        "ko": "종로구",
+        "en": "Jongno-gu",
+        "ja": "鍾路区",
+        "zh-Hans": "钟路区"
+      }
+    }
+  },
+  {
+    "id": "place-8d1b515031c6",
+    "name": "국립극장 무대예술지원센터",
+    "point": {
+      "lat": 37.78346725,
+      "lng": 126.69459938,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://portal.ntok.go.kr/sasc/content/map.do?tabId=01"
+    },
+    "address": "경기도 파주시 탄현면 헤이리로 16",
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju",
+      "labels": {
+        "ko": "파주시",
+        "en": "Paju",
+        "ja": "坡州市",
+        "zh-Hans": "坡州市"
+      }
+    }
+  },
+  {
+    "id": "place-af1980e1787d",
+    "name": "아시아출판문화정보센터 및 파주출판도시",
+    "point": {
+      "lat": 37.708596943178,
+      "lng": 126.68721993453019,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=49e590d2-cb11-4417-b401-ab205c91723d"
+    },
+    "address": "경기도 파주시 회동길 145",
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju",
+      "labels": {
+        "ko": "파주시",
+        "en": "Paju",
+        "ja": "坡州市",
+        "zh-Hans": "坡州市"
+      }
+    }
+  },
+  {
+    "id": "place-1a2c192978b6",
+    "name": "율곡수목원",
+    "point": {
+      "lat": 37.8967146,
+      "lng": 126.8266063,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/1295377805"
+    },
+    "address": "경기도 파주시 파평면 율곡리 산5-1",
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju",
+      "labels": {
+        "ko": "파주시",
+        "en": "Paju",
+        "ja": "坡州市",
+        "zh-Hans": "坡州市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-eaaccc420fde",
+    "name": "임진각 평화누리 및 캠프그리브스",
+    "point": {
+      "lat": 37.8922987,
+      "lng": 126.7440013,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/499779122"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju",
+      "labels": {
+        "ko": "파주시",
+        "en": "Paju",
+        "ja": "坡州市",
+        "zh-Hans": "坡州市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-9ddc7848121e",
+    "name": "통일동산 관광특구 일원",
+    "point": {
+      "lat": 37.7867317,
+      "lng": 126.6939216,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/1034082931"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju",
+      "labels": {
+        "ko": "파주시",
+        "en": "Paju",
+        "ja": "坡州市",
+        "zh-Hans": "坡州市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-a98f58946c76",
+    "name": "임진각 광장",
+    "point": {
+      "lat": 37.8922987,
+      "lng": 126.7440013,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/499779122"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju",
+      "labels": {
+        "ko": "파주시",
+        "en": "Paju",
+        "ja": "坡州市",
+        "zh-Hans": "坡州市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-67b45c721042",
+    "name": "연천 전곡리 유적",
+    "point": {
+      "lat": 38.0134075,
+      "lng": 127.0599042,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/470092538"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "yeoncheon",
+      "labels": {
+        "ko": "연천군",
+        "en": "Yeoncheon",
+        "ja": "漣川郡",
+        "zh-Hans": "涟川郡"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-5a89a795a424",
+    "name": "연천역 광장",
+    "point": {
+      "lat": 38.1007279,
+      "lng": 127.0737179,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/node/368636150"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "yeoncheon",
+      "labels": {
+        "ko": "연천군",
+        "en": "Yeoncheon",
+        "ja": "漣川郡",
+        "zh-Hans": "涟川郡"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-8b3ff687a0e6",
+    "name": "구리한강시민공원",
+    "point": {
+      "lat": 37.5750743,
+      "lng": 127.1398973,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/471550855"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "guri",
+      "labels": {
+        "ko": "구리시",
+        "en": "Guri",
+        "ja": "九里市",
+        "zh-Hans": "九里市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-9858864fda93",
+    "name": "장자호수공원 야외공연장",
+    "point": {
+      "lat": 37.5818598,
+      "lng": 127.1368231,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.openstreetmap.org/way/471119379"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "guri",
+      "labels": {
+        "ko": "구리시",
+        "en": "Guri",
+        "ja": "九里市",
+        "zh-Hans": "九里市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-58459f786b40",
+    "name": "자라섬 일대",
+    "point": {
+      "lat": 37.8209234278,
+      "lng": 127.5208753809,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://data.visitkorea.or.kr/linkedview/1437418"
+    },
+    "address": "경기도 가평군 가평읍 자라섬로 60",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gapyeong",
+      "labels": {
+        "ko": "가평군",
+        "en": "Gapyeong",
+        "ja": "加平郡",
+        "zh-Hans": "加平郡"
+      }
+    }
+  },
+  {
+    "id": "place-f1bdb3355296",
+    "name": "양주관아지",
+    "point": {
+      "lat": 37.7857296593,
+      "lng": 127.0294656792,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://data.visitkorea.or.kr/page/2754288"
+    },
+    "address": "경기도 양주시 부흥로1399번길 15",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yangju",
+      "labels": {
+        "ko": "양주시",
+        "en": "Yangju",
+        "ja": "楊州市",
+        "zh-Hans": "杨州市"
+      }
+    }
+  },
+  {
+    "id": "place-6d900c7719eb",
+    "name": "양주시립미술창작스튜디오 3층 777갤러리",
+    "point": {
+      "lat": 37.72426167,
+      "lng": 126.94817169,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.yangju.go.kr/tour/contents.do?key=842"
+    },
+    "address": "경기도 양주시 장흥면 권율로 103-1",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yangju",
+      "labels": {
+        "ko": "양주시",
+        "en": "Yangju",
+        "ja": "楊州市",
+        "zh-Hans": "杨州市"
+      }
+    }
+  },
+  {
+    "id": "place-9c6c66b8537f",
+    "name": "광릉숲 일원",
+    "point": {
+      "lat": 37.74736186,
+      "lng": 127.1874259,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.nyj.go.kr/gff/contents.do?key=4698"
+    },
+    "address": "경기도 남양주시 봉선사길 193 광릉숲 일원",
+    "region": {
+      "province": "gyeonggi",
+      "city": "namyangju",
+      "labels": {
+        "ko": "남양주시",
+        "en": "Namyangju",
+        "ja": "南楊州市",
+        "zh-Hans": "南杨州市"
+      }
+    }
+  },
+  {
+    "id": "place-3fd612643879",
+    "name": "수원광교박물관",
+    "point": {
+      "lat": 37.296351,
+      "lng": 127.051421,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.data.go.kr/data/15017323/standard.do"
+    },
+    "address": "경기도 수원시 영통구 광교로 182",
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    }
+  },
+  {
+    "id": "place-2e91026f2088",
+    "name": "일월호수공원",
+    "point": {
+      "lat": 37.2869477866,
+      "lng": 126.977809501,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://data.visitkorea.or.kr/resource/3081125"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    }
+  },
+  {
+    "id": "place-f90b64d6a149",
+    "name": "대유평공원 및 111CM 야외",
+    "point": {
+      "lat": 37.2898035,
+      "lng": 126.9925245,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://api.openstreetmap.org/api/0.6/way/916917809/full.json"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-e5e3a216f722",
+    "name": "고색역 상부공간",
+    "point": {
+      "lat": 37.249694444444444,
+      "lng": 126.98033333333333,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.wikidata.org/wiki/Q1595323"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    }
+  },
+  {
+    "id": "place-93a53a9bfbe6",
+    "name": "화성행궁광장",
+    "point": {
+      "lat": 37.2818685077,
+      "lng": 127.0163894742,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://data.visitkorea.or.kr/page/129437"
+    },
+    "address": "경기도 수원시 팔달구 정조로 825",
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    }
+  },
+  {
+    "id": "place-5e5048fddb88",
+    "name": "수원SK아트리움",
+    "point": {
+      "lat": 37.30963315,
+      "lng": 126.9863644,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://api.openstreetmap.org/api/0.6/way/552078554/full.json"
+    },
+    "address": "경기도 수원시 장안구 이목로 24-25",
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-8cdfecb71440",
+    "name": "화성행궁광장 및 통닭거리",
+    "point": {
+      "lat": 37.2818685077,
+      "lng": 127.0163894742,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://data.visitkorea.or.kr/page/129437"
+    },
+    "address": "경기도 수원시 팔달구 정조로 825",
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    }
+  },
+  {
+    "id": "place-5f1088bf119a",
+    "name": "수원청소년문화센터 야외광장",
+    "point": {
+      "lat": 37.2736407826823,
+      "lng": 127.035269711412,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://yeyak.syf.or.kr/www/111"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    }
+  },
+  {
+    "id": "place-8ee8bb41e586",
+    "name": "동탄센트럴파크",
+    "point": {
+      "lat": 37.205638557847756,
+      "lng": 127.06358050012072,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=7533f8ce-3039-47df-8785-710ddc916d57"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "hwaseong",
+      "labels": {
+        "ko": "화성시",
+        "en": "Hwaseong",
+        "ja": "華城市",
+        "zh-Hans": "华城市"
+      }
+    }
+  },
+  {
+    "id": "place-32e831947475",
+    "name": "동탄호수공원",
+    "point": {
+      "lat": 37.1669527885,
+      "lng": 127.1024487705,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://data.visitkorea.or.kr/page/2654624"
+    },
+    "address": "경기도 화성시 동탄순환대로 69",
+    "region": {
+      "province": "gyeonggi",
+      "city": "hwaseong",
+      "labels": {
+        "ko": "화성시",
+        "en": "Hwaseong",
+        "ja": "華城市",
+        "zh-Hans": "华城市"
+      }
+    }
+  },
+  {
+    "id": "place-48deb7b9e030",
+    "name": "율동공원 야외무대",
+    "point": {
+      "lat": 37.375,
+      "lng": 127.15,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://en.wikipedia.org/wiki/Yuldong_Park"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "seongnam",
+      "labels": {
+        "ko": "성남시",
+        "en": "Seongnam",
+        "ja": "城南市",
+        "zh-Hans": "城南市"
+      }
+    }
+  },
+  {
+    "id": "place-d0a1173ea47d",
+    "name": "용인특례시청 광장",
+    "point": {
+      "lat": 37.24109255,
+      "lng": 127.1776404,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://api.openstreetmap.org/api/0.6/way/778037211/full.json"
+    },
+    "address": "경기도 용인시 처인구 중부대로 1199",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yongin",
+      "labels": {
+        "ko": "용인시",
+        "en": "Yongin",
+        "ja": "龍仁市",
+        "zh-Hans": "龙仁市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-65424976b030",
+    "name": "김포 라베니체 및 한강중앙공원",
+    "point": {
+      "lat": 37.64097824504136,
+      "lng": 126.67912072150143,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gimpo.go.kr/culture/selectTourCntntsWebView.do?tourNo=1996"
+    },
+    "address": "경기도 김포시 초당로 54",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gimpo",
+      "labels": {
+        "ko": "김포시",
+        "en": "Gimpo",
+        "ja": "金浦市",
+        "zh-Hans": "金浦市"
+      }
+    }
+  },
+  {
+    "id": "place-6cec6a636444",
+    "name": "김포아트빌리지 한옥마을 창작 3·4동",
+    "point": {
+      "lat": 37.64608995,
+      "lng": 126.69601615,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://api.openstreetmap.org/api/0.6/way/1120601773/full.json"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "gimpo",
+      "labels": {
+        "ko": "김포시",
+        "en": "Gimpo",
+        "ja": "金浦市",
+        "zh-Hans": "金浦市"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0"
+  },
+  {
+    "id": "place-d7d9a4ba36ae",
+    "name": "평촌중앙공원",
+    "point": {
+      "lat": 37.3901883031,
+      "lng": 126.9613442188,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://data.visitkorea.or.kr/page/1624639"
+    },
+    "address": "경기도 안양시 동안구 관평로 149",
+    "region": {
+      "province": "gyeonggi",
+      "city": "anyang",
+      "labels": {
+        "ko": "안양시",
+        "en": "Anyang",
+        "ja": "安養市",
+        "zh-Hans": "安养市"
+      }
+    }
+  },
+  {
+    "id": "place-6eea67e079bc",
+    "name": "판교역 광장 및 탄천 일원",
+    "point": {
+      "lat": 37.394762,
+      "lng": 127.111137,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://en.wikipedia.org/wiki/Pangyo_station"
+    },
+    "address": null,
+    "region": {
+      "province": "gyeonggi",
+      "city": "seongnam",
+      "labels": {
+        "ko": "성남시",
+        "en": "Seongnam",
+        "ja": "城南市",
+        "zh-Hans": "城南市"
+      }
+    }
+  },
+  {
+    "id": "place-a8227b0d60b2",
+    "name": "양동역 일원",
+    "point": {
+      "lat": 37.4202861,
+      "lng": 127.7547972,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://ko.wikipedia.org/wiki/양동역"
+    },
+    "address": "경기도 양평군 양동면 쌍학리 754",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yangpyeong",
+      "labels": {
+        "ko": "양평군",
+        "en": "Yangpyeong",
+        "ja": "楊平郡",
+        "zh-Hans": "杨平郡"
+      }
+    }
+  },
+  {
+    "id": "place-00378733561e",
+    "name": "세미원 및 두물머리",
+    "point": {
+      "lat": 37.5407412665,
+      "lng": 127.324190296,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://data.visitkorea.or.kr/linkedview/407051"
+    },
+    "address": "경기도 양평군 양서면 양수로 93",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yangpyeong",
+      "labels": {
+        "ko": "양평군",
+        "en": "Yangpyeong",
+        "ja": "楊平郡",
+        "zh-Hans": "杨平郡"
+      }
+    }
+  },
+  {
+    "id": "place-d1ecd4c92ba0",
+    "name": "신륵사관광단지",
+    "point": {
+      "lat": 37.29742583,
+      "lng": 127.6599364,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.data.go.kr/data/15021141/standard.do"
+    },
+    "address": "경기도 여주시 신륵사길 7",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yeoju",
+      "labels": {
+        "ko": "여주시",
+        "en": "Yeoju",
+        "ja": "驪州市",
+        "zh-Hans": "骊州市"
+      }
+    }
+  },
+  {
+    "id": "place-d558a0f8969c",
+    "name": "국립국악원 우면당",
+    "point": {
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+    },
+    "address": "서울특별시 서초구 남부순환로 2364",
+    "region": {
+      "province": "seoul",
+      "city": "seocho",
+      "labels": {
+        "ko": "서초구",
+        "en": "Seocho-gu",
+        "ja": "瑞草区",
+        "zh-Hans": "瑞草区"
+      }
+    }
+  },
+  {
+    "id": "place-6d64ec9fc67d",
+    "name": "국립국악원 풍류사랑방",
+    "point": {
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+    },
+    "address": "서울특별시 서초구 남부순환로 2364",
+    "region": {
+      "province": "seoul",
+      "city": "seocho",
+      "labels": {
+        "ko": "서초구",
+        "en": "Seocho-gu",
+        "ja": "瑞草区",
+        "zh-Hans": "瑞草区"
+      }
+    }
+  },
+  {
+    "id": "place-48d43a9ca571",
+    "name": "국립국악원 예악당",
+    "point": {
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+    },
+    "address": "서울특별시 서초구 남부순환로 2364",
+    "region": {
+      "province": "seoul",
+      "city": "seocho",
+      "labels": {
+        "ko": "서초구",
+        "en": "Seocho-gu",
+        "ja": "瑞草区",
+        "zh-Hans": "瑞草区"
+      }
+    }
+  },
+  {
+    "id": "place-44f93b04d60d",
+    "name": "보신각 일대",
+    "point": {
+      "lat": 37.5697673859634,
+      "lng": 126.983677617361,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=389"
+    },
+    "address": "서울특별시 종로구 종로 54",
+    "region": {
+      "province": "seoul",
+      "city": "jongno",
+      "labels": {
+        "ko": "종로구",
+        "en": "Jongno-gu",
+        "ja": "鍾路区",
+        "zh-Hans": "钟路区"
+      }
+    }
+  },
+  {
+    "id": "place-73d271fe2713",
+    "name": "문화역서울284",
+    "point": {
+      "lat": 37.5560408483984,
+      "lng": 126.971594506836,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386"
+    },
+    "address": "서울특별시 중구 통일로 1",
+    "region": {
+      "province": "seoul",
+      "city": "jung",
+      "labels": {
+        "ko": "중구",
+        "en": "Jung-gu",
+        "ja": "中区",
+        "zh-Hans": "中区"
+      }
+    }
+  },
+  {
+    "id": "place-13a15ab13ff6",
+    "name": "경기아트센터",
+    "point": {
+      "lat": 37.26187028640426,
+      "lng": 127.03735958276158,
+      "precision": "venue_reference",
+      "verifiedEntrance": false,
+      "source": "https://www.ggac.or.kr/ggac/M0000170/content/view.do"
+    },
+    "address": "경기도 수원시 팔달구 효원로307번길 20",
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "labels": {
+        "ko": "수원시",
+        "en": "Suwon",
+        "ja": "水原市",
+        "zh-Hans": "水原市"
+      }
+    }
+  }
+]

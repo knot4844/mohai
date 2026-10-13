@@ -1,0 +1,1830 @@
+{
+  "scope": {
+    "area": "고양시",
+    "start": "2026-10-09",
+    "end": "2026-11-05",
+    "timezone": "Asia/Seoul"
+  },
+  "complete_census": false,
+  "counts": {
+    "registered_source_rows": 93,
+    "baseline_registered_unique_sources": 88,
+    "source_audit_rows_with_additional_sources": 95,
+    "existing_review_input_rows": 63,
+    "existing_unique_reviewed_or_attempted": 62,
+    "new_input_rows": 57,
+    "new_unique_candidates": 55,
+    "new_research_candidates": 50,
+    "new_indexed_hold": 5,
+    "hold_candidate_rows_not_unique": 28
+  },
+  "source_audit": [
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/",
+      "name": "도서관센터",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do",
+      "name": "마두도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MT/program/lectureList.do",
+      "name": "가좌도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MJ/program/lectureList.do",
+      "name": "대화도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MN/program/lectureList.do",
+      "name": "덕이도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MM/program/lectureList.do",
+      "name": "식사도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MF/program/lectureList.do",
+      "name": "아람누리도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MU/program/lectureList.do",
+      "name": "일산도서관",
+      "status": "stale_snapshot",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "일산 프로그램 목록 2025년, 별꿈 2024~2025년 캐시 반환. 2026 일정 확보 실패"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MG/program/lectureList.do",
+      "name": "주엽어린이도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/ML/program/lectureList.do",
+      "name": "풍동도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MK/program/lectureList.do",
+      "name": "한뫼도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MP/menu/12499/program/30013/lectureList.do",
+      "name": "삼송도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/ME/index.do",
+      "name": "화정도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MB/index.do",
+      "name": "행신도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MV/index.do",
+      "name": "높빛도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MQ/index.do",
+      "name": "별꿈도서관",
+      "status": "stale_snapshot",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "일산 프로그램 목록 2025년, 별꿈 2024~2025년 캐시 반환. 2026 일정 확보 실패"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MH/index.do",
+      "name": "행신어린이도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MI/index.do",
+      "name": "화정어린이도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MO/index.do",
+      "name": "신원도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "공식 목록 첫 페이지와 기존 상세 링크를 대조",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MC/index.do",
+      "name": "원당도서관",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:20:55+09:00",
+      "method": "web_open_cached_official_text",
+      "coverage": "도서관 홈·프로그램 목록/기존 상세 대조. 원당 재개관까지 휴관 확인",
+      "gaps": "전체 과거 페이지 및 메이커스페이스 별도 목록 미완주; 캐시 갱신시각이 서로 달라 실시간 접수·잔여석 보장 불가"
+    },
+    {
+      "source_group": "libraries",
+      "url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:24:00+09:00",
+      "coverage": "첫페이지15개 항목 확인. 조사창내오프라인9건·온라인1건; 9/29~10/31까지섞임",
+      "gaps": "2페이지 currentPageNo=2 접근불가; 날짜정렬아닌접수상태혼합이므로이후장기강좌누락없음보장불가",
+      "method": "cached_official_list"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=86&tourRsrcNo=1923",
+      "ledger_indices": [
+        0,
+        5
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL재열람 및 관련공식상세 대조",
+      "gaps": "전체기관행사전수보장아님;동적목록·누락공지·취소변경미확인; 원장5번 웨스턴돔은 실제로 가을꽃축제URL과 중복(잘못 등록된 출처). 웨스턴돔 독립 채널 조사완료 아님."
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldrList.do",
+      "ledger_indices": [
+        1,
+        37
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/www/index.do",
+      "ledger_indices": [
+        2
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL재열람 및 관련공식상세 대조",
+      "gaps": "전체기관행사전수보장아님;동적목록·누락공지·취소변경미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/park/user/eventCldr/BD_selectEventCldrList.do",
+      "ledger_indices": [
+        3,
+        38
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "호수공원목록1페이지전항목.기간내다문화어울마당발견.11/6마라톤제외",
+      "gaps": "등록86건중첫화면.과거페이지에현재장기행사있을가능성"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=",
+      "ledger_indices": [
+        4
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL재열람 및 관련공식상세 대조",
+      "gaps": "전체기관행사전수보장아님;동적목록·누락공지·취소변경미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://m.artgy.or.kr/Ticket/Performance/IndexMonthly",
+      "ledger_indices": [
+        6
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "모바일목록동적빈값;PC아람목록1·2페이지,연간목록10월 및신규상세12건이상대조",
+      "gaps": "페이지별캐시시점상이,일부상세timeout.11월초전체대관미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.kintex.com/",
+      "ledger_indices": [
+        7
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.cobe.co.kr/",
+      "ledger_indices": [
+        8
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL재열람 및 관련공식상세 대조",
+      "gaps": "전체기관행사전수보장아님;동적목록·누락공지·취소변경미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://gocaf.kr/exhibition-info/2026-gocaf-kintex-the-final-season1/",
+      "ledger_indices": [
+        9
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "고카프상세본문회복.기간·시각·현장등록·조건확인",
+      "gaps": "요금이미지직접판독못함,세부홀미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.cafenbakeryfair.com/page/page4",
+      "ledger_indices": [
+        10
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL재열람 및 관련공식상세 대조",
+      "gaps": "전체기관행사전수보장아님;동적목록·누락공지·취소변경미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.livenation.kr/event/charlie-puth-whatever-s-clever-world-tour-seoul-tickets-edp1668245",
+      "ledger_indices": [
+        11
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL재열람 및 관련공식상세 대조",
+      "gaps": "전체기관행사전수보장아님;동적목록·누락공지·취소변경미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://illustar.net/",
+      "ledger_indices": [
+        12
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.kbeautyexpo.com/fairDash.do",
+      "ledger_indices": [
+        13
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://robotworld.or.kr/",
+      "ledger_indices": [
+        14
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.hwasarang.net/board/program/5999",
+      "ledger_indices": [
+        15
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "ledger_indices": [
+        16
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL재열람 및 관련공식상세 대조",
+      "gaps": "전체기관행사전수보장아님;동적목록·누락공지·취소변경미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldr.do?q_sn=3579",
+      "ledger_indices": [
+        17
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL재열람 및 관련공식상세 대조",
+      "gaps": "전체기관행사전수보장아님;동적목록·누락공지·취소변경미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyangcc.or.kr/",
+      "ledger_indices": [
+        18,
+        59
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/ilsandonggu/index.do",
+      "ledger_indices": [
+        20
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/ilswgu/index.do",
+      "ledger_indices": [
+        21
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "메인·새소식첫페이지·행사목록열람.동물교감·토크콘서트발견",
+      "gaps": "29페이지공지전체미순회;캐시시점상이.동별공지미조사"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/dygu/user/bbs/BD_selectBbs.do?q_bbsCode=1030&q_bbscttSn=20261007185919613",
+      "ledger_indices": [
+        33
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "이미지공지후공식행사상세3583추가확보",
+      "gaps": "요금·참가대회신청조건미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://sports.interpark.com/TiKi/Special/TPRegionReserve.asp?Region=42010&RegionName=%EF%BF%BD%EF%BF%BD%EF%BF%BD",
+      "ledger_indices": [
+        34
+      ],
+      "status": "access_failed",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "지정URL열람실패/0줄본문. 해당사실은실패로기록",
+      "gaps": "본문미확보;행사없음이라는뜻아님"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832",
+      "ledger_indices": [
+        35
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "일반URL실패,동일공식페이지검색색인세션URL본문성공",
+      "gaps": "하위예약회차·잔여미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://jrtf.or.kr/info/program/?idx=14",
+      "ledger_indices": [
+        36
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "책마당및하위프로그램9개상세검사;서오릉해당5개추가",
+      "gaps": "조선왕릉제향전시관상세실패;개별예약잔여·요금미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.artgy.or.kr/PF/PF0201L.aspx?center=542",
+      "ledger_indices": [
+        49
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "어울림목록1페이지·해당기존상세6건재검증·연간목록교차",
+      "gaps": "목록2페이지실패.집사TV·정석주상세실패"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.artgy.or.kr/EH/EH0201L.ASPX",
+      "ledger_indices": [
+        50
+      ],
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "전시단일목록6건전체검사;기간내5건.거장전·DREAM성공",
+      "gaps": "작품탐구생활·상상공작소·빛의공간상세실패"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "가을꽃축제운영시간무료·꽃향기페스타상세·연계행사사실",
+      "gaps": "현장실시간운영·잔여미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.artgy.or.kr/PF/PF0501L.aspx",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "10월연간목록전체기간후보대조",
+      "gaps": "현장실시간운영·잔여미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.artgy.or.kr/PF/PF0201L.aspx?center=543&page=2",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "아람목록2페이지,11/5오케스트라우쿨렐레확인",
+      "gaps": "현장실시간운영·잔여미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/dygu/user/eventCldr/BD_selectEventCldr.do?q_sn=3583",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "동물교감치유문화제날짜·시간·장소",
+      "gaps": "현장실시간운영·잔여미확인"
+    },
+    {
+      "source_group": "festivals",
+      "url": "https://www.goyang.go.kr/dygu/user/eventCldr/BD_selectEventCldr.do?q_sn=3577",
+      "status": "checked_partial",
+      "checked_at": "2026-10-09T20:23:33+09:00",
+      "coverage": "다문화어울마당장소·날짜",
+      "gaps": "현장실시간운영·잔여미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 19,
+      "id": "ilsan-src-20",
+      "url": "https://www.gcyf.or.kr/bbs/board.php?bo_table=notice&wr_id=4292",
+      "name": "송포청소년문화의집/청소년재단",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "reviewed",
+      "coverage": "청소년환경페스티벌 공식포스터2장 날짜·시간·장소·조건 직접판독; 인접 클레이솝본문 검증",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 39,
+      "id": "deogyang-source-05",
+      "url": "https://newportal.goyang.go.kr/dygu/index.do",
+      "name": "덕양구청",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 51,
+      "id": "deogyang-source-17",
+      "url": "https://www.gcyf.or.kr/",
+      "name": "청소년재단",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 52,
+      "id": "deogyang-source-18",
+      "url": "https://www.gcyf.or.kr/td/index.php",
+      "name": "토당청소년수련관",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 53,
+      "id": "deogyang-source-19",
+      "url": "https://www.gcyf.or.kr/ss/index.php",
+      "name": "성사청소년문화의집",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 54,
+      "id": "deogyang-source-20",
+      "url": "https://www.gcyf.or.kr/hj/index.php",
+      "name": "화정청소년자유공간",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 55,
+      "id": "deogyang-source-21",
+      "url": "https://www.gcyf.or.kr/hs/index.php",
+      "name": "행신청소년자유공간",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 56,
+      "id": "deogyang-source-22",
+      "url": "https://www.gcyf.or.kr/jg/index.php",
+      "name": "주교청소년자유공간",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 57,
+      "id": "deogyang-source-23",
+      "url": "https://www.goyang.go.kr/resve/index.do",
+      "name": "시청 통합예약",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 58,
+      "id": "deogyang-source-24",
+      "url": "https://www.goyang.go.kr/news/index.do",
+      "name": "시 뉴스포털",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "새소식 최신1페이지470건 중10건, 주교통·꽃향기 상세HTML+공식포스터 확인",
+      "gaps": "2~47페이지 미검사. 보도전체 미검사"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 60,
+      "id": "deogyang-source-26",
+      "url": "https://www.goyang.go.kr/edu/index.do",
+      "name": "평생학습포털",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "홈페이지 접근회복; 평생학습축제6239 공식본문 확인; 강좌모집6건 목록 확인",
+      "gaps": "강좌전체·세부회차 미검사; 마감강좌 나들이추천 제외"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 61,
+      "id": "deogyang-source-27",
+      "url": "https://goyangcm.or.kr/",
+      "name": "고양어린이박물관",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 62,
+      "id": "deogyang-source-28",
+      "url": "https://www.gymadang.or.kr/",
+      "name": "생활문화센터",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "홈 최신공지 확인; 프로그램링크 실패.9/12스트레칭 종료행사 확인",
+      "gaps": "프로그램전체본문 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 63,
+      "id": "gap-src-001",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_1/dong01_4_1_tab1.jsp",
+      "name": "고양동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 64,
+      "id": "gap-src-002",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_2/dong01_4_2_tab1.jsp",
+      "name": "관산동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 추출 실패",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 65,
+      "id": "gap-src-003",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_3/dong01_4_3_tab1.jsp",
+      "name": "능곡동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 66,
+      "id": "gap-src-004",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_4/dong01_4_4_tab1.jsp",
+      "name": "대덕동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 추출 실패",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 67,
+      "id": "gap-src-005",
+      "url": "https://www.goyang.go.kr/dong/dong01/dong01_4/dong01_4_5/dong01_4_5_tab1.jsp",
+      "name": "삼송1동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 68,
+      "id": "gap-src-006",
+      "url": "https://www.goyang.go.kr/dong/dong01/dong01_4/dong01_4_20/dong01_4_20_tab1.jsp",
+      "name": "삼송2동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 69,
+      "id": "gap-src-007",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_6/dong01_4_6_tab1.jsp",
+      "name": "성사1동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 70,
+      "id": "gap-src-008",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_7/dong01_4_7_tab1.jsp",
+      "name": "성사2동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 71,
+      "id": "gap-src-009",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_8/dong01_4_8_tab1.jsp",
+      "name": "원신동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 추출 실패",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 72,
+      "id": "gap-src-010",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_9/dong01_4_9_tab1.jsp",
+      "name": "주교동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 73,
+      "id": "gap-src-011",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_10/dong01_4_10_tab1.jsp",
+      "name": "창릉동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 추출 실패",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 74,
+      "id": "gap-src-012",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_11/dong01_4_11_tab1.jsp",
+      "name": "행신1동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 75,
+      "id": "gap-src-013",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_12/dong01_4_12_tab1.jsp",
+      "name": "행신2동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 76,
+      "id": "gap-src-014",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_13/dong01_4_13_tab1.jsp",
+      "name": "행신3동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 77,
+      "id": "gap-src-015",
+      "url": "https://www.goyang.go.kr/dong/dong01/dong01_4/dong01_4_21/dong01_4_21_tab1.jsp",
+      "name": "행신4동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 78,
+      "id": "gap-src-016",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_14/dong01_4_14_tab1.jsp",
+      "name": "행주동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 79,
+      "id": "gap-src-017",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_15/dong01_4_15_tab1.jsp",
+      "name": "화전동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 80,
+      "id": "gap-src-018",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_16/dong01_4_16_tab1.jsp",
+      "name": "화정1동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 81,
+      "id": "gap-src-019",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_17/dong01_4_17_tab1.jsp",
+      "name": "화정2동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 82,
+      "id": "gap-src-020",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_18/dong01_4_18_tab1.jsp",
+      "name": "효자동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 추출 실패",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 83,
+      "id": "gap-src-021",
+      "url": "https://newportal.goyang.go.kr/dong/dong01/dong01_4/dong01_4_19/dong01_4_19_tab1.jsp",
+      "name": "흥도동 행정복지센터 소개·공지 접근 경로",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "해당 동 소개 URL 개별 열기 시도. 소개 본문 확인",
+      "gaps": "소개는 행사목록이 아님. 개별 동 필터 공지 전수검사 아님. 공통 지역문화행사 게시판 4페이지를 별도 검사."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 84,
+      "id": "gap-src-022",
+      "url": "https://newportal.goyang.go.kr/dygu/index.do",
+      "name": "덕양구 공식 21동 모집단",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "덕양구 홈페이지 동 모집단 확인; 39번과 동일 URL",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인",
+      "duplicate_of": "deogyang-source-05"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 85,
+      "id": "gap-src-023",
+      "url": "https://www.goyang.go.kr/dong/user/bbs/BD_selectBbsList.do?q_bbsCode=1074",
+      "name": "전체 동 지역문화행사 게시판",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_list_all_pages",
+      "coverage": "공통 지역문화행사 4페이지 16개 제목·작성일 모두 검사. 1페이지 꽃우물 상세 확인;2~4페이지2024~2021년 게시물.",
+      "gaps": "16건 모든 과거본문 완독은 아님. 현재 지역 전체 행사의 완전한 모집단이 아님."
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 86,
+      "id": "gap-src-024",
+      "url": "https://www.goyang.go.kr/dong/user/bbs/BD_selectBbsList.do?q_bbsCode=1071",
+      "name": "전체 동행정복지센터공지",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "7142건/715페이지 중 최신1페이지 확인",
+      "gaps": "개별동필터 및2~715페이지 미검사; 주택특별공급 안내 다수"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 87,
+      "id": "gap-src-025",
+      "url": "https://www.latina.or.kr/bbs/board.php?bo_table=notice",
+      "name": "중남미문화원 공지·2026기획전",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "checked_partial",
+      "coverage": "공지1페이지71건 중상단15건;2026기획전상세오류,마야본문날짜없음,전시소개기간없음",
+      "gaps": "현행전시 날짜·마야체험회차 미검증"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 88,
+      "id": "gap-src-026",
+      "url": "https://www.goyangcm.or.kr/",
+      "name": "고양어린이박물관",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "61번과 동일 박물관 도메인. 본문 0줄 접근실패를 중복 집계하지 않음",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인",
+      "duplicate_of": "deogyang-source-27"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 89,
+      "id": "gap-src-027",
+      "url": "https://www.aerospacemuseum.or.kr/",
+      "name": "한국항공대 항공우주박물관",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 90,
+      "id": "gap-src-028",
+      "url": "https://www.baedagol.com/",
+      "name": "배다골테마파크",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 91,
+      "id": "gap-src-029",
+      "url": "https://www.goyang.go.kr/dygu/",
+      "name": "고양향교 공식 공지 탐색",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "access_failed",
+      "coverage": "공식 URL 재열기 및 관련 최신 목록 확인",
+      "gaps": "전체 과거 공지·실시간 예약 및 변경 상태 미확인"
+    },
+    {
+      "source_group": "community",
+      "ledger_index": 92,
+      "id": "gap-src-030",
+      "url": "https://www.goyang.go.kr/ecoedu/index.do",
+      "name": "고양생태교육센터",
+      "checked_at": "2026-10-09T20:20:45+09:00",
+      "status": "reviewed",
+      "coverage": "홈2026~과거목록+신청목록 최신3건 상세352,351,350 직접HTTP본문검증",
+      "gaps": "가족토닥토닥세부운영일·취소/잔여석 미확인; 모든 과거 상세 미검사"
+    }
+  ],
+  "holds": [
+    {
+      "source_group": "libraries",
+      "original_array": "pending_candidates",
+      "record": {
+        "title_ko": "이번엔 완독 – 카라마조프가의 형제들",
+        "source_url": "https://goyanglib.or.kr/center/program/lectureList.do",
+        "facts": "공식 검색 인덱스11/3~12/1 화10~12, 신원3층교양교실, 성인20명, 무료. open은 다른시점캐시를 반환해 보류."
+      }
+    },
+    {
+      "source_group": "libraries",
+      "original_array": "pending_candidates",
+      "record": {
+        "title_ko": "그림책 속 꽃이 하는 말",
+        "source_url": "https://www.goyanglib.or.kr/ME/program/lectureList.do",
+        "facts": "11/4~18 수10~12 공식 목록 확인, 상세장소/조건 미확보."
+      }
+    },
+    {
+      "source_group": "libraries",
+      "original_array": "pending_candidates",
+      "record": {
+        "title_ko": "오늘의 그림책",
+        "source_url": "https://www.goyanglib.or.kr/MN/program/lectureList.do",
+        "facts": "공식 목록 제목만 확인, 일정 상세 미확보."
+      }
+    },
+    {
+      "source_group": "libraries",
+      "original_array": "pending_candidates",
+      "record": {
+        "title_ko": "예술로 만나는 신화 이야기",
+        "source_url": "https://www.goyanglib.or.kr/MV/program/lectureList.do",
+        "facts": "공식 목록 제목만 확인, 일정 상세 미확보."
+      }
+    },
+    {
+      "source_group": "libraries",
+      "original_array": "pending_candidates",
+      "record": {
+        "title_ko": "동서양 미술인문학: 두 개의 시선, 하나의 삶",
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/lectureList.do",
+        "facts": "8/12~10/28 수10~12, 대화2층서로배움터,성인30명,무료,접수종료. 장기강좌실제회차확인필요."
+      }
+    },
+    {
+      "source_group": "libraries",
+      "original_array": "pending_candidates",
+      "record": {
+        "title_ko": "대화 꼬북클럽5학년/6학년",
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/lectureList.do",
+        "facts": "7/25~12/12 토10~11:30,대화2층서로배움터,유료금액미확인,접수종료. 학년별별도모집,실제반복회차미확인."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "185회 두레콘서트 소프라노 김정아 리사이틀",
+        "dates": "2026-10-13",
+        "venue": "고양아람누리 새라새극장",
+        "source_url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008420",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "손열음 피아노 리사이틀",
+        "dates": "2026-10-16",
+        "venue": "고양아람누리 아람음악당",
+        "source_url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008390",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "연희소리극 출해 이무기이야기",
+        "dates": "2026-10-17",
+        "venue": "고양아람누리 새라새극장",
+        "source_url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008419",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "오페라 사랑의 묘약",
+        "dates": "2026-10-17~2026-10-18",
+        "venue": "고양아람누리 아람극장",
+        "source_url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008402",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "방향인터내셔날 With Us",
+        "dates": "2026-10-20~2026-10-21",
+        "venue": "고양아람누리 새라새극장",
+        "source_url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008436",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "정석주피아노리사이틀",
+        "dates": "2026-10-22",
+        "venue": "고양어울림누리 별모래극장",
+        "source_url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008478",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "국군교향악단 순회연주회",
+        "dates": "2026-10-28",
+        "venue": "고양아람누리 아람음악당",
+        "source_url": "https://www.artgy.or.kr/PF/PF0501L.aspx",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "186회 두레콘서트",
+        "dates": "2026-10-28",
+        "venue": "고양아람누리 새라새극장",
+        "source_url": "https://www.artgy.or.kr/PF/PF0501L.aspx",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "합창할고양 제3회 정기연주회",
+        "dates": "2026-10-29",
+        "venue": "고양아람누리 새라새극장",
+        "source_url": "https://www.artgy.or.kr/PF/PF0501L.aspx",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "서오릉 숙종의 여인들",
+        "dates": "2026-10-31",
+        "venue": "고양아람누리 새라새극장",
+        "source_url": "https://www.artgy.or.kr/PF/PF0501L.aspx",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "상상공작소",
+        "dates": "2026-10-21~2026-12-30",
+        "venue": "아람누리",
+        "source_url": "https://www.artgy.or.kr/PF/PF0501L.aspx",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "빛의 공간 환상을 비추다 시즌4",
+        "dates": "2026-10-16~2026-10-25",
+        "venue": "아람누리",
+        "source_url": "https://www.artgy.or.kr/PF/PF0501L.aspx",
+        "outcome": "access_failed",
+        "publication_status": "hold",
+        "notes_ko": "공식목록일정확인,상세본문접속실패로회차·조건미확정.전시2건은전시목록(EH0201L.ASPX)근거."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "original_array": "candidates",
+      "record": {
+        "title_ko": "2026 Peer 꽃마당 Festa",
+        "source_url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+        "outcome": "not_found",
+        "publication_status": "hold",
+        "notes_ko": "보도본문에꽃전시관측면광장야간행사명만,별도시작종료일·운영시간미확인."
+      }
+    },
+    {
+      "source_group": "community",
+      "original_array": "excluded",
+      "record": {
+        "title_ko": "중남미문화원 2026 빛과 색의 기록",
+        "reason": "공식제목은확인,개최기간미검증",
+        "source_url": "https://www.latina.or.kr/bbs/board.php?bo_table=notice"
+      }
+    },
+    {
+      "source_group": "community",
+      "original_array": "excluded",
+      "record": {
+        "title_ko": "중남미문화원 마야체험",
+        "reason": "공지본문일정미추출",
+        "source_url": "https://www.latina.or.kr/bbs/board.php?bo_table=notice&wr_id=77"
+      }
+    },
+    {
+      "source_group": "community",
+      "original_array": "excluded",
+      "record": {
+        "title_ko": "고양가와지볍씨박물관 꼬마농부 옛문서탐험",
+        "reason": "예약접수기간만확인,실제회차미확인",
+        "source_url": "https://www.goyang.go.kr/resve/index.do"
+      }
+    },
+    {
+      "source_group": "community",
+      "original_array": "excluded",
+      "record": {
+        "title_ko": "고양시청소년재단 10주년 포럼",
+        "reason": "10/30홈검색본문후보,상세공식원문재검증대기",
+        "source_url": "https://www.goyang.go.kr/"
+      }
+    },
+    {
+      "source_groups": [
+        "libraries"
+      ],
+      "original_array": "new_events",
+      "record": {
+        "identity_key": "시가주는가장본질적인경험에대하여나하늘시인북토크|2026-10-27",
+        "title_ko": "시가 주는 가장 본질적인 경험에 대하여: 나하늘 시인 북토크",
+        "source_groups": [
+          "libraries"
+        ],
+        "records": [
+          {
+            "source_group": "libraries",
+            "record": {
+              "title_ko": "시가 주는 가장 본질적인 경험에 대하여: 나하늘 시인 북토크",
+              "source_url": "https://www.goyanglib.or.kr/ME/program/lectureDetail.do?lectureIdx=518245",
+              "outcome": "indexed_only",
+              "checked_at": null,
+              "attempted_at": "2026-10-09T20:20:55+09:00",
+              "method": "indexed_official_detail",
+              "verified_fields": [],
+              "unknown_fields": [
+                "실시간접수잔여석",
+                "상세접수조건 재확인",
+                "외국인참가조건",
+                "입구좌표"
+              ],
+              "notes_ko": "누구나 40명, 준회원 이상; 10/5 10:00~10/26 18:00 사전신청; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+              "admission": "unknown",
+              "conflict": false,
+              "patch": {
+                "title_ko": "시가 주는 가장 본질적인 경험에 대하여: 나하늘 시인 북토크",
+                "category": "experience",
+                "area_id": "kr-41-goyang",
+                "schedule": {
+                  "start_date": "2026-10-27",
+                  "end_date": "2026-10-27",
+                  "timezone": "Asia/Seoul",
+                  "raw_ko": "10:00~12:00; 10/5 10:00~10/26 18:00 사전신청",
+                  "sessions": [],
+                  "exceptions": [],
+                  "precision": "dates_only"
+                },
+                "venues": [
+                  {
+                    "id": "venue-2294b36b60f9",
+                    "name_ko": "화정도서관 지하 1층 꽃마루",
+                    "address_ko": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "coordinate_source_url": null
+                  }
+                ],
+                "price": {
+                  "kind": "free",
+                  "currency": "KRW",
+                  "min": 0,
+                  "max": 0,
+                  "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+                },
+                "reservation": {
+                  "required": true,
+                  "url": "https://www.goyanglib.or.kr/ME/program/lectureDetail.do?lectureIdx=518245",
+                  "raw_ko": "10/5 10:00~10/26 18:00 사전신청"
+                },
+                "status": "scheduled",
+                "publication_status": "hold",
+                "visitor_access": {
+                  "korean_phone_required": null,
+                  "local_identity_required": null,
+                  "foreign_card_accepted": null,
+                  "notes_ko": "누구나 40명, 준회원 이상"
+                }
+              }
+            }
+          }
+        ],
+        "integration_status": "hold"
+      }
+    },
+    {
+      "source_groups": [
+        "libraries"
+      ],
+      "original_array": "new_events",
+      "record": {
+        "identity_key": "토닥토닥나만의마음토끼|2026-10-20",
+        "title_ko": "토닥토닥, 나만의 마음토끼",
+        "source_groups": [
+          "libraries"
+        ],
+        "records": [
+          {
+            "source_group": "libraries",
+            "record": {
+              "title_ko": "토닥토닥, 나만의 마음토끼",
+              "source_url": "https://www.goyanglib.or.kr/ML/program/lectureDetail.do?lectureIdx=519229",
+              "outcome": "indexed_only",
+              "checked_at": null,
+              "attempted_at": "2026-10-09T20:20:55+09:00",
+              "method": "indexed_official_detail",
+              "verified_fields": [],
+              "unknown_fields": [
+                "실시간접수잔여석",
+                "상세접수조건 재확인",
+                "외국인참가조건",
+                "입구좌표"
+              ],
+              "notes_ko": "2020~2023년생 아동, 어린이 준회원 계정 신청; 10/7 10:00~10/18 18:00 사전신청; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+              "admission": "unknown",
+              "conflict": false,
+              "patch": {
+                "title_ko": "토닥토닥, 나만의 마음토끼",
+                "category": "experience",
+                "area_id": "kr-41-goyang",
+                "schedule": {
+                  "start_date": "2026-10-20",
+                  "end_date": "2026-10-20",
+                  "timezone": "Asia/Seoul",
+                  "raw_ko": "16:00~16:50; 10/7 10:00~10/18 18:00 사전신청",
+                  "sessions": [],
+                  "exceptions": [],
+                  "precision": "dates_only"
+                },
+                "venues": [
+                  {
+                    "id": "venue-bfbdca89b74f",
+                    "name_ko": "풍동도서관 A동 지하1층 교양교실",
+                    "address_ko": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "coordinate_source_url": null
+                  }
+                ],
+                "price": {
+                  "kind": "free",
+                  "currency": "KRW",
+                  "min": 0,
+                  "max": 0,
+                  "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+                },
+                "reservation": {
+                  "required": true,
+                  "url": "https://www.goyanglib.or.kr/ML/program/lectureDetail.do?lectureIdx=519229",
+                  "raw_ko": "10/7 10:00~10/18 18:00 사전신청"
+                },
+                "status": "scheduled",
+                "publication_status": "hold",
+                "visitor_access": {
+                  "korean_phone_required": null,
+                  "local_identity_required": null,
+                  "foreign_card_accepted": null,
+                  "notes_ko": "2020~2023년생 아동, 어린이 준회원 계정 신청"
+                }
+              }
+            }
+          }
+        ],
+        "integration_status": "hold"
+      }
+    },
+    {
+      "source_groups": [
+        "libraries"
+      ],
+      "original_array": "new_events",
+      "record": {
+        "identity_key": "다함께그림책시간11월|2026-11-05",
+        "title_ko": "다 함께 그림책 시간 – 11월",
+        "source_groups": [
+          "libraries"
+        ],
+        "records": [
+          {
+            "source_group": "libraries",
+            "record": {
+              "title_ko": "다 함께 그림책 시간 – 11월",
+              "source_url": "https://www.goyanglib.or.kr/MI/program/lectureDetail.do?lectureIdx=514225",
+              "outcome": "indexed_only",
+              "checked_at": null,
+              "attempted_at": "2026-10-09T20:20:55+09:00",
+              "method": "indexed_official_detail",
+              "verified_fields": [],
+              "unknown_fields": [
+                "실시간접수잔여석",
+                "상세접수조건 재확인",
+                "외국인참가조건",
+                "입구좌표"
+              ],
+              "notes_ko": "2020~2021년생 어린이, 보호자 동반참여 불가, 준회원 이상; 10/22 10:00~11/3 00:00 사전신청; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+              "admission": "unknown",
+              "conflict": false,
+              "patch": {
+                "title_ko": "다 함께 그림책 시간 – 11월",
+                "category": "experience",
+                "area_id": "kr-41-goyang",
+                "schedule": {
+                  "start_date": "2026-11-05",
+                  "end_date": "2026-11-05",
+                  "timezone": "Asia/Seoul",
+                  "raw_ko": "16:00~16:50; 10/22 10:00~11/3 00:00 사전신청",
+                  "sessions": [],
+                  "exceptions": [],
+                  "precision": "dates_only"
+                },
+                "venues": [
+                  {
+                    "id": "venue-16629d683df6",
+                    "name_ko": "화정어린이도서관 2층 동아리방",
+                    "address_ko": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "coordinate_source_url": null
+                  }
+                ],
+                "price": {
+                  "kind": "free",
+                  "currency": "KRW",
+                  "min": 0,
+                  "max": 0,
+                  "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+                },
+                "reservation": {
+                  "required": true,
+                  "url": "https://www.goyanglib.or.kr/MI/program/lectureDetail.do?lectureIdx=514225",
+                  "raw_ko": "10/22 10:00~11/3 00:00 사전신청"
+                },
+                "status": "scheduled",
+                "publication_status": "hold",
+                "visitor_access": {
+                  "korean_phone_required": null,
+                  "local_identity_required": null,
+                  "foreign_card_accepted": null,
+                  "notes_ko": "2020~2021년생 어린이, 보호자 동반참여 불가, 준회원 이상"
+                }
+              }
+            }
+          }
+        ],
+        "integration_status": "hold"
+      }
+    },
+    {
+      "source_groups": [
+        "libraries"
+      ],
+      "original_array": "new_events",
+      "record": {
+        "identity_key": "가을우리가족숲놀이터|2026-10-31",
+        "title_ko": "가을, 우리 가족 숲 놀이터",
+        "source_groups": [
+          "libraries"
+        ],
+        "records": [
+          {
+            "source_group": "libraries",
+            "record": {
+              "title_ko": "가을, 우리 가족 숲 놀이터",
+              "source_url": "https://www.goyanglib.or.kr/ML/program/lectureDetail.do?lectureIdx=519480",
+              "outcome": "indexed_only",
+              "checked_at": null,
+              "attempted_at": "2026-10-09T20:20:55+09:00",
+              "method": "indexed_official_detail",
+              "verified_fields": [],
+              "unknown_fields": [
+                "실시간접수잔여석",
+                "상세접수조건 재확인",
+                "외국인참가조건",
+                "입구좌표"
+              ],
+              "notes_ko": "초등1~3학년과 보호자1인, 어린이 준회원 계정 신청; 10/8 10:00~10/29 18:00; 인덱스는 대기자접수; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+              "admission": "unknown",
+              "conflict": false,
+              "patch": {
+                "title_ko": "가을, 우리 가족 숲 놀이터",
+                "category": "experience",
+                "area_id": "kr-41-goyang",
+                "schedule": {
+                  "start_date": "2026-10-31",
+                  "end_date": "2026-10-31",
+                  "timezone": "Asia/Seoul",
+                  "raw_ko": "14:00~16:30; 10/8 10:00~10/29 18:00; 인덱스는 대기자접수",
+                  "sessions": [],
+                  "exceptions": [],
+                  "precision": "dates_only"
+                },
+                "venues": [
+                  {
+                    "id": "venue-1ec6f8eb0c66",
+                    "name_ko": "풍동도서관 교양교실 및 식골공원",
+                    "address_ko": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "coordinate_source_url": null
+                  }
+                ],
+                "price": {
+                  "kind": "free",
+                  "currency": "KRW",
+                  "min": 0,
+                  "max": 0,
+                  "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+                },
+                "reservation": {
+                  "required": true,
+                  "url": "https://www.goyanglib.or.kr/ML/program/lectureDetail.do?lectureIdx=519480",
+                  "raw_ko": "10/8 10:00~10/29 18:00; 인덱스는 대기자접수"
+                },
+                "status": "scheduled",
+                "publication_status": "hold",
+                "visitor_access": {
+                  "korean_phone_required": null,
+                  "local_identity_required": null,
+                  "foreign_card_accepted": null,
+                  "notes_ko": "초등1~3학년과 보호자1인, 어린이 준회원 계정 신청"
+                }
+              }
+            }
+          }
+        ],
+        "integration_status": "hold"
+      }
+    },
+    {
+      "source_groups": [
+        "libraries"
+      ],
+      "original_array": "new_events",
+      "record": {
+        "identity_key": "아이는잠시나를위한미술힐링시간|2026-10-22",
+        "title_ko": "아이는 잠시, 나를 위한 미술 힐링 시간",
+        "source_groups": [
+          "libraries"
+        ],
+        "records": [
+          {
+            "source_group": "libraries",
+            "record": {
+              "title_ko": "아이는 잠시, 나를 위한 미술 힐링 시간",
+              "source_url": "https://www.goyanglib.or.kr/ML/program/lectureDetail.do?lectureIdx=519548",
+              "outcome": "indexed_only",
+              "checked_at": null,
+              "attempted_at": "2026-10-09T20:20:55+09:00",
+              "method": "indexed_official_detail",
+              "verified_fields": [],
+              "unknown_fields": [
+                "실시간접수잔여석",
+                "상세접수조건 재확인",
+                "외국인참가조건",
+                "입구좌표"
+              ],
+              "notes_ko": "고양시민 성인, 준회원 이상; 10/8 10:00~10/20 18:00 사전신청; 검색엔진 캐시 기준. 상세 원문 재검증 전 자동코스에서 제외.",
+              "admission": "unknown",
+              "conflict": false,
+              "patch": {
+                "title_ko": "아이는 잠시, 나를 위한 미술 힐링 시간",
+                "category": "experience",
+                "area_id": "kr-41-goyang",
+                "schedule": {
+                  "start_date": "2026-10-22",
+                  "end_date": "2026-10-22",
+                  "timezone": "Asia/Seoul",
+                  "raw_ko": "10:00~12:00; 10/8 10:00~10/20 18:00 사전신청",
+                  "sessions": [],
+                  "exceptions": [],
+                  "precision": "dates_only"
+                },
+                "venues": [
+                  {
+                    "id": "venue-bfbdca89b74f",
+                    "name_ko": "풍동도서관 A동 지하1층 교양교실",
+                    "address_ko": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "coordinate_source_url": null
+                  }
+                ],
+                "price": {
+                  "kind": "free",
+                  "currency": "KRW",
+                  "min": 0,
+                  "max": 0,
+                  "raw_ko": "공식 수강료 무료 표기. 기타비용 상세 미확인"
+                },
+                "reservation": {
+                  "required": true,
+                  "url": "https://www.goyanglib.or.kr/ML/program/lectureDetail.do?lectureIdx=519548",
+                  "raw_ko": "10/8 10:00~10/20 18:00 사전신청"
+                },
+                "status": "scheduled",
+                "publication_status": "hold",
+                "visitor_access": {
+                  "korean_phone_required": null,
+                  "local_identity_required": null,
+                  "foreign_card_accepted": null,
+                  "notes_ko": "고양시민 성인, 준회원 이상"
+                }
+              }
+            }
+          }
+        ],
+        "integration_status": "hold"
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "source_group": "libraries",
+      "record": {
+        "title_ko": "마두 책에서 꺼낸 한 문장·나를 지키는 다정한 문장들 / 삼송 한 줄 책장·우리 가족 추천책",
+        "reason": "상시 서비스·전시. 휴관일 및 실제일별 운영시간 검증 전 당일행사로 추천하지 않음",
+        "source_url": "https://www.goyanglib.or.kr/MA/menu/10204/program/30013/lectureList.do"
+      }
+    },
+    {
+      "source_group": "libraries",
+      "record": {
+        "title_ko": "어린이집·유치원 도서관 단체견학",
+        "reason": "단체 사전예약·기관 조건 확인 전 일반 방문형 행사로 등록하지 않음",
+        "source_url": "https://www.goyanglib.or.kr/MI/program/lectureList.do"
+      }
+    },
+    {
+      "source_group": "libraries",
+      "record": {
+        "title_ko": "원당도서관",
+        "reason": "재개관까지휴관. 센터 안내2028.10이후개관예정",
+        "source_url": "https://www.goyanglib.or.kr/center/index.do"
+      }
+    },
+    {
+      "source_group": "libraries",
+      "record": {
+        "title_ko": "온라인 틴커캐드3D모델링 기초",
+        "source_url": "https://www.goyanglib.or.kr/MJ/program/makerSpaceList.do",
+        "reason": "10/30 16~18,12세이상,무료,ZOOM온라인. GPS기반방문형장소정보에서제외하되온라인분류후별도제공가능"
+      }
+    },
+    {
+      "source_group": "festivals",
+      "record": {
+        "title_ko": "2026 고양무용페스타",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008410",
+        "reason": "기간내프로그램카르멘을별도등록,포괄페스타중복집계제외.포괄페이지새라새장소와카르멘실제아람극장구분."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "record": {
+        "title_ko": "2026 아람 클래식 패키지",
+        "url": "https://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008392",
+        "reason": "여러공연묶음판매상품,독립행사로중복등록하지않음."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "record": {
+        "title_ko": "PIATE 2026",
+        "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+        "reason": "10/1~4종료,대상기간밖."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "record": {
+        "title_ko": "2026 글로벌6K마라톤",
+        "url": "https://www.goyang.go.kr/park/user/eventCldr/BD_selectEventCldrList.do",
+        "reason": "11/6,조사종료11/5이후."
+      }
+    },
+    {
+      "source_group": "festivals",
+      "record": {
+        "title_ko": "가루나무 모래흙",
+        "url": "https://www.artgy.or.kr/EH/EH0201L.ASPX",
+        "reason": "11/7시작,조사범위밖."
+      }
+    },
+    {
+      "source_group": "community",
+      "record": {
+        "title_ko": "고양특례시민의 날",
+        "reason": "2026-10-03 종료",
+        "source_url": "https://newportal.goyang.go.kr/dygu/index.do"
+      }
+    },
+    {
+      "source_group": "community",
+      "record": {
+        "title_ko": "생활문화의 달인 회복스트레칭",
+        "reason": "2026-09-12 종료",
+        "source_url": "https://www.gymadang.or.kr/"
+      }
+    },
+    {
+      "source_group": "community",
+      "record": {
+        "title_ko": "중남미문화원 2026 빛과 색의 기록",
+        "reason": "공식제목은확인,개최기간미검증",
+        "source_url": "https://www.latina.or.kr/bbs/board.php?bo_table=notice"
+      }
+    },
+    {
+      "source_group": "community",
+      "record": {
+        "title_ko": "중남미문화원 마야체험",
+        "reason": "공지본문일정미추출",
+        "source_url": "https://www.latina.or.kr/bbs/board.php?bo_table=notice&wr_id=77"
+      }
+    },
+    {
+      "source_group": "community",
+      "record": {
+        "title_ko": "고양가와지볍씨박물관 꼬마농부 옛문서탐험",
+        "reason": "예약접수기간만확인,실제회차미확인",
+        "source_url": "https://www.goyang.go.kr/resve/index.do"
+      }
+    },
+    {
+      "source_group": "community",
+      "record": {
+        "title_ko": "고양시청소년재단 10주년 포럼",
+        "reason": "10/30홈검색본문후보,상세공식원문재검증대기",
+        "source_url": "https://www.goyang.go.kr/"
+      }
+    }
+  ],
+  "notes": [
+    "research_candidate는 원문또는공식목록에근거한연구등록대상이며 전체필드검증완료/자동코스적격을뜻하지않음",
+    "기존검토63행에서백마화사랑1행중복제거=62ID;기존꽃향기페스타에지역조사신규레코드보강",
+    "신규57행에서동물교감중복1/기존꽃향기페스타1제거=55고유후보(연구50/색인보류5)",
+    "기존출처93행88고유는기초원장집계이며 이번담당자별URL정규화개수와동일하지않음",
+    "도서관19연구후보에메이커스페이스9건포함"
+  ]
+}

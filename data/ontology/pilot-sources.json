@@ -1,0 +1,2088 @@
+{
+  "mode": "frozen_legacy_extract",
+  "records": [
+    {
+      "id": "ada0dffd-cab4-4a81-8537-f6b1c5d07973",
+      "file": "public/data.json",
+      "selector": "/places/31",
+      "payload_sha256": "cc0c0b27850587e1e46fcd5479b464460b71d1f2244c4e4b1d55c7d5796ec3f0",
+      "raw": {
+        "id": "place-8473926541ae",
+        "name": "일산호수공원",
+        "point": {
+          "lat": 37.6562024,
+          "lng": 126.7639759,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+        }
+      }
+    },
+    {
+      "id": "ab9926e7-67e1-44c7-aa03-063b3bd3f388",
+      "file": "public/data.json",
+      "selector": "/places/20",
+      "payload_sha256": "9137fda832c035d80370e14d6376242e6541421bf55ea8f3d5b2705ecfd39cab",
+      "raw": {
+        "id": "place-9f29da024f99",
+        "name": "고양아람누리",
+        "point": {
+          "lat": 37.661485,
+          "lng": 126.774458,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+        },
+        "address": "경기도 고양시 일산동구 중앙로 1286",
+        "region": {
+          "province": "gyeonggi",
+          "city": "goyang",
+          "labels": {
+            "ko": "고양시",
+            "en": "Goyang",
+            "ja": "高陽市",
+            "zh-Hans": "高阳市"
+          }
+        }
+      }
+    },
+    {
+      "id": "c25b87a1-8188-4ce5-80ac-3395175f0638",
+      "file": "public/data.json",
+      "selector": "/places/38",
+      "payload_sha256": "ae7bfd709df7f6f7247a2318cefafb1eeeef8a4671a4f5fea50127e506b27791",
+      "raw": {
+        "id": "place-23392d7984a2",
+        "name": "고양꽃전시관",
+        "point": {
+          "lat": 37.6552847,
+          "lng": 126.7689083,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=59ce3dd9-38d2-4c68-91fa-356c79cbefa7"
+        },
+        "coordinateSource": null
+      }
+    },
+    {
+      "id": "ebb74318-1052-4174-9115-af6567f318fa",
+      "file": "public/data.json",
+      "selector": "/places/22",
+      "payload_sha256": "390e9df311a8382017f33bf91e4a111c9e5838a939062517a48ceda67cca26bb",
+      "raw": {
+        "id": "place-2e6ae2f12843",
+        "name": "라페스타",
+        "point": {
+          "lat": 37.6606813,
+          "lng": 126.7690617,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+        }
+      }
+    },
+    {
+      "id": "83c9b0f7-c22c-43c7-808a-f47627da1038",
+      "file": "public/data.json",
+      "selector": "/places/25",
+      "payload_sha256": "7fc5a3831a6a1ce818325f7a0b343ec17f1eb1a17e2ae97f471105dd95fa2366",
+      "raw": {
+        "id": "place-359257cc5332",
+        "name": "해움",
+        "point": {
+          "lat": 37.6529548,
+          "lng": 126.76874,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+        }
+      }
+    },
+    {
+      "id": "0dfaa007-9180-4ccc-ae5b-f5dd5e7ba224",
+      "file": "public/data.json",
+      "selector": "/places/24",
+      "payload_sha256": "fcdc8d74cd8e40e1c3da6231f8bad04d6f440953c769b3eadda0f3572975e4b2",
+      "raw": {
+        "id": "place-c8ea428fa5dc",
+        "name": "새들",
+        "point": {
+          "lat": 37.6263638,
+          "lng": 126.7838094,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+        }
+      }
+    },
+    {
+      "id": "a66978e9-5c17-43ec-b6a3-47cfb0c398ad",
+      "file": "public/data.json",
+      "selector": "/places/18",
+      "payload_sha256": "9352f22cf72652e327285ce9527211c23487bf0eb15afa61ae245c80452dfefd",
+      "raw": {
+        "id": "place-e94f4e438ad8",
+        "name": "화정도서관",
+        "point": {
+          "lat": 37.6377927,
+          "lng": 126.8370456,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://www.goyanglib.or.kr/ME/menu/10880/contents/40060/contents.do"
+        },
+        "address": "고양시 덕양구 은빛로77번길 8(화정동)",
+        "coordinateSource": "https://t1.kakaocdn.net/roughmap/28sgz.json"
+      }
+    },
+    {
+      "id": "50a16413-1af1-4626-ac6f-5922a0f29e97",
+      "file": "public/data.json",
+      "selector": "/places/43",
+      "payload_sha256": "0ec1b49d7e9bee2763ef2f4cd93ee323e496e0a67d456ef952498ba3b7c8b852",
+      "raw": {
+        "id": "place-f6c6c05f17d8",
+        "name": "행주산성",
+        "point": {
+          "lat": 37.596947,
+          "lng": 126.831958,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://www.wikidata.org/wiki/Q12624761"
+        }
+      }
+    },
+    {
+      "id": "6118c50a-d879-4382-aef0-53800268cc0a",
+      "file": "public/data.json",
+      "selector": "/places/32",
+      "payload_sha256": "fa412832a00d1e103fbe48e566b2374188376fb6026bb8773a451be955beb47b",
+      "raw": {
+        "id": "place-d9cf4e7b0372",
+        "name": "킨텍스",
+        "point": {
+          "lat": 37.6689595,
+          "lng": 126.7462423,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+        },
+        "address": "경기도 고양시 일산서구 킨텍스로 217-60",
+        "region": {
+          "province": "gyeonggi",
+          "city": "goyang",
+          "labels": {
+            "ko": "고양시",
+            "en": "Goyang",
+            "ja": "高陽市",
+            "zh-Hans": "高阳市"
+          }
+        }
+      }
+    },
+    {
+      "id": "79a25a65-eb50-4a21-bcaf-0aac7cb410e1",
+      "file": "public/data.json",
+      "selector": "/places/27",
+      "payload_sha256": "5609c2896b2d22244264cdd431fdbd7b9bd14ba0845bbb7743f3f3ab4d99efde",
+      "raw": {
+        "id": "place-cf2333ad17f8",
+        "name": "고양생태공원",
+        "point": {
+          "lat": 37.6839562,
+          "lng": 126.7441251,
+          "precision": "venue_reference",
+          "verifiedEntrance": false,
+          "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+        }
+      }
+    },
+    {
+      "id": "acf5b5bc-3ea2-4173-aa1e-6a2387bc3f47",
+      "file": "public/place-catalog.js",
+      "selector": "placeCatalog[id=forest-outings-ilsan]",
+      "payload_sha256": "b48dcc46e31f105f491137008f78d3d2887a258d4fa01ed4946ea1b8d68d5e98",
+      "raw": {
+        "id": "forest-outings-ilsan",
+        "topics": [
+          "cafes",
+          "bakery"
+        ],
+        "name": "포레스트 아웃팅스 일산",
+        "address": "고양시 일산동구 고양대로 1124",
+        "source": "https://www.forestoutings.co.kr/default/company/sub01.php",
+        "checked": "2026-10-11",
+        "hours": null,
+        "point": null
+      }
+    },
+    {
+      "id": "77408327-16d7-48ff-95de-8960a5335f45",
+      "file": "public/place-catalog.js",
+      "selector": "placeCatalog[id=gatten-starfield-goyang]",
+      "payload_sha256": "b7496c15ef9fd9e33633a032a9245a2abec639ba66126776dfb759a2e4376ded",
+      "raw": {
+        "id": "gatten-starfield-goyang",
+        "topics": [
+          "restaurants",
+          "dining"
+        ],
+        "name": "갓덴스시 스타필드 고양",
+        "address": "고양시 덕양구 고양대로 1955 · B1",
+        "source": "https://www.starfield.co.kr/goyang/tenant/categoryInfo.do",
+        "checked": "2026-10-11",
+        "hours": null,
+        "point": null
+      }
+    },
+    {
+      "id": "86811782-bcf2-4f0f-a29b-8017a6a679b8",
+      "file": "public/place-catalog.js",
+      "selector": "placeCatalog[id=mijin-starfield-goyang]",
+      "payload_sha256": "9bc8957062ad5c711e76039d144650638b9ea738d965fc1e238b9be583d1cb8e",
+      "raw": {
+        "id": "mijin-starfield-goyang",
+        "topics": [
+          "restaurants",
+          "dining"
+        ],
+        "name": "광화문미진 스타필드 고양",
+        "address": "고양시 덕양구 고양대로 1955 · 3F",
+        "source": "https://www.starfield.co.kr/goyang/tenant/categoryInfo.do",
+        "checked": "2026-10-11",
+        "hours": null,
+        "point": null
+      }
+    },
+    {
+      "id": "5960dc31-69e8-4b77-8277-82918995834a",
+      "file": "public/place-catalog.js",
+      "selector": "placeCatalog[id=starfield-goyang]",
+      "payload_sha256": "3c31357e939fce1e487c062a597412b8587c50db0ed54585449fd8d64abc8146",
+      "raw": {
+        "id": "starfield-goyang",
+        "topics": [
+          "destinations",
+          "outings"
+        ],
+        "name": "스타필드 고양",
+        "address": "고양시 덕양구 고양대로 1955",
+        "source": "https://www.starfield.co.kr/goyang/tenant/categoryInfo.do",
+        "checked": "2026-10-11",
+        "hours": null,
+        "point": null
+      }
+    },
+    {
+      "id": "d12059ea-51df-47d5-8342-70d0c8a8f37d",
+      "file": "public/data.json",
+      "selector": "/events/0",
+      "payload_sha256": "39133611d9cfa84d8eda74b52ee157bdcbaacf3c8b60ba58636ddd41c6bdd79a",
+      "raw": {
+        "id": "mohae-goyang-e6da1b391beb5c1c",
+        "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+        "title_ko": "2026 고양 가을꽃 축제",
+        "summary_ko": "2026-10-01~2026-10-11, 일산호수공원 주제광장. 회차·요금·신청 조건은 아래의 공식 자료 대조 결과를 확인하세요.",
+        "category": "festival",
+        "area_id": "kr-41-goyang",
+        "venues": [
+          {
+            "id": "venue-06ab264499a1",
+            "name_ko": "일산호수공원 주제광장",
+            "address_ko": "경기도 고양시 일산동구 노루목로 10",
+            "latitude": null,
+            "longitude": null,
+            "coordinate_source_url": null
+          }
+        ],
+        "schedule": {
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-11",
+          "timezone": "Asia/Seoul",
+          "raw_ko": "09:00~18:00",
+          "sessions": [
+            {
+              "start": "2026-10-01T09:00:00+09:00",
+              "end": "2026-10-01T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-02T09:00:00+09:00",
+              "end": "2026-10-02T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-03T09:00:00+09:00",
+              "end": "2026-10-03T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-04T09:00:00+09:00",
+              "end": "2026-10-04T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-05T09:00:00+09:00",
+              "end": "2026-10-05T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-06T09:00:00+09:00",
+              "end": "2026-10-06T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-07T09:00:00+09:00",
+              "end": "2026-10-07T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-08T09:00:00+09:00",
+              "end": "2026-10-08T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-09T09:00:00+09:00",
+              "end": "2026-10-09T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-10T09:00:00+09:00",
+              "end": "2026-10-10T18:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-11T09:00:00+09:00",
+              "end": "2026-10-11T18:00:00+09:00",
+              "status": "scheduled"
+            }
+          ],
+          "exceptions": [],
+          "precision": "complete_sessions"
+        },
+        "status": "scheduled",
+        "price": {
+          "kind": "free",
+          "currency": "KRW",
+          "min": 0,
+          "max": 0,
+          "raw_ko": "야외 가을꽃축제 입장 무료. 연계 토크콘서트 별도 유료."
+        },
+        "reservation": null,
+        "onsite_languages": null,
+        "visitor_access": {
+          "korean_phone_required": null,
+          "local_identity_required": null,
+          "foreign_card_accepted": null,
+          "notes_ko": null
+        },
+        "evidence": [
+          {
+            "source_id": "source-e6da1b391beb",
+            "url": "https://www.goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=86&tourRsrcNo=1923",
+            "fields": [
+              "title_ko",
+              "venues",
+              "schedule"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님. "
+          },
+          {
+            "source_id": "source-e6da1b391beb",
+            "url": "https://www.goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=86&tourRsrcNo=1923",
+            "fields": [
+              "title,date,venue"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "본문 요약: 2026-10-01~2026-10-11, 일산호수공원 주제광장"
+          }
+        ],
+        "last_verified_at": "2026-10-09T20:23:33+09:00",
+        "publication_status": "research",
+        "translations": {
+          "ko": {
+            "display_title": "2026 고양 가을꽃 축제",
+            "summary": "2026-10-01~2026-10-11, 일산호수공원 주제광장. 회차·요금·신청 조건은 아래의 공식 자료 대조 결과를 확인하세요.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "en": {
+            "display_title": "2026 Goyang Autumn Flower Festival",
+            "summary": "2026-10-01–2026-10-11. Venue (Korean): 일산호수공원 주제광장. See the checked schedule, fees and registration conditions below.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "ja": {
+            "display_title": "2026 高陽秋の花祭り",
+            "summary": "2026-10-01～2026-10-11。会場（韓国語）：일산호수공원 주제광장。確認した日程・料金・申込条件は以下をご覧ください。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "zh-Hans": {
+            "display_title": "2026高阳秋季花卉节",
+            "summary": "2026-10-01至2026-10-11。场地（韩文）：일산호수공원 주제광장。请查看下方已核对的时间、费用及报名条件。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          }
+        },
+        "verification": {
+          "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+          "checked_at": "2026-10-09T20:23:33+09:00",
+          "recheck_after": "2026-10-10T17:43:35+09:00",
+          "method": "official_page_text_review",
+          "source_methods": [
+            "official_page_text_review"
+          ],
+          "sources": [
+            {
+              "url": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=652&tourRsrcNo=1923",
+              "fields": [
+                "dates",
+                "venue"
+              ],
+              "checked_at": "2026-10-09T17:43:35+09:00",
+              "method": "official_page_text_review"
+            },
+            {
+              "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+              "fields": [
+                "dates",
+                "hours",
+                "venue",
+                "fee"
+              ],
+              "checked_at": "2026-10-09T20:23:33+09:00",
+              "method": "official_page_text_review"
+            }
+          ],
+          "verified_fields": [
+            "dates",
+            "hours",
+            "venue",
+            "fee"
+          ],
+          "unknown_fields": [
+            "reservation",
+            "conditions",
+            "liveAvailability",
+            "entrance",
+            "languages"
+          ],
+          "notes_ko": "고양시 공식 안내에서 기간과 주제광장 개최를 확인. 운영시간·요금·예약 조건은 해당 본문에 없어 미확인으로 유지. 공원 운영시간을 행사시간으로 대체하지 않음. 시 관광안내와 재단 명의 시 공식 보도 대조. 야외 축제 무료. 꽃전시관 토크콘서트는 별도 유료. 포스터·본문은 복제하지 않고 사실만 추출.",
+          "additional_unknowns": [],
+          "admission": "walk_in",
+          "conflict": false
+        },
+        "editorial": {
+          "environment": "outdoor",
+          "point": {
+            "lat": 37.6562024,
+            "lng": 126.7639759,
+            "precision": "venue_reference",
+            "verifiedEntrance": false,
+            "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+          },
+          "media": "lake",
+          "environmentBasis": "장소 명칭과 시설 유형에 따른 편집 분류; 현장 전체의 실내외 조건 보증 아님",
+          "classification": {
+            "version": 1,
+            "topics": [
+              "seasonal"
+            ],
+            "audiences": [],
+            "basis": "editorial_source_title_venue_notes",
+            "source_title": "2026 고양 가을꽃 축제",
+            "source_version": "sha256:164f290c2b6e9b38e5efab49829703347264c67552ec97220bd309da61fab5cb",
+            "evidence_urls": [
+              "https://www.goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=86&tourRsrcNo=1923"
+            ],
+            "review_note_ko": "공식 자료의 행사 제목·종류를 바탕으로 한 편집 분류. 대상 태그는 콘텐츠 주제이며 입장 연령·동반 가능 조건을 보증하지 않습니다.",
+            "source_notes": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님.  본문 요약: 2026-10-01~2026-10-11, 일산호수공원 주제광장"
+          },
+          "locations": [
+            {
+              "id": "place-8473926541ae",
+              "name": "일산호수공원",
+              "point": {
+                "lat": 37.6562024,
+                "lng": 126.7639759,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+              }
+            }
+          ],
+          "multiSite": false
+        }
+      }
+    },
+    {
+      "id": "0c2dee6c-a72a-4144-8f88-c06ee2a1808e",
+      "file": "public/data.json",
+      "selector": "/events/98",
+      "payload_sha256": "228d97c308caf2337b2e971d1fd071f69bc77c52dc2e75b26dfbcada3c7bf8d6",
+      "raw": {
+        "id": "mohae-goyang-b957dc9f49a31d09",
+        "title_ko": "2026 고양가을꽃축제 토크콘서트",
+        "summary_ko": "고양꽃전시관에서 열리는 2026 고양가을꽃축제 토크콘서트. 2026-10-09~2026-10-11. 시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인.",
+        "category": "performance",
+        "area_id": "kr-41-goyang",
+        "venues": [
+          {
+            "id": "venue-23392d7984a2",
+            "name_ko": "고양꽃전시관",
+            "address_ko": null,
+            "latitude": null,
+            "longitude": null,
+            "coordinate_source_url": null
+          }
+        ],
+        "schedule": {
+          "start_date": "2026-10-09",
+          "end_date": "2026-10-11",
+          "timezone": "Asia/Seoul",
+          "raw_ko": null,
+          "sessions": [],
+          "exceptions": [],
+          "precision": "dates_only"
+        },
+        "status": "scheduled",
+        "price": {
+          "kind": "paid",
+          "currency": "KRW",
+          "min": null,
+          "max": null,
+          "raw_ko": "유료 입장권 필요.금액미확인."
+        },
+        "reservation": {
+          "required": true,
+          "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+          "raw_ko": "시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인."
+        },
+        "onsite_languages": null,
+        "visitor_access": {
+          "korean_phone_required": null,
+          "local_identity_required": null,
+          "foreign_card_accepted": null,
+          "notes_ko": "시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인."
+        },
+        "evidence": [
+          {
+            "source_id": "source-f751b169fddf",
+            "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+            "fields": [
+              "title_ko",
+              "schedule",
+              "venues",
+              "price"
+            ],
+            "checked_at": "2026-10-09T20:23:33+09:00",
+            "note_ko": "공식 원문 사실 추출; 현장 실시간 확인 아님."
+          }
+        ],
+        "last_verified_at": "2026-10-09T20:23:33+09:00",
+        "publication_status": "research",
+        "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+        "translations": {
+          "ko": {
+            "display_title": "2026 고양가을꽃축제 토크콘서트",
+            "summary": "고양꽃전시관에서 열리는 2026 고양가을꽃축제 토크콘서트. 2026-10-09~2026-10-11. 시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인.",
+            "status": "ai_draft",
+            "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "en": {
+            "display_title": "Goyang Autumn Flower Festival Talk Concert",
+            "summary": "Dates: 2026-10-09 – 2026-10-11. Venue (Korean): 고양꽃전시관. Check the official source for entry conditions and current availability.",
+            "status": "ai_draft",
+            "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "ja": {
+            "display_title": "高陽秋の花祭り トークコンサート",
+            "summary": "開催日：2026-10-09～2026-10-11。会場（韓国語）：고양꽃전시관。参加条件と最新の空き状況は公式案内をご確認ください。",
+            "status": "ai_draft",
+            "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "zh-Hans": {
+            "display_title": "高阳秋花节访谈音乐会",
+            "summary": "日期：2026-10-09至2026-10-11。地点（韩文）：고양꽃전시관。参加条件及最新名额请查看官方说明。",
+            "status": "ai_draft",
+            "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          }
+        },
+        "parent_event_title": "2026 고양 가을꽃 축제",
+        "verification": {
+          "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+          "checked_at": "2026-10-09T20:23:33+09:00",
+          "recheck_after": "2026-10-10T20:23:33+09:00",
+          "method": "official_page_text_review",
+          "source_methods": [
+            "official_page_text_review"
+          ],
+          "sources": [
+            {
+              "url": "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y",
+              "fields": [
+                "dates",
+                "venue",
+                "reservation"
+              ],
+              "checked_at": "2026-10-09T20:23:33+09:00",
+              "method": "official_page_text_review"
+            }
+          ],
+          "verified_fields": [
+            "dates",
+            "venue",
+            "reservation"
+          ],
+          "unknown_fields": [
+            "hours",
+            "fee",
+            "conditions",
+            "liveAvailability",
+            "entrance",
+            "languages"
+          ],
+          "notes_ko": "시공식보도에서10/9~11문학토크콘서트·유료입장권확인.회차시각·금액미확인.",
+          "additional_unknowns": [],
+          "admission": "ticket_required",
+          "conflict": false
+        },
+        "editorial": {
+          "environment": "unknown",
+          "point": {
+            "lat": 37.6552847,
+            "lng": 126.7689083,
+            "precision": "venue_reference",
+            "verifiedEntrance": false,
+            "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=59ce3dd9-38d2-4c68-91fa-356c79cbefa7"
+          },
+          "media": null,
+          "environmentBasis": "장소 명칭과 시설 유형에 따른 편집 분류; 현장 전체의 실내외 조건 보증 아님",
+          "classification": {
+            "version": 1,
+            "topics": [
+              "concert"
+            ],
+            "audiences": [],
+            "source_title": "2026 고양가을꽃축제 토크콘서트",
+            "source_version": "sha256:56d2894d09a8cbc286906510820851f0ebd745f2df39cff4156dee45e6de11c0",
+            "evidence_urls": [
+              "https://www.goyang.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsCode=1090&q_bbscttSn=20260929173400133&q_estnColumn1=Y"
+            ],
+            "basis": "editorial_source_title_venue_notes",
+            "review_note_ko": "공식 행사명과 안내에 기반한 분류; 참여 연령은 별도 확인."
+          },
+          "locations": [
+            {
+              "id": "place-23392d7984a2",
+              "name": "고양꽃전시관",
+              "point": {
+                "lat": 37.6552847,
+                "lng": 126.7689083,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=59ce3dd9-38d2-4c68-91fa-356c79cbefa7"
+              },
+              "coordinateSource": null
+            }
+          ],
+          "multiSite": false
+        }
+      }
+    },
+    {
+      "id": "7d50a47e-8f54-4149-9abf-b5dd24efab7e",
+      "file": "public/data.json",
+      "selector": "/events/225",
+      "payload_sha256": "5f6669f40dfcda287084cf63fd08af078d1b72d25ac7d26df9c96d7caebc7a85",
+      "raw": {
+        "id": "goyang-artgy-8473",
+        "source_version": "sha256:39e9e93a75f946c13f1bf59a88f17ddf770aaef909b32a888e2c5b2dd51685ea",
+        "title_ko": "2026 아람 크리스마스 콘서트 #2 - 리베란테",
+        "summary_ko": "고양아람누리 아람극장에서 열리는 2026 아람 크리스마스 콘서트 #2 - 리베란테 공연.",
+        "category": "performance",
+        "area_id": "kr-41-goyang",
+        "region": {
+          "province": "gyeonggi",
+          "city": "goyang",
+          "labels": {
+            "ko": "고양시",
+            "en": "Goyang",
+            "ja": "高陽市",
+            "zh-Hans": "高阳市"
+          }
+        },
+        "venues": [
+          {
+            "id": "place-9f29da024f99",
+            "name_ko": "고양아람누리 아람극장",
+            "address_ko": "경기도 고양시 일산동구 중앙로 1286",
+            "latitude": 37.661485,
+            "longitude": 126.774458,
+            "coordinate_source_url": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+          }
+        ],
+        "schedule": {
+          "start_date": "2026-12-25",
+          "end_date": "2026-12-25",
+          "timezone": "Asia/Seoul",
+          "raw_ko": "12월 25일(금) : 오후 5시",
+          "sessions": [
+            {
+              "start": "2026-12-25T17:00:00+09:00",
+              "end": null,
+              "status": "scheduled"
+            }
+          ],
+          "exceptions": [],
+          "precision": "date_range"
+        },
+        "status": "scheduled",
+        "price": {
+          "kind": "paid",
+          "currency": "KRW",
+          "min": null,
+          "max": null,
+          "raw_ko": "R석 : 90,000원 S석 : 80,000원 A석 : 70,000원 B석 : 60,000원"
+        },
+        "reservation": {
+          "raw_ko": "공식 공연 상세 페이지 예매 안내 확인",
+          "scope": "general_admission"
+        },
+        "onsite_languages": null,
+        "visitor_access": {
+          "notes_ko": null
+        },
+        "evidence": [
+          {
+            "source_id": "source-60849d9161e7",
+            "url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473",
+            "fields": [
+              "dates",
+              "fee",
+              "hours",
+              "venue"
+            ],
+            "checked_at": "2026-10-09T12:50:57.809229+00:00",
+            "note_ko": "공식 출처 조사 기록; 현장 확인 및 실시간 잔여석 확인 아님"
+          }
+        ],
+        "last_verified_at": "2026-10-09T12:50:57.809229+00:00",
+        "publication_status": "research",
+        "translations": {
+          "ko": {
+            "display_title": "2026 아람 크리스마스 콘서트 #2 - 리베란테",
+            "summary": "고양아람누리 아람극장에서 열리는 2026 아람 크리스마스 콘서트 #2 - 리베란테 공연.",
+            "venue_name": "고양아람누리 아람극장",
+            "status": "ai_draft",
+            "source_version": "sha256:39e9e93a75f946c13f1bf59a88f17ddf770aaef909b32a888e2c5b2dd51685ea",
+            "published": false,
+            "source_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473"
+          },
+          "en": {
+            "display_title": "Aram Christmas Concert #2: Libelante",
+            "summary": "Aram Christmas Concert #2: Libelante at Goyang Aram Nuri.",
+            "venue_name": "Goyang Aram Nuri",
+            "status": "ai_draft",
+            "source_version": "sha256:39e9e93a75f946c13f1bf59a88f17ddf770aaef909b32a888e2c5b2dd51685ea",
+            "published": false,
+            "source_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473"
+          },
+          "ja": {
+            "display_title": "アラム・クリスマスコンサート #2：リベランテ",
+            "summary": "高陽アラムヌリで開催される「アラム・クリスマスコンサート #2：リベランテ」。",
+            "venue_name": "高陽アラムヌリ",
+            "status": "ai_draft",
+            "source_version": "sha256:39e9e93a75f946c13f1bf59a88f17ddf770aaef909b32a888e2c5b2dd51685ea",
+            "published": false,
+            "source_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473"
+          },
+          "zh-Hans": {
+            "display_title": "Aram圣诞音乐会#2：Libelante",
+            "summary": "在高阳Aram Nuri举办的《Aram圣诞音乐会#2：Libelante》。",
+            "venue_name": "高阳Aram Nuri",
+            "status": "ai_draft",
+            "source_version": "sha256:39e9e93a75f946c13f1bf59a88f17ddf770aaef909b32a888e2c5b2dd51685ea",
+            "published": false,
+            "source_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473"
+          }
+        },
+        "verification": {
+          "source_version": "sha256:39e9e93a75f946c13f1bf59a88f17ddf770aaef909b32a888e2c5b2dd51685ea",
+          "checked_at": "2026-10-09T12:50:57.809229+00:00",
+          "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+          "method": "official_page_text_review",
+          "source_methods": [
+            "direct"
+          ],
+          "cached_source": false,
+          "sources": [
+            {
+              "url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473",
+              "fields": [
+                "dates",
+                "fee",
+                "hours",
+                "venue"
+              ],
+              "checked_at": "2026-10-09T12:50:57.809229+00:00",
+              "method": "direct"
+            }
+          ],
+          "verified_fields": [
+            "dates",
+            "fee",
+            "hours",
+            "venue"
+          ],
+          "unknown_fields": [
+            "reservation",
+            "conditions",
+            "liveAvailability",
+            "entrance",
+            "languages"
+          ],
+          "notes_ko": "고양아람누리 시설 기준점이며 정확한 행사 입구 또는 무대 위치가 아닙니다.",
+          "additional_unknowns": [
+            "session_end"
+          ],
+          "admission": "unknown",
+          "conflict": false
+        },
+        "editorial": {
+          "environment": "indoor",
+          "environmentBasis": "공식 행사 소개와 시설 유형에 따른 편집 분류",
+          "point": {
+            "lat": 37.661485,
+            "lng": 126.774458,
+            "precision": "venue_reference",
+            "verifiedEntrance": false,
+            "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+          },
+          "media": null,
+          "locations": [
+            {
+              "id": "place-9f29da024f99",
+              "name": "고양아람누리",
+              "point": {
+                "lat": 37.661485,
+                "lng": 126.774458,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+              },
+              "address": "경기도 고양시 일산동구 중앙로 1286",
+              "region": {
+                "province": "gyeonggi",
+                "city": "goyang",
+                "labels": {
+                  "ko": "고양시",
+                  "en": "Goyang",
+                  "ja": "高陽市",
+                  "zh-Hans": "高阳市"
+                }
+              }
+            }
+          ],
+          "multiSite": false,
+          "classification": {
+            "version": 1,
+            "topics": [
+              "stage"
+            ],
+            "audiences": [],
+            "source_version": "sha256:39e9e93a75f946c13f1bf59a88f17ddf770aaef909b32a888e2c5b2dd51685ea",
+            "source_title": "2026 아람 크리스마스 콘서트 #2 - 리베란테",
+            "evidence_urls": [
+              "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473"
+            ],
+            "basis": "editorial_source_title_venue_notes"
+          }
+        }
+      }
+    },
+    {
+      "id": "560f6ac5-90f0-4962-8546-20174bdf1f9b",
+      "file": "public/data.json",
+      "selector": "/events/1",
+      "payload_sha256": "f026dc0dd4fd51c0d21f09db7254b7bbfa8a2652fe2c70112ba0f62479c91510",
+      "raw": {
+        "id": "mohae-goyang-03a9f44070a621cb",
+        "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+        "title_ko": "가을밤, 고양에 물들다",
+        "summary_ko": "2026-10-03~2026-10-31, 라페스타 문화의 거리. 회차·요금·신청 조건은 아래의 공식 자료 대조 결과를 확인하세요.",
+        "category": "performance",
+        "area_id": "kr-41-goyang",
+        "venues": [
+          {
+            "id": "venue-c348aa80f8dd",
+            "name_ko": "라페스타 문화의 거리",
+            "address_ko": null,
+            "latitude": null,
+            "longitude": null,
+            "coordinate_source_url": null
+          }
+        ],
+        "schedule": {
+          "start_date": "2026-10-03",
+          "end_date": "2026-10-31",
+          "timezone": "Asia/Seoul",
+          "raw_ko": "10월 매주 토요일 18:30~20:00",
+          "sessions": [
+            {
+              "start": "2026-10-10T18:30:00+09:00",
+              "end": "2026-10-10T20:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-17T18:30:00+09:00",
+              "end": "2026-10-17T20:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-24T18:30:00+09:00",
+              "end": "2026-10-24T20:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-31T18:30:00+09:00",
+              "end": "2026-10-31T20:00:00+09:00",
+              "status": "scheduled"
+            }
+          ],
+          "exceptions": [],
+          "precision": "partial_sessions"
+        },
+        "status": "scheduled",
+        "price": null,
+        "reservation": null,
+        "onsite_languages": null,
+        "visitor_access": {
+          "korean_phone_required": null,
+          "local_identity_required": null,
+          "foreign_card_accepted": null,
+          "notes_ko": null
+        },
+        "evidence": [
+          {
+            "source_id": "source-03a9f44070a6",
+            "url": "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=",
+            "fields": [
+              "title_ko",
+              "venues",
+              "schedule"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님. "
+          },
+          {
+            "source_id": "source-03a9f44070a6",
+            "url": "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=",
+            "fields": [
+              "title,date,venue"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "본문 요약: 2026-10-03~2026-10-31, 라페스타 문화의 거리"
+          }
+        ],
+        "last_verified_at": "2026-10-09T20:23:33+09:00",
+        "publication_status": "research",
+        "translations": {
+          "ko": {
+            "display_title": "가을밤, 고양에 물들다",
+            "summary": "2026-10-03~2026-10-31, 라페스타 문화의 거리. 회차·요금·신청 조건은 아래의 공식 자료 대조 결과를 확인하세요.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "en": {
+            "display_title": "Autumn Nights in Goyang",
+            "summary": "2026-10-03–2026-10-31. Venue (Korean): 라페스타 문화의 거리. See the checked schedule, fees and registration conditions below.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "ja": {
+            "display_title": "秋の夜、高陽に染まる",
+            "summary": "2026-10-03～2026-10-31。会場（韓国語）：라페스타 문화의 거리。確認した日程・料金・申込条件は以下をご覧ください。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "zh-Hans": {
+            "display_title": "秋夜，邂逅高阳",
+            "summary": "2026-10-03至2026-10-31。场地（韩文）：라페스타 문화의 거리。请查看下方已核对的时间、费用及报名条件。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          }
+        },
+        "verification": {
+          "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+          "checked_at": "2026-10-09T20:23:33+09:00",
+          "recheck_after": "2026-10-10T17:43:35+09:00",
+          "method": "official_page_text_review",
+          "source_methods": [
+            "official_page_text_review"
+          ],
+          "sources": [
+            {
+              "url": "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=",
+              "fields": [
+                "dates",
+                "hours",
+                "venue"
+              ],
+              "checked_at": "2026-10-09T17:43:35+09:00",
+              "method": "official_page_text_review"
+            },
+            {
+              "url": "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=",
+              "fields": [
+                "dates",
+                "hours",
+                "venue"
+              ],
+              "checked_at": "2026-10-09T20:23:33+09:00",
+              "method": "official_page_text_review"
+            }
+          ],
+          "verified_fields": [
+            "dates",
+            "hours",
+            "venue"
+          ],
+          "unknown_fields": [
+            "fee",
+            "reservation",
+            "conditions",
+            "liveAvailability",
+            "entrance",
+            "languages"
+          ],
+          "notes_ko": "10월 매주 토요일(3·10·17·24·31일) 18:30~20:00, 라페스타 문화의 거리. 3개 무대 릴레이 버스킹. 무료 여부는 추정하지 않음. 10월 토요일 3·10·17·24·31일 18:30~20:00, 라페스타 문화의 거리 릴레이 버스킹 재확인. 요금·우천변경 미기재. 기존 회차 유지.",
+          "additional_unknowns": [],
+          "admission": "unknown",
+          "conflict": false
+        },
+        "editorial": {
+          "environment": "outdoor",
+          "point": {
+            "lat": 37.6606813,
+            "lng": 126.7690617,
+            "precision": "venue_reference",
+            "verifiedEntrance": false,
+            "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+          },
+          "media": null,
+          "recurrence": {
+            "weekdays": [
+              6
+            ],
+            "start": 1110,
+            "end": 1200
+          },
+          "environmentBasis": "장소 명칭과 시설 유형에 따른 편집 분류; 현장 전체의 실내외 조건 보증 아님",
+          "classification": {
+            "version": 1,
+            "topics": [
+              "concert"
+            ],
+            "audiences": [],
+            "basis": "editorial_source_title_venue_notes",
+            "source_title": "가을밤, 고양에 물들다",
+            "source_version": "sha256:41431fa143693c9532b38031f75d7d86d833c399ebdee73aea678d434dd8ccc9",
+            "evidence_urls": [
+              "https://www.goyang.go.kr/visitgoyang/www/selectBbsNttView.do?bbsNo=5&integrDeptCode=&key=67&nttNo=784&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd="
+            ],
+            "review_note_ko": "공식 자료의 행사 제목·종류를 바탕으로 한 편집 분류. 대상 태그는 콘텐츠 주제이며 입장 연령·동반 가능 조건을 보증하지 않습니다.",
+            "source_notes": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님.  본문 요약: 2026-10-03~2026-10-31, 라페스타 문화의 거리"
+          },
+          "locations": [
+            {
+              "id": "place-2e6ae2f12843",
+              "name": "라페스타",
+              "point": {
+                "lat": 37.6606813,
+                "lng": 126.7690617,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+              }
+            }
+          ],
+          "multiSite": false
+        }
+      }
+    },
+    {
+      "id": "5624dd52-67fa-4f4e-a81a-3d679627fc7e",
+      "file": "public/data.json",
+      "selector": "/events/8",
+      "payload_sha256": "015867d458e025b99bb1ba989ef2de607102714ed094fbbf45172d3a4a6425aa",
+      "raw": {
+        "id": "mohae-goyang-17721f6917df7a94",
+        "source_version": "sha256:d4fcbb0eb3ba0ef1c917a99cabda73deec0154b45d186f3c7a16d51a5216f3af",
+        "title_ko": "해움·새들 오픈스튜디오 #4 연계 기획전시",
+        "summary_ko": "2026-09-18~2026-10-17, 고양시 예술창작공간 해움·새들. 회차·요금·신청 조건은 아래의 공식 자료 대조 결과를 확인하세요.",
+        "category": "exhibition",
+        "area_id": "kr-41-goyang",
+        "venues": [
+          {
+            "id": "venue-df1d20808edb",
+            "name_ko": "고양시 예술창작공간 해움·새들",
+            "address_ko": null,
+            "latitude": null,
+            "longitude": null,
+            "coordinate_source_url": null
+          }
+        ],
+        "schedule": {
+          "start_date": "2026-09-18",
+          "end_date": "2026-10-17",
+          "timezone": "Asia/Seoul",
+          "raw_ko": "10:00~17:00; 일·월·공휴일 휴관. 오픈스튜디오 9/19~20는 별도 종료. 새들은 덕양구에 위치하며 고유행사 중복 집계 금지.",
+          "sessions": [],
+          "exceptions": [
+            {
+              "date": "2026-10-09",
+              "status": "closed",
+              "note_ko": "원문 휴관일"
+            },
+            {
+              "date": "2026-10-11",
+              "status": "closed",
+              "note_ko": "원문 휴관일"
+            },
+            {
+              "date": "2026-10-12",
+              "status": "closed",
+              "note_ko": "원문 휴관일"
+            }
+          ],
+          "precision": "dates_only"
+        },
+        "status": "scheduled",
+        "price": null,
+        "reservation": null,
+        "onsite_languages": null,
+        "visitor_access": {
+          "korean_phone_required": null,
+          "local_identity_required": null,
+          "foreign_card_accepted": null,
+          "notes_ko": "일·월·공휴일 휴관. 오픈스튜디오 9/19~20는 별도 종료. 새들은 덕양구에 위치하며 고유행사 중복 집계 금지."
+        },
+        "evidence": [
+          {
+            "source_id": "source-17721f6917df",
+            "url": "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldr.do?q_sn=3579",
+            "fields": [
+              "title_ko",
+              "venues",
+              "schedule"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님. 일·월·공휴일 휴관. 오픈스튜디오 9/19~20는 별도 종료. 새들은 덕양구에 위치하며 고유행사 중복 집계 금지."
+          },
+          {
+            "source_id": "source-17721f6917df",
+            "url": "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldr.do?q_sn=3579",
+            "fields": [
+              "title,date,venue"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "본문 요약: 2026-09-18~2026-10-17, 고양시 예술창작공간 해움·새들"
+          },
+          {
+            "source_id": "source-17721f6917df",
+            "url": "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldr.do?q_sn=3579",
+            "fields": [
+              "title_ko",
+              "schedule",
+              "venues"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "교차 조사 중복 확인. 10/9·11·12 휴관; 오픈스튜디오 자체 9/19~20 종료"
+          }
+        ],
+        "last_verified_at": "2026-10-09T20:23:33+09:00",
+        "publication_status": "research",
+        "translations": {
+          "ko": {
+            "display_title": "해움·새들 오픈스튜디오 #4 연계 기획전시",
+            "summary": "2026-09-18~2026-10-17, 고양시 예술창작공간 해움·새들. 회차·요금·신청 조건은 아래의 공식 자료 대조 결과를 확인하세요.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:d4fcbb0eb3ba0ef1c917a99cabda73deec0154b45d186f3c7a16d51a5216f3af",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "en": {
+            "display_title": "Haeum and Saedeul Open Studio #4: Related Exhibition",
+            "summary": "2026-09-18–2026-10-17. Venue (Korean): 고양시 예술창작공간 해움·새들. See the checked schedule, fees and registration conditions below.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:d4fcbb0eb3ba0ef1c917a99cabda73deec0154b45d186f3c7a16d51a5216f3af",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "ja": {
+            "display_title": "ヘウム・セドゥル オープンスタジオ#4関連企画展",
+            "summary": "2026-09-18～2026-10-17。会場（韓国語）：고양시 예술창작공간 해움·새들。確認した日程・料金・申込条件は以下をご覧ください。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:d4fcbb0eb3ba0ef1c917a99cabda73deec0154b45d186f3c7a16d51a5216f3af",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "zh-Hans": {
+            "display_title": "Haeum与Saedeul开放工作室#4联动展览",
+            "summary": "2026-09-18至2026-10-17。场地（韩文）：고양시 예술창작공간 해움·새들。请查看下方已核对的时间、费用及报名条件。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:d4fcbb0eb3ba0ef1c917a99cabda73deec0154b45d186f3c7a16d51a5216f3af",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          }
+        },
+        "verification": {
+          "source_version": "sha256:d4fcbb0eb3ba0ef1c917a99cabda73deec0154b45d186f3c7a16d51a5216f3af",
+          "checked_at": "2026-10-09T20:23:33+09:00",
+          "recheck_after": "2026-10-10T20:23:33+09:00",
+          "method": "official_page_text_review",
+          "source_methods": [
+            "official_page_text_review"
+          ],
+          "sources": [
+            {
+              "url": "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldr.do?q_sn=3579",
+              "fields": [
+                "dates",
+                "hours",
+                "venue",
+                "conditions"
+              ],
+              "checked_at": "2026-10-09T20:23:33+09:00",
+              "method": "official_page_text_review"
+            }
+          ],
+          "verified_fields": [
+            "dates",
+            "hours",
+            "venue",
+            "conditions"
+          ],
+          "unknown_fields": [
+            "fee",
+            "reservation",
+            "liveAvailability",
+            "entrance",
+            "languages"
+          ],
+          "notes_ko": "기획전시9/18~10/17 10~17시,일월공휴일휴관. 두 건물 각각 운영. 9/19~20 오픈스튜디오는 종료되어 현재전시와 구분. 10/9한글날휴관 유지.",
+          "additional_unknowns": [],
+          "admission": "unknown",
+          "conflict": false
+        },
+        "editorial": {
+          "environment": "unknown",
+          "point": {
+            "lat": 37.6529548,
+            "lng": 126.76874,
+            "precision": "venue_reference",
+            "verifiedEntrance": false,
+            "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+          },
+          "media": null,
+          "environmentBasis": "장소 명칭과 시설 유형에 따른 편집 분류; 현장 전체의 실내외 조건 보증 아님",
+          "classification": {
+            "version": 1,
+            "topics": [
+              "art"
+            ],
+            "audiences": [],
+            "basis": "editorial_source_title_venue_notes",
+            "source_title": "해움·새들 오픈스튜디오 #4 연계 기획전시",
+            "source_version": "sha256:d4fcbb0eb3ba0ef1c917a99cabda73deec0154b45d186f3c7a16d51a5216f3af",
+            "evidence_urls": [
+              "https://www.goyang.go.kr/www/user/eventCldr/BD_selectEventCldr.do?q_sn=3579"
+            ],
+            "review_note_ko": "공식 자료의 행사 제목·종류를 바탕으로 한 편집 분류. 대상 태그는 콘텐츠 주제이며 입장 연령·동반 가능 조건을 보증하지 않습니다.",
+            "source_notes": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님. 일·월·공휴일 휴관. 오픈스튜디오 9/19~20는 별도 종료. 새들은 덕양구에 위치하며 고유행사 중복 집계 금지. 본문 요약: 2026-09-18~2026-10-17, 고양시 예술창작공간 해움·새들 교차 조사 중복 확인. 10/9·11·12 휴관; 오픈스튜디오 자체 9/19~20 종료"
+          },
+          "locations": [
+            {
+              "id": "place-359257cc5332",
+              "name": "해움",
+              "point": {
+                "lat": 37.6529548,
+                "lng": 126.76874,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+              }
+            },
+            {
+              "id": "place-c8ea428fa5dc",
+              "name": "새들",
+              "point": {
+                "lat": 37.6263638,
+                "lng": 126.7838094,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+              }
+            }
+          ],
+          "multiSite": true
+        }
+      }
+    },
+    {
+      "id": "f519669b-b6d4-423f-ad80-0b63e503d3fd",
+      "file": "public/data.json",
+      "selector": "/events/36",
+      "payload_sha256": "7594ad12bac93133a504fbae855787b88bca595f7475d5d6dd65f8a7e867e594",
+      "raw": {
+        "id": "mohae-goyang-ddee156d9fd5f2c1",
+        "source_version": "sha256:423f08c72c12cf00eb01f95a0111ad00fd3b9fada5aa876f52ed92c372d9a7fe",
+        "title_ko": "그림책으로 키우는 미디어 문해력",
+        "summary_ko": "2026-10-01~2026-11-12, 화정도서관 2층 나눔터1. 회차·요금·신청 조건은 아래의 공식 자료 대조 결과를 확인하세요.",
+        "category": "experience",
+        "area_id": "kr-41-goyang",
+        "venues": [
+          {
+            "id": "venue-4a79787db337",
+            "name_ko": "화정도서관 2층 나눔터1",
+            "address_ko": null,
+            "latitude": null,
+            "longitude": null,
+            "coordinate_source_url": null
+          }
+        ],
+        "schedule": {
+          "start_date": "2026-10-01",
+          "end_date": "2026-11-12",
+          "timezone": "Asia/Seoul",
+          "raw_ko": "목10:00~12:00; 접수정보 재확인 필요; 개최기간만 확인",
+          "sessions": [],
+          "exceptions": [],
+          "precision": "dates_only"
+        },
+        "status": "scheduled",
+        "price": {
+          "kind": "free",
+          "currency": "KRW",
+          "min": 0,
+          "max": 0,
+          "raw_ko": "무료"
+        },
+        "reservation": {
+          "required": null,
+          "url": null,
+          "raw_ko": "준회원 이상; 홈 접수종료10/15 vs 상세9/29 충돌, 상세 상태도 오래됨"
+        },
+        "onsite_languages": null,
+        "visitor_access": {
+          "korean_phone_required": null,
+          "local_identity_required": null,
+          "foreign_card_accepted": null,
+          "notes_ko": "성인30명; 접수정보 재확인 필요; 개최기간만 확인"
+        },
+        "evidence": [
+          {
+            "source_id": "source-ddee156d9fd5",
+            "url": "https://www.goyanglib.or.kr/ME/program/lectureDetail.do?lectureIdx=515079",
+            "fields": [
+              "title_ko",
+              "venues",
+              "schedule",
+              "price",
+              "reservation"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님. 성인30명; 접수정보 재확인 필요; 개최기간만 확인"
+          },
+          {
+            "source_id": "source-ddee156d9fd5",
+            "url": "https://www.goyanglib.or.kr/ME/program/lectureDetail.do?lectureIdx=515079",
+            "fields": [
+              "date_location"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "2026-10-01 / 화정도서관 2층 나눔터1"
+          }
+        ],
+        "last_verified_at": "2026-10-09T20:20:55+09:00",
+        "publication_status": "research",
+        "translations": {
+          "ko": {
+            "display_title": "그림책으로 키우는 미디어 문해력",
+            "summary": "2026-10-01~2026-11-12, 화정도서관 2층 나눔터1. 회차·요금·신청 조건은 아래의 공식 자료 대조 결과를 확인하세요.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:423f08c72c12cf00eb01f95a0111ad00fd3b9fada5aa876f52ed92c372d9a7fe",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:20:55+09:00"
+          },
+          "en": {
+            "display_title": "Building Media Literacy with Picture Books",
+            "summary": "2026-10-01–2026-11-12. Venue (Korean): 화정도서관 2층 나눔터1. See the checked schedule, fees and registration conditions below.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:423f08c72c12cf00eb01f95a0111ad00fd3b9fada5aa876f52ed92c372d9a7fe",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:20:55+09:00"
+          },
+          "ja": {
+            "display_title": "絵本で育むメディアリテラシー",
+            "summary": "2026-10-01～2026-11-12。会場（韓国語）：화정도서관 2층 나눔터1。確認した日程・料金・申込条件は以下をご覧ください。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:423f08c72c12cf00eb01f95a0111ad00fd3b9fada5aa876f52ed92c372d9a7fe",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:20:55+09:00"
+          },
+          "zh-Hans": {
+            "display_title": "用绘本培养媒体素养",
+            "summary": "2026-10-01至2026-11-12。场地（韩文）：화정도서관 2층 나눔터1。请查看下方已核对的时间、费用及报名条件。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:423f08c72c12cf00eb01f95a0111ad00fd3b9fada5aa876f52ed92c372d9a7fe",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:20:55+09:00"
+          }
+        },
+        "verification": {
+          "source_version": "sha256:423f08c72c12cf00eb01f95a0111ad00fd3b9fada5aa876f52ed92c372d9a7fe",
+          "checked_at": "2026-10-09T20:20:55+09:00",
+          "recheck_after": "2026-10-10T20:20:55+09:00",
+          "method": "official_page_text_review",
+          "source_methods": [
+            "cached_official_detail"
+          ],
+          "sources": [
+            {
+              "url": "https://www.goyanglib.or.kr/ME/program/lectureDetail.do?lectureIdx=515079",
+              "fields": [
+                "dates",
+                "hours",
+                "venue",
+                "fee",
+                "conditions"
+              ],
+              "checked_at": "2026-10-09T20:20:55+09:00",
+              "method": "cached_official_detail"
+            }
+          ],
+          "verified_fields": [
+            "dates",
+            "hours",
+            "venue",
+            "fee",
+            "conditions"
+          ],
+          "unknown_fields": [
+            "reservation",
+            "liveAvailability",
+            "entrance",
+            "languages"
+          ],
+          "notes_ko": "공식 게재 내용 대조. 열람일과 검색엔진 수집일은 다르며 실시간 현황이 아님. 상세 접수9/29 종료와 오늘 수집 목록10/15 마감이 충돌. 예약조건 확정 금지.",
+          "additional_unknowns": [
+            "실시간 접수·잔여석",
+            "당일 취소 여부",
+            "외국인 회원가입 조건"
+          ],
+          "admission": "unknown",
+          "conflict": true,
+          "cached_source": true
+        },
+        "editorial": {
+          "environment": "indoor",
+          "point": {
+            "lat": 37.6377927,
+            "lng": 126.8370456,
+            "precision": "venue_reference",
+            "verifiedEntrance": false,
+            "source": "https://www.goyanglib.or.kr/ME/menu/10880/contents/40060/contents.do"
+          },
+          "media": null,
+          "environmentBasis": "장소 명칭과 시설 유형에 따른 편집 분류; 현장 전체의 실내외 조건 보증 아님",
+          "classification": {
+            "version": 1,
+            "topics": [
+              "reading",
+              "digital"
+            ],
+            "audiences": [
+              "adult"
+            ],
+            "basis": "editorial_source_title_venue_notes",
+            "source_title": "그림책으로 키우는 미디어 문해력",
+            "source_version": "sha256:423f08c72c12cf00eb01f95a0111ad00fd3b9fada5aa876f52ed92c372d9a7fe",
+            "evidence_urls": [
+              "https://www.goyanglib.or.kr/ME/program/lectureDetail.do?lectureIdx=515079"
+            ],
+            "review_note_ko": "공식 자료의 행사 제목·종류를 바탕으로 한 편집 분류. 대상 태그는 콘텐츠 주제이며 입장 연령·동반 가능 조건을 보증하지 않습니다.",
+            "source_notes": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님. 성인30명; 접수정보 재확인 필요; 개최기간만 확인 2026-10-01 / 화정도서관 2층 나눔터1"
+          },
+          "locations": [
+            {
+              "id": "place-e94f4e438ad8",
+              "name": "화정도서관",
+              "point": {
+                "lat": 37.6377927,
+                "lng": 126.8370456,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://www.goyanglib.or.kr/ME/menu/10880/contents/40060/contents.do"
+              },
+              "address": "고양시 덕양구 은빛로77번길 8(화정동)",
+              "coordinateSource": "https://t1.kakaocdn.net/roughmap/28sgz.json"
+            }
+          ],
+          "multiSite": false
+        }
+      }
+    },
+    {
+      "id": "692b7f2d-7459-48f9-8657-8e6ede433b21",
+      "file": "public/data.json",
+      "selector": "/events/33",
+      "payload_sha256": "c2d3d5f29b9a4364311b4f510fd6be739868077f73643816afe695ca52c458ce",
+      "raw": {
+        "id": "mohae-goyang-7fc1dd01588bf4d0",
+        "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+        "title_ko": "2026 행주가 예술이야",
+        "summary_ko": "10월 9~18일 행주산성 야간 축제. 18:00~22:00, 최종 입장 21:30. 일반 관람 무료, 일부 체험 유료. 우천·강풍 예보 시 미운영합니다.",
+        "category": "festival",
+        "area_id": "kr-41-goyang",
+        "venues": [
+          {
+            "id": "venue-4f3373e26126",
+            "name_ko": "고양 행주산성 일원",
+            "address_ko": null,
+            "latitude": null,
+            "longitude": null,
+            "coordinate_source_url": null
+          }
+        ],
+        "schedule": {
+          "start_date": "2026-10-09",
+          "end_date": "2026-10-18",
+          "timezone": "Asia/Seoul",
+          "raw_ko": "매일 18:00~22:00, 공식 FAQ 기준 21:30 입장 마감",
+          "sessions": [
+            {
+              "start": "2026-10-09T18:00:00+09:00",
+              "end": "2026-10-09T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-10T18:00:00+09:00",
+              "end": "2026-10-10T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-11T18:00:00+09:00",
+              "end": "2026-10-11T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-12T18:00:00+09:00",
+              "end": "2026-10-12T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-13T18:00:00+09:00",
+              "end": "2026-10-13T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-14T18:00:00+09:00",
+              "end": "2026-10-14T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-15T18:00:00+09:00",
+              "end": "2026-10-15T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-16T18:00:00+09:00",
+              "end": "2026-10-16T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-17T18:00:00+09:00",
+              "end": "2026-10-17T22:00:00+09:00",
+              "status": "scheduled"
+            },
+            {
+              "start": "2026-10-18T18:00:00+09:00",
+              "end": "2026-10-18T22:00:00+09:00",
+              "status": "scheduled"
+            }
+          ],
+          "exceptions": [],
+          "precision": "complete_sessions"
+        },
+        "status": "scheduled",
+        "price": {
+          "kind": "mixed",
+          "currency": "KRW",
+          "min": null,
+          "max": null,
+          "raw_ko": "무료, 일부 프로그램 유료"
+        },
+        "reservation": {
+          "required": false,
+          "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=844",
+          "scope": "general_admission",
+          "raw_ko": "일반 관람 무료. 일부 프로그램 사전접수는 9/21~10/4, 잔여석이 있을 때만 현장 접수 가능. 프로그램 잔여석 미확인."
+        },
+        "onsite_languages": null,
+        "visitor_access": {
+          "korean_phone_required": null,
+          "local_identity_required": null,
+          "foreign_card_accepted": null,
+          "notes_ko": "우천·강풍 예보 시 행사 미운영. 휠체어·유모차 이용 가능하나 오르막이 많음. 반려동물 동반 불가. 체험 프로그램 일부 유료."
+        },
+        "evidence": [
+          {
+            "source_id": "source-7fc1dd01588b",
+            "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832",
+            "fields": [
+              "title_ko",
+              "venues",
+              "schedule",
+              "price",
+              "reservation"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님. 하위 행주 배움 여행은 10/10·17 각2회, 외국인 유학생과 일반인 대상. 언어·정확회차시각 미확인. 하위행사를 별도 축제수로 중복집계하지 않음."
+          },
+          {
+            "source_id": "source-7fc1dd01588b",
+            "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832",
+            "fields": [
+              "schedule"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "2026. 10. 9(금) ~ 10. 18(일)"
+          },
+          {
+            "source_id": "source-7fc1dd01588b",
+            "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832",
+            "fields": [
+              "hours_venue"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "18:00 ~ 22:00 / 고양 행주산성 일원"
+          },
+          {
+            "source_id": "source-950555f8430c",
+            "url": "https://www.goyang.go.kr/news/index.do",
+            "fields": [
+              "admission_cutoff"
+            ],
+            "checked_at": "2026-10-09T14:11:04+09:00",
+            "note_ko": "9시까지 입장 가능"
+          }
+        ],
+        "last_verified_at": "2026-10-09T20:23:33+09:00",
+        "publication_status": "research",
+        "translations": {
+          "ko": {
+            "display_title": "2026 행주가 예술이야",
+            "summary": "10월 9~18일 행주산성 야간 축제. 18:00~22:00, 최종 입장 21:30. 일반 관람 무료, 일부 체험 유료. 우천·강풍 예보 시 미운영합니다.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "en": {
+            "display_title": "2026 Haengju Is Art",
+            "summary": "Haengjusanseong night festival, October 9–18, 18:00–22:00; last entry 21:30. General admission is free; some activities cost extra. No operation when rain or strong winds are forecast.",
+            "status": "ai_reviewed",
+            "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "ja": {
+            "display_title": "2026 行州はアート！",
+            "summary": "10月9～18日の行州山城夜間祭り。18:00～22:00、最終入場21:30。一般入場無料、一部体験有料。雨・強風予報時は開催しません。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          },
+          "zh-Hans": {
+            "display_title": "2026行州即艺术",
+            "summary": "行州山城夜间庆典，10月9日至18日18:00–22:00，21:30停止入场。普通入场免费，部分体验收费。预报有雨或强风时不举办。",
+            "status": "ai_reviewed",
+            "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+            "published": false,
+            "source_url": null,
+            "verification_revision": "2026-10-09T20:23:33+09:00"
+          }
+        },
+        "verification": {
+          "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+          "checked_at": "2026-10-09T20:23:33+09:00",
+          "recheck_after": "2026-10-10T17:43:35+09:00",
+          "method": "official_page_text_review",
+          "source_methods": [
+            "official_page_text_review"
+          ],
+          "sources": [
+            {
+              "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832",
+              "fields": [
+                "dates",
+                "hours",
+                "venue",
+                "fee"
+              ],
+              "checked_at": "2026-10-09T17:43:35+09:00",
+              "method": "official_page_text_review"
+            },
+            {
+              "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=844",
+              "fields": [
+                "hours",
+                "reservation",
+                "conditions"
+              ],
+              "checked_at": "2026-10-09T17:43:35+09:00",
+              "method": "official_page_text_review"
+            },
+            {
+              "url": "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832",
+              "fields": [
+                "dates",
+                "hours",
+                "venue",
+                "fee"
+              ],
+              "checked_at": "2026-10-09T20:23:33+09:00",
+              "method": "official_page_text_review"
+            }
+          ],
+          "verified_fields": [
+            "dates",
+            "hours",
+            "venue",
+            "fee",
+            "reservation",
+            "conditions"
+          ],
+          "unknown_fields": [
+            "liveAvailability",
+            "entrance",
+            "languages"
+          ],
+          "notes_ko": "입장 마감은 현재 행사 전용 FAQ의 21:30을 적용. 이전 통합 자료의 21:00 표기는 수정. 우천·강풍 예보 시 미운영하므로 출발 전 주최 공지를 확인. 일반 관람과 사전예약 체험을 구분. 일반URL은timeout이나 검색색인에서 발견된 동일 공식페이지 세션URL 본문 열람 성공.10/9~18 18~22시 행주산성,무료(일부프로그램유료). 기존21시입장마감은 이번 본문에 없어 새로 검증표시하지 않음.",
+          "additional_unknowns": [],
+          "admission": "walk_in",
+          "conflict": false
+        },
+        "editorial": {
+          "environment": "outdoor",
+          "point": {
+            "lat": 37.596947,
+            "lng": 126.831958,
+            "precision": "venue_reference",
+            "verifiedEntrance": false,
+            "source": "https://www.wikidata.org/wiki/Q12624761"
+          },
+          "media": "fortress",
+          "recurrence": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "start": 1080,
+            "end": 1320
+          },
+          "lastEntry": 1290,
+          "environmentBasis": "장소 명칭과 시설 유형에 따른 편집 분류; 현장 전체의 실내외 조건 보증 아님",
+          "classification": {
+            "version": 1,
+            "topics": [
+              "night",
+              "heritage"
+            ],
+            "audiences": [],
+            "basis": "editorial_source_title_venue_notes",
+            "source_title": "2026 행주가 예술이야",
+            "source_version": "sha256:4f591f4d689334a87e4a0df20d05064efbfd97e159913c929e9c0ef1d1f54c50",
+            "evidence_urls": [
+              "https://www.goyang.go.kr/visitgoyang/www/contents.do?key=832"
+            ],
+            "review_note_ko": "공식 자료의 행사 제목·종류를 바탕으로 한 편집 분류. 대상 태그는 콘텐츠 주제이며 입장 연령·동반 가능 조건을 보증하지 않습니다.",
+            "source_notes": "공식 원문 확인 연구 기록에서 정규화. 통합시각이며 주최자 수정시각이 아님. 하위 행주 배움 여행은 10/10·17 각2회, 외국인 유학생과 일반인 대상. 언어·정확회차시각 미확인. 하위행사를 별도 축제수로 중복집계하지 않음. 2026. 10. 9(금) ~ 10. 18(일) 18:00 ~ 22:00 / 고양 행주산성 일원 9시까지 입장 가능"
+          },
+          "weatherSensitive": true,
+          "locations": [
+            {
+              "id": "place-f6c6c05f17d8",
+              "name": "행주산성",
+              "point": {
+                "lat": 37.596947,
+                "lng": 126.831958,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://www.wikidata.org/wiki/Q12624761"
+              }
+            }
+          ],
+          "multiSite": false
+        }
+      }
+    },
+    {
+      "id": "2b210e2e-4c8d-4e98-be1d-594fbf75ef6b",
+      "file": "public/data.json",
+      "selector": "/events/226",
+      "payload_sha256": "3a67a363a98a9ca45b1424b103c2b2994ff9dddf35aeae17ffd0ef973abce653",
+      "raw": {
+        "id": "goyang-megashow-travel-20261112",
+        "source_version": "sha256:435d8e0a82b749b5a2ae0b320450dc3992fb7ddfcd4fde18f2f1a6a21198d4de",
+        "title_ko": "메가쇼 & 트래블쇼 2026 시즌2",
+        "summary_ko": "생활용품·식품·여행 정보를 한자리에서 만나는 소비재 박람회.",
+        "category": "exhibition",
+        "area_id": "kr-41-goyang",
+        "region": {
+          "province": "gyeonggi",
+          "city": "goyang",
+          "labels": {
+            "ko": "고양시",
+            "en": "Goyang",
+            "ja": "高陽市",
+            "zh-Hans": "高阳市"
+          }
+        },
+        "venues": [
+          {
+            "id": "place-d9cf4e7b0372",
+            "name_ko": "킨텍스 제1전시장 2·3·4홀",
+            "address_ko": "경기도 고양시 일산서구 킨텍스로 217-60",
+            "latitude": 37.6689595,
+            "longitude": 126.7462423,
+            "coordinate_source_url": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+          }
+        ],
+        "schedule": {
+          "start_date": "2026-11-12",
+          "end_date": "2026-11-15",
+          "timezone": "Asia/Seoul",
+          "raw_ko": null,
+          "sessions": [],
+          "exceptions": [],
+          "precision": "date_range"
+        },
+        "status": "scheduled",
+        "price": {
+          "kind": "unknown",
+          "currency": "KRW",
+          "min": null,
+          "max": null,
+          "raw_ko": "요금 미확인"
+        },
+        "reservation": null,
+        "onsite_languages": null,
+        "visitor_access": {
+          "notes_ko": null
+        },
+        "evidence": [
+          {
+            "source_id": "source-070ec8975c4e",
+            "url": "https://megashow.co.kr/main",
+            "fields": [
+              "dates",
+              "venue"
+            ],
+            "checked_at": "2026-10-09T12:50:57.809229+00:00",
+            "note_ko": "공식 출처 조사 기록; 현장 확인 및 실시간 잔여석 확인 아님"
+          }
+        ],
+        "last_verified_at": "2026-10-09T12:50:57.809229+00:00",
+        "publication_status": "research",
+        "translations": {
+          "ko": {
+            "display_title": "메가쇼 & 트래블쇼 2026 시즌2",
+            "summary": "생활용품·식품·여행 정보를 한자리에서 만나는 소비재 박람회.",
+            "venue_name": "킨텍스 제1전시장 2·3·4홀",
+            "status": "ai_draft",
+            "source_version": "sha256:435d8e0a82b749b5a2ae0b320450dc3992fb7ddfcd4fde18f2f1a6a21198d4de",
+            "published": false,
+            "source_url": "https://megashow.co.kr/main"
+          },
+          "en": {
+            "display_title": "MEGASHOW & Travel Show 2026 Season 2",
+            "summary": "MEGASHOW & Travel Show 2026 Season 2 at KINTEX.",
+            "venue_name": "KINTEX",
+            "status": "ai_draft",
+            "source_version": "sha256:435d8e0a82b749b5a2ae0b320450dc3992fb7ddfcd4fde18f2f1a6a21198d4de",
+            "published": false,
+            "source_url": "https://megashow.co.kr/main"
+          },
+          "ja": {
+            "display_title": "メガショー＆トラベルショー2026シーズン2",
+            "summary": "KINTEXで開催される「メガショー＆トラベルショー2026シーズン2」。",
+            "venue_name": "KINTEX",
+            "status": "ai_draft",
+            "source_version": "sha256:435d8e0a82b749b5a2ae0b320450dc3992fb7ddfcd4fde18f2f1a6a21198d4de",
+            "published": false,
+            "source_url": "https://megashow.co.kr/main"
+          },
+          "zh-Hans": {
+            "display_title": "MEGASHOW与旅行展2026第二季",
+            "summary": "在KINTEX举办的《MEGASHOW与旅行展2026第二季》。",
+            "venue_name": "KINTEX",
+            "status": "ai_draft",
+            "source_version": "sha256:435d8e0a82b749b5a2ae0b320450dc3992fb7ddfcd4fde18f2f1a6a21198d4de",
+            "published": false,
+            "source_url": "https://megashow.co.kr/main"
+          }
+        },
+        "verification": {
+          "source_version": "sha256:435d8e0a82b749b5a2ae0b320450dc3992fb7ddfcd4fde18f2f1a6a21198d4de",
+          "checked_at": "2026-10-09T12:50:57.809229+00:00",
+          "recheck_after": "2026-10-10T12:50:57.809229+00:00",
+          "method": "official_page_text_review",
+          "source_methods": [
+            "direct"
+          ],
+          "cached_source": false,
+          "sources": [
+            {
+              "url": "https://megashow.co.kr/main",
+              "fields": [
+                "dates",
+                "venue"
+              ],
+              "checked_at": "2026-10-09T12:50:57.809229+00:00",
+              "method": "direct"
+            }
+          ],
+          "verified_fields": [
+            "dates",
+            "venue"
+          ],
+          "unknown_fields": [
+            "hours",
+            "fee",
+            "reservation",
+            "conditions",
+            "liveAvailability",
+            "entrance",
+            "languages"
+          ],
+          "notes_ko": "킨텍스 시설 기준점이며 정확한 행사 입구 또는 무대 위치가 아닙니다.",
+          "additional_unknowns": [
+            "hours",
+            "fee",
+            "reservation",
+            "sessions"
+          ],
+          "admission": "unknown",
+          "conflict": false
+        },
+        "editorial": {
+          "environment": "indoor",
+          "environmentBasis": "공식 행사 소개와 시설 유형에 따른 편집 분류",
+          "point": {
+            "lat": 37.6689595,
+            "lng": 126.7462423,
+            "precision": "venue_reference",
+            "verifiedEntrance": false,
+            "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+          },
+          "media": null,
+          "locations": [
+            {
+              "id": "place-d9cf4e7b0372",
+              "name": "킨텍스",
+              "point": {
+                "lat": 37.6689595,
+                "lng": 126.7462423,
+                "precision": "venue_reference",
+                "verifiedEntrance": false,
+                "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+              },
+              "address": "경기도 고양시 일산서구 킨텍스로 217-60",
+              "region": {
+                "province": "gyeonggi",
+                "city": "goyang",
+                "labels": {
+                  "ko": "고양시",
+                  "en": "Goyang",
+                  "ja": "高陽市",
+                  "zh-Hans": "高阳市"
+                }
+              }
+            }
+          ],
+          "multiSite": false,
+          "classification": {
+            "version": 1,
+            "topics": [
+              "art"
+            ],
+            "audiences": [],
+            "source_version": "sha256:435d8e0a82b749b5a2ae0b320450dc3992fb7ddfcd4fde18f2f1a6a21198d4de",
+            "source_title": "메가쇼 & 트래블쇼 2026 시즌2",
+            "evidence_urls": [
+              "https://megashow.co.kr/main"
+            ],
+            "basis": "editorial_source_title_venue_notes"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+[
+  {
+    "name": "고양생태교육센터",
+    "lat": 37.68373654599607,
+    "lng": 126.74422843038388,
+    "source": "https://www.goyang.go.kr/ecoedu/center/directions.do",
+    "map_source": "https://t1.kakaocdn.net/roughmap/2aopo.json",
+    "raw": {
+      "mapX": 443557.5,
+      "mapY": 1162315,
+      "mapLevel": 7,
+      "timestamp": 1655783713977,
+      "subwayLiWidth": 0,
+      "busstopLiWidth": 0,
+      "name": "고양생태공원 생태교육센터",
+      "confirmId": "27510706",
+      "placeX": "443597",
+      "placeY": "1162319",
+      "address": null,
+      "phone": "",
+      "busLines": null,
+      "busStops": null,
+      "subways": null,
+      "howToGo": "",
+      "roadview": true,
+      "CDNPATH": "",
+      "markerData": {
+        "imgurl": "//t1.daumcdn.net/localimg/localimages/07/2018/pc/map/marker_map01.png",
+        "width": 45,
+        "height": 50,
+        "offsetX": 18,
+        "offsetY": 48,
+        "label": "고양생태공원 생태교육센터",
+        "x": "443597",
+        "y": "1162319"
+      }
+    }
+  },
+  {
+    "name": "신원중학교",
+    "lat": 37.66759521694915,
+    "lng": 126.88787162774386,
+    "source": "https://www.goegy.kr/gysinwon-m/lm/location/locationMapView.do?mi=7155",
+    "map_source": "https://t1.kakaocdn.net/roughmap/2gix3.json",
+    "raw": {
+      "mapX": 475265,
+      "mapY": 1157775,
+      "mapLevel": 4,
+      "timestamp": 1697782749598,
+      "subwayLiWidth": null,
+      "busstopLiWidth": 130,
+      "name": "신원중학교",
+      "confirmId": "19374692",
+      "placeX": "475268",
+      "placeY": "1157778",
+      "address": "경기 고양시 덕양구 신원2로 6 ",
+      "phone": "02-381-3991",
+      "busLines": {
+        "0101": [
+          {
+            "name": "774",
+            "busInfoId": "B51017",
+            "busStopId": "BS78481"
+          }
+        ],
+        "0106": [
+          {
+            "name": "17",
+            "busInfoId": "B2711",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "30",
+            "busInfoId": "12028",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "31",
+            "busInfoId": "12030",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "313",
+            "busInfoId": "B53666",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "313-1",
+            "busInfoId": "B53667",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "790",
+            "busInfoId": "200002",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "799",
+            "busInfoId": "B3200",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "999",
+            "busInfoId": "B61158",
+            "busStopId": "BS457221"
+          }
+        ],
+        "0109": [
+          {
+            "name": "025",
+            "busInfoId": "B32484",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "026",
+            "busInfoId": "B32344",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "033",
+            "busInfoId": "B38434",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "037",
+            "busInfoId": "B32400",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "053",
+            "busInfoId": "B32305",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "075B",
+            "busInfoId": "B32547",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "077A",
+            "busInfoId": "B61558",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "088",
+            "busInfoId": "B59207",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "094",
+            "busInfoId": "B32318",
+            "busStopId": "BS78470"
+          },
+          {
+            "name": "040",
+            "busInfoId": "B32346",
+            "busStopId": "BS457999"
+          },
+          {
+            "name": "048",
+            "busInfoId": "B32341",
+            "busStopId": "BS457999"
+          },
+          {
+            "name": "047",
+            "busInfoId": "B32409",
+            "busStopId": "BS327742"
+          },
+          {
+            "name": "093",
+            "busInfoId": "B32306",
+            "busStopId": "BS264747"
+          }
+        ],
+        "0110": [
+          {
+            "name": "9709",
+            "busInfoId": "B62326",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "9709N",
+            "busInfoId": "B75089",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "9710",
+            "busInfoId": "B7861",
+            "busStopId": "BS78481"
+          },
+          {
+            "name": "9710-1",
+            "busInfoId": "B56222",
+            "busStopId": "BS78481"
+          }
+        ]
+      },
+      "busStops": [
+        {
+          "id": "BS78481",
+          "name": "신원마을1단지.신원중",
+          "x": "475385",
+          "y": "1157849",
+          "distance": "55",
+          "ignore": false
+        },
+        {
+          "id": "BS78470",
+          "name": "신원마을1단지.신원중",
+          "x": "475487",
+          "y": "1157905",
+          "distance": "101",
+          "ignore": false
+        },
+        {
+          "id": "BS457221",
+          "name": "신원중학교",
+          "x": "475147",
+          "y": "1157450",
+          "distance": "140",
+          "ignore": false
+        },
+        {
+          "id": "BS457999",
+          "name": "신원초교.현대8단지",
+          "x": "474822",
+          "y": "1157991",
+          "distance": "198",
+          "ignore": false
+        },
+        {
+          "id": "BS401713",
+          "name": "신원도서관",
+          "x": "474832",
+          "y": "1157487",
+          "distance": "210",
+          "ignore": false
+        },
+        {
+          "id": "BS401712",
+          "name": "신원도서관",
+          "x": "474851",
+          "y": "1157423",
+          "distance": "219",
+          "ignore": false
+        },
+        {
+          "id": "BS265679",
+          "name": "신원초교.현대8단지",
+          "x": "474677",
+          "y": "1157922",
+          "distance": "243",
+          "ignore": false
+        },
+        {
+          "id": "BS327742",
+          "name": "신원마을4단지",
+          "x": "475066",
+          "y": "1157163",
+          "distance": "259",
+          "ignore": false
+        },
+        {
+          "id": "BS264747",
+          "name": "신원마을1.2단지",
+          "x": "475890",
+          "y": "1157968",
+          "distance": "260",
+          "ignore": false
+        },
+        {
+          "id": "BS264749",
+          "name": "신원마을5단지",
+          "x": "475067",
+          "y": "1157096",
+          "distance": "284",
+          "ignore": false
+        }
+      ],
+      "subways": null,
+      "howToGo": null,
+      "roadview": true,
+      "CDNPATH": "",
+      "markerData": {
+        "imgurl": "//t1.daumcdn.net/localimg/localimages/07/2018/pc/map/marker_map01.png",
+        "width": 45,
+        "height": 50,
+        "offsetX": 18,
+        "offsetY": 48,
+        "label": "신원중학교",
+        "x": "475268",
+        "y": "1157778"
+      }
+    }
+  },
+  {
+    "name": "송포청소년문화의집",
+    "lat": 37.67136259969252,
+    "lng": 126.73527554025247,
+    "source": "https://www.gcyf.or.kr/sp/bbs/content.php?co_id=songpo_01_4",
+    "map_source": "https://t1.kakaocdn.net/roughmap/2f6ja.json",
+    "raw": {
+      "mapX": 441610,
+      "mapY": 1158890,
+      "mapLevel": 4,
+      "timestamp": 1686786923862,
+      "subwayLiWidth": null,
+      "busstopLiWidth": 0,
+      "name": "송포청소년문화의집 (예정)",
+      "confirmId": "1188380605",
+      "placeX": "441613",
+      "placeY": "1158891",
+      "address": null,
+      "phone": "",
+      "busLines": null,
+      "busStops": null,
+      "subways": null,
+      "howToGo": null,
+      "roadview": true,
+      "CDNPATH": "",
+      "markerData": {
+        "imgurl": "//t1.daumcdn.net/localimg/localimages/07/2018/pc/map/marker_map01.png",
+        "width": 45,
+        "height": 50,
+        "offsetX": 18,
+        "offsetY": 48,
+        "label": "송포청소년문화의집 (예정)",
+        "x": "441613",
+        "y": "1158891"
+      }
+    }
+  },
+  {
+    "name": "주교청소년자유공간",
+    "lat": 37.65981804151534,
+    "lng": 126.83309886878631,
+    "source": "https://www.gcyf.or.kr/jg/bbs/content.php?co_id=jugyo_01_5",
+    "map_source": "https://t1.kakaocdn.net/roughmap/268d8.json",
+    "raw": {
+      "mapX": 463180,
+      "mapY": 1155635,
+      "mapLevel": 4,
+      "timestamp": 1623730283766,
+      "subwayLiWidth": null,
+      "busstopLiWidth": 0,
+      "name": "주교청소년자유공간",
+      "confirmId": "26920311",
+      "placeX": "463183",
+      "placeY": "1155638",
+      "address": null,
+      "phone": "031-810-4060",
+      "busLines": null,
+      "busStops": null,
+      "subways": null,
+      "howToGo": null,
+      "roadview": true,
+      "CDNPATH": "",
+      "markerData": {
+        "imgurl": "//t1.daumcdn.net/localimg/localimages/07/2018/pc/map/marker_map01.png",
+        "width": 45,
+        "height": 50,
+        "offsetX": 18,
+        "offsetY": 48,
+        "label": "주교청소년자유공간",
+        "x": "463183",
+        "y": "1155638"
+      }
+    }
+  },
+  {
+    "name": "행신청소년자유공간",
+    "lat": 37.615302398438786,
+    "lng": 126.83322559896061,
+    "source": "https://www.gcyf.or.kr/hs/bbs/content.php?co_id=haengsin_01_4",
+    "map_source": "https://t1.kakaocdn.net/roughmap/2ahxf.json",
+    "raw": {
+      "mapX": 463185,
+      "mapY": 1143285,
+      "mapLevel": 4,
+      "timestamp": 1654563796985,
+      "subwayLiWidth": 0,
+      "busstopLiWidth": 0,
+      "name": "행신청소년자유공간",
+      "confirmId": "622989936",
+      "placeX": "463189",
+      "placeY": "1143286",
+      "address": null,
+      "phone": "",
+      "busLines": null,
+      "busStops": null,
+      "subways": null,
+      "howToGo": null,
+      "roadview": true,
+      "CDNPATH": "",
+      "markerData": {
+        "imgurl": "//t1.daumcdn.net/localimg/localimages/07/2018/pc/map/marker_map01.png",
+        "width": 45,
+        "height": 50,
+        "offsetX": 18,
+        "offsetY": 48,
+        "label": "행신청소년자유공간",
+        "x": "463189",
+        "y": "1143286"
+      }
+    }
+  },
+  {
+    "name": "고양꽃전시관",
+    "lat": 37.6552847260535,
+    "lng": 126.76890828030449,
+    "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=59ce3dd9-38d2-4c68-91fa-356c79cbefa7"
+  },
+  {
+    "name": "고양종합운동장",
+    "lat": 37.67554005645037,
+    "lng": 126.7436716561416,
+    "source": "https://www.gys.or.kr/subpage/index/109",
+    "note": "종합운동장 내 고양도시관리공사 공식 안내 기준점, 중앙로1601. 공연 입구 아님."
+  }
+]

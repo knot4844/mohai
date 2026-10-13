@@ -1,0 +1,515 @@
+{
+  "서울시 전역": [
+    "seoul-wide",
+    {
+      "ko": "서울시 전역",
+      "en": "Across Seoul",
+      "ja": "ソウル各地",
+      "zh-Hans": "首尔各地"
+    }
+  ],
+  "종로구": [
+    "jongno",
+    {
+      "ko": "종로구",
+      "en": "Jongno-gu",
+      "ja": "鍾路区",
+      "zh-Hans": "钟路区"
+    }
+  ],
+  "중구": [
+    "jung",
+    {
+      "ko": "중구",
+      "en": "Jung-gu",
+      "ja": "中区",
+      "zh-Hans": "中区"
+    }
+  ],
+  "용산구": [
+    "yongsan",
+    {
+      "ko": "용산구",
+      "en": "Yongsan-gu",
+      "ja": "龍山区",
+      "zh-Hans": "龙山区"
+    }
+  ],
+  "강남구": [
+    "gangnam",
+    {
+      "ko": "강남구",
+      "en": "Gangnam-gu",
+      "ja": "江南区",
+      "zh-Hans": "江南区"
+    }
+  ],
+  "노원구": [
+    "nowon",
+    {
+      "ko": "노원구",
+      "en": "Nowon-gu",
+      "ja": "蘆原区",
+      "zh-Hans": "芦原区"
+    }
+  ],
+  "관악구": [
+    "gwanak",
+    {
+      "ko": "관악구",
+      "en": "Gwanak-gu",
+      "ja": "冠岳区",
+      "zh-Hans": "冠岳区"
+    }
+  ],
+  "강서구": [
+    "gangseo",
+    {
+      "ko": "강서구",
+      "en": "Gangseo-gu",
+      "ja": "江西区",
+      "zh-Hans": "江西区"
+    }
+  ],
+  "도봉구": [
+    "dobong",
+    {
+      "ko": "도봉구",
+      "en": "Dobong-gu",
+      "ja": "道峰区",
+      "zh-Hans": "道峰区"
+    }
+  ],
+  "마포구": [
+    "mapo",
+    {
+      "ko": "마포구",
+      "en": "Mapo-gu",
+      "ja": "麻浦区",
+      "zh-Hans": "麻浦区"
+    }
+  ],
+  "수원시": [
+    "suwon",
+    {
+      "ko": "수원시",
+      "en": "Suwon",
+      "ja": "水原市",
+      "zh-Hans": "水原市"
+    }
+  ],
+  "용인시": [
+    "yongin",
+    {
+      "ko": "용인시",
+      "en": "Yongin",
+      "ja": "龍仁市",
+      "zh-Hans": "龙仁市"
+    }
+  ],
+  "화성시": [
+    "hwaseong",
+    {
+      "ko": "화성시",
+      "en": "Hwaseong",
+      "ja": "華城市",
+      "zh-Hans": "华城市"
+    }
+  ],
+  "평택시": [
+    "pyeongtaek",
+    {
+      "ko": "평택시",
+      "en": "Pyeongtaek",
+      "ja": "平沢市",
+      "zh-Hans": "平泽市"
+    }
+  ],
+  "성남시": [
+    "seongnam",
+    {
+      "ko": "성남시",
+      "en": "Seongnam",
+      "ja": "城南市",
+      "zh-Hans": "城南市"
+    }
+  ],
+  "김포시": [
+    "gimpo",
+    {
+      "ko": "김포시",
+      "en": "Gimpo",
+      "ja": "金浦市",
+      "zh-Hans": "金浦市"
+    }
+  ],
+  "안산시": [
+    "ansan",
+    {
+      "ko": "안산시",
+      "en": "Ansan",
+      "ja": "安山市",
+      "zh-Hans": "安山市"
+    }
+  ],
+  "안양시": [
+    "anyang",
+    {
+      "ko": "안양시",
+      "en": "Anyang",
+      "ja": "安養市",
+      "zh-Hans": "安养市"
+    }
+  ],
+  "시흥시": [
+    "siheung",
+    {
+      "ko": "시흥시",
+      "en": "Siheung",
+      "ja": "始興市",
+      "zh-Hans": "始兴市"
+    }
+  ],
+  "광명시": [
+    "gwangmyeong",
+    {
+      "ko": "광명시",
+      "en": "Gwangmyeong",
+      "ja": "光明市",
+      "zh-Hans": "光明市"
+    }
+  ],
+  "부천시": [
+    "bucheon",
+    {
+      "ko": "부천시",
+      "en": "Bucheon",
+      "ja": "富川市",
+      "zh-Hans": "富川市"
+    }
+  ],
+  "양평군": [
+    "yangpyeong",
+    {
+      "ko": "양평군",
+      "en": "Yangpyeong",
+      "ja": "楊平郡",
+      "zh-Hans": "杨平郡"
+    }
+  ],
+  "여주시": [
+    "yeoju",
+    {
+      "ko": "여주시",
+      "en": "Yeoju",
+      "ja": "驪州市",
+      "zh-Hans": "骊州市"
+    }
+  ],
+  "오산시": [
+    "osan",
+    {
+      "ko": "오산시",
+      "en": "Osan",
+      "ja": "烏山市",
+      "zh-Hans": "乌山市"
+    }
+  ],
+  "이천시": [
+    "icheon",
+    {
+      "ko": "이천시",
+      "en": "Icheon",
+      "ja": "利川市",
+      "zh-Hans": "利川市"
+    }
+  ],
+  "파주시": [
+    "paju",
+    {
+      "ko": "파주시",
+      "en": "Paju",
+      "ja": "坡州市",
+      "zh-Hans": "坡州市"
+    }
+  ],
+  "연천군": [
+    "yeoncheon",
+    {
+      "ko": "연천군",
+      "en": "Yeoncheon",
+      "ja": "漣川郡",
+      "zh-Hans": "涟川郡"
+    }
+  ],
+  "구리시": [
+    "guri",
+    {
+      "ko": "구리시",
+      "en": "Guri",
+      "ja": "九里市",
+      "zh-Hans": "九里市"
+    }
+  ],
+  "가평군": [
+    "gapyeong",
+    {
+      "ko": "가평군",
+      "en": "Gapyeong",
+      "ja": "加平郡",
+      "zh-Hans": "加平郡"
+    }
+  ],
+  "양주시": [
+    "yangju",
+    {
+      "ko": "양주시",
+      "en": "Yangju",
+      "ja": "楊州市",
+      "zh-Hans": "杨州市"
+    }
+  ],
+  "남양주시": [
+    "namyangju",
+    {
+      "ko": "남양주시",
+      "en": "Namyangju",
+      "ja": "南楊州市",
+      "zh-Hans": "南杨州市"
+    }
+  ],
+  "고양시": [
+    "goyang",
+    {
+      "ko": "고양시",
+      "en": "Goyang",
+      "ja": "高陽市",
+      "zh-Hans": "高阳市"
+    }
+  ],
+  "안성시": [
+    "anseong",
+    {
+      "ko": "안성시",
+      "en": "Anseong",
+      "ja": "安城市",
+      "zh-Hans": "安城市"
+    }
+  ],
+  "군포시": [
+    "gunpo",
+    {
+      "ko": "군포시",
+      "en": "Gunpo",
+      "ja": "軍浦市",
+      "zh-Hans": "军浦市"
+    }
+  ],
+  "의왕시": [
+    "uiwang",
+    {
+      "ko": "의왕시",
+      "en": "Uiwang",
+      "ja": "義王市",
+      "zh-Hans": "义王市"
+    }
+  ],
+  "과천시": [
+    "gwacheon",
+    {
+      "ko": "과천시",
+      "en": "Gwacheon",
+      "ja": "果川市",
+      "zh-Hans": "果川市"
+    }
+  ],
+  "광주시": [
+    "gwangju",
+    {
+      "ko": "광주시",
+      "en": "Gwangju",
+      "ja": "広州市",
+      "zh-Hans": "广州市"
+    }
+  ],
+  "하남시": [
+    "hanam",
+    {
+      "ko": "하남시",
+      "en": "Hanam",
+      "ja": "河南市",
+      "zh-Hans": "河南市"
+    }
+  ],
+  "의정부시": [
+    "uijeongbu",
+    {
+      "ko": "의정부시",
+      "en": "Uijeongbu",
+      "ja": "議政府市",
+      "zh-Hans": "议政府市"
+    }
+  ],
+  "포천시": [
+    "pocheon",
+    {
+      "ko": "포천시",
+      "en": "Pocheon",
+      "ja": "抱川市",
+      "zh-Hans": "抱川市"
+    }
+  ],
+  "동두천시": [
+    "dongducheon",
+    {
+      "ko": "동두천시",
+      "en": "Dongducheon",
+      "ja": "東豆川市",
+      "zh-Hans": "东豆川市"
+    }
+  ],
+  "송파구": [
+    "songpa",
+    {
+      "ko": "송파구",
+      "en": "Songpa-gu",
+      "ja": "松坡区",
+      "zh-Hans": "松坡区"
+    }
+  ],
+  "서초구": [
+    "seocho",
+    {
+      "ko": "서초구",
+      "en": "Seocho-gu",
+      "ja": "瑞草区",
+      "zh-Hans": "瑞草区"
+    }
+  ],
+  "영등포구": [
+    "yeongdeungpo",
+    {
+      "ko": "영등포구",
+      "en": "Yeongdeungpo-gu",
+      "ja": "永登浦区",
+      "zh-Hans": "永登浦区"
+    }
+  ],
+  "성동구": [
+    "seongdong",
+    {
+      "ko": "성동구",
+      "en": "Seongdong-gu",
+      "ja": "城東区",
+      "zh-Hans": "城东区"
+    }
+  ],
+  "광진구": [
+    "gwangjin",
+    {
+      "ko": "광진구",
+      "en": "Gwangjin-gu",
+      "ja": "広津区",
+      "zh-Hans": "广津区"
+    }
+  ],
+  "강동구": [
+    "gangdong",
+    {
+      "ko": "강동구",
+      "en": "Gangdong-gu",
+      "ja": "江東区",
+      "zh-Hans": "江东区"
+    }
+  ],
+  "서대문구": [
+    "seodaemun",
+    {
+      "ko": "서대문구",
+      "en": "Seodaemun-gu",
+      "ja": "西大門区",
+      "zh-Hans": "西大门区"
+    }
+  ],
+  "은평구": [
+    "eunpyeong",
+    {
+      "ko": "은평구",
+      "en": "Eunpyeong-gu",
+      "ja": "恩平区",
+      "zh-Hans": "恩平区"
+    }
+  ],
+  "강북구": [
+    "gangbuk",
+    {
+      "ko": "강북구",
+      "en": "Gangbuk-gu",
+      "ja": "江北区",
+      "zh-Hans": "江北区"
+    }
+  ],
+  "성북구": [
+    "seongbuk",
+    {
+      "ko": "성북구",
+      "en": "Seongbuk-gu",
+      "ja": "城北区",
+      "zh-Hans": "城北区"
+    }
+  ],
+  "중랑구": [
+    "jungnang",
+    {
+      "ko": "중랑구",
+      "en": "Jungnang-gu",
+      "ja": "中浪区",
+      "zh-Hans": "中浪区"
+    }
+  ],
+  "동대문구": [
+    "dongdaemun",
+    {
+      "ko": "동대문구",
+      "en": "Dongdaemun-gu",
+      "ja": "東大門区",
+      "zh-Hans": "东大门区"
+    }
+  ],
+  "동작구": [
+    "dongjak",
+    {
+      "ko": "동작구",
+      "en": "Dongjak-gu",
+      "ja": "銅雀区",
+      "zh-Hans": "铜雀区"
+    }
+  ],
+  "구로구": [
+    "guro",
+    {
+      "ko": "구로구",
+      "en": "Guro-gu",
+      "ja": "九老区",
+      "zh-Hans": "九老区"
+    }
+  ],
+  "금천구": [
+    "geumcheon",
+    {
+      "ko": "금천구",
+      "en": "Geumcheon-gu",
+      "ja": "衿川区",
+      "zh-Hans": "衿川区"
+    }
+  ],
+  "양천구": [
+    "yangcheon",
+    {
+      "ko": "양천구",
+      "en": "Yangcheon-gu",
+      "ja": "陽川区",
+      "zh-Hans": "阳川区"
+    }
+  ]
+}

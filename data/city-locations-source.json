@@ -1,0 +1,590 @@
+[
+  {
+    "name": "스타필드 고양",
+    "lat": 37.6469771187284,
+    "lng": 126.89477806511,
+    "item": "516",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "2023 고양 낙서 예술축제",
+    "lat": 37.6525128532657,
+    "lng": 126.894683791198,
+    "item": "1561",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "2025 고양낙서 예술축제",
+    "lat": 37.6532535002136,
+    "lng": 126.895742528622,
+    "item": "1861",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "창릉천",
+    "lat": 37.648501364112725,
+    "lng": 126.90845329872079,
+    "item": "1088",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "호텔 더 윈",
+    "lat": 37.6476358408158,
+    "lng": 126.875113811446,
+    "item": "1067",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "어반이스트 호텔",
+    "lat": 37.6481313890014,
+    "lng": 126.873934971663,
+    "item": "1068",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "고양가와지볍씨박물관",
+    "lat": 37.649777903709,
+    "lng": 126.870086007514,
+    "item": "1051",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "강지선생묘",
+    "lat": 37.664991686065385,
+    "lng": 126.9115385502044,
+    "item": "1075",
+    "source": "https://www.goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=121&tourRsrcNo=516"
+  },
+  {
+    "name": "유진민속박물관",
+    "lat": 37.6458539920335,
+    "lng": 126.865783650961,
+    "item": "1055",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "서오릉",
+    "lat": 37.6235562459949,
+    "lng": 126.900767390316,
+    "item": "527",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "서삼릉",
+    "lat": 37.6646511133856,
+    "lng": 126.868610712153,
+    "item": "528",
+    "source": "https://www.goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=121&tourRsrcNo=516"
+  },
+  {
+    "name": "IKEA 고양점",
+    "lat": 37.6295889786577,
+    "lng": 126.863123845458,
+    "item": "1174",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "롯데아울렛 고양점",
+    "lat": 37.62897770675394,
+    "lng": 126.86269890280708,
+    "item": "1171",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "성사골 맛집 테마거리",
+    "lat": 37.64433800581663,
+    "lng": 126.85395725034509,
+    "item": "1034",
+    "source": "https://www.goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=121&tourRsrcNo=516"
+  },
+  {
+    "name": "월산대군사당",
+    "lat": 37.67611947212095,
+    "lng": 126.8728594906658,
+    "item": "1050",
+    "source": "https://www.goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=121&tourRsrcNo=516"
+  },
+  {
+    "name": "고양아람누리",
+    "lat": 37.661485,
+    "lng": 126.774458,
+    "item": "539",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "롯데백화점 일산점",
+    "lat": 37.6604717553584,
+    "lng": 126.77212625922,
+    "item": "1169",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "DMZ 평화의길 고양 프로그램",
+    "lat": 37.6594867377172,
+    "lng": 126.772698870943,
+    "item": "1881",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2023 고양 DMZ 평화의길",
+    "lat": 37.6594867377172,
+    "lng": 126.772698870943,
+    "item": "1401",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "DMZ 평화 쉼터 프로그램 '겨울, 새가날다'",
+    "lat": 37.6594867377172,
+    "lng": 126.772698870943,
+    "item": "1883",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "DMZ 평화의 길, 고양 장항습지생태 코스",
+    "lat": 37.6594867377172,
+    "lng": 126.772698870943,
+    "item": "1901",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "고양관광정보센터",
+    "lat": 37.65948107009867,
+    "lng": 126.77270330812489,
+    "item": "943",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "고양관광정보센터 기프트샵",
+    "lat": 37.6594833116163,
+    "lng": 126.77269763474753,
+    "item": "1031",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "가을밤 고양에 물들다",
+    "lat": 37.6604801594353,
+    "lng": 126.76958815484,
+    "item": "1941",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2022 뷰티풀 고양",
+    "lat": 37.658576389446104,
+    "lng": 126.7707907978454,
+    "item": "1084",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "라페스타",
+    "lat": 37.66068130971112,
+    "lng": 126.76906166949122,
+    "item": "542",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "정발산",
+    "lat": 37.66351230270103,
+    "lng": 126.779479903051,
+    "item": "969",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2026 고양시 전국 막걸리 축제",
+    "lat": 37.657926629904,
+    "lng": 126.77006409313,
+    "item": "1921",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "LIMITE 8 호스텔",
+    "lat": 37.6632813473705,
+    "lng": 126.768184436056,
+    "item": "1069",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "웨스턴돔",
+    "lat": 37.6558964094856,
+    "lng": 126.772038816453,
+    "item": "541",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "레이크베이 호스텔",
+    "lat": 37.6564133865908,
+    "lng": 126.77054892289,
+    "item": "1071",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "일산MBC드림센터",
+    "lat": 37.6555283899971,
+    "lng": 126.770475038647,
+    "item": "923",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "저스트플레이호스텔",
+    "lat": 37.6633138303268,
+    "lng": 126.766063692376,
+    "item": "1070",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "뉴코아 일산점",
+    "lat": 37.6545811413927,
+    "lng": 126.776836304918,
+    "item": "1170",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "김대중대통령 사저",
+    "lat": 37.66867285979,
+    "lng": 126.778960930084,
+    "item": "518",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2024 고양국제꽃박람회",
+    "lat": 37.6536388536528,
+    "lng": 126.768814115073,
+    "item": "1166",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2025 고양호수축제",
+    "lat": 37.6536388536528,
+    "lng": 126.768814115073,
+    "item": "1882",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "다시, 해움 프로젝트 결과 전시",
+    "lat": 37.6529547738133,
+    "lng": 126.76873997087954,
+    "item": "1402",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "일산호수공원",
+    "lat": 37.65620238275648,
+    "lng": 126.76397587835017,
+    "item": "545",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "밤가시초가",
+    "lat": 37.6701941324789,
+    "lng": 126.780295388222,
+    "item": "930",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2024 고양국제꽃박람회",
+    "lat": 37.6494720946756,
+    "lng": 126.768083794512,
+    "item": "1601",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2026 고양 가을꽃 축제",
+    "lat": 37.6494720946756,
+    "lng": 126.768083794512,
+    "item": "1923",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2023 고양호수예술축제",
+    "lat": 37.6494720946756,
+    "lng": 126.768083794512,
+    "item": "1481",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2022 펫츠런(Pets Run) 고양",
+    "lat": 37.6494720946756,
+    "lng": 126.768083794512,
+    "item": "1085",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2022 고양 가을꽃축제",
+    "lat": 37.6494720946756,
+    "lng": 126.768083794512,
+    "item": "1082",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2022 호수예술축제",
+    "lat": 37.6494720946756,
+    "lng": 126.768083794512,
+    "item": "1081",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "노래하는 분수대",
+    "lat": 37.663956092698314,
+    "lng": 126.75769509158158,
+    "item": "950",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "고양문화원",
+    "lat": 37.6650109199941,
+    "lng": 126.756276848919,
+    "item": "1042",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "일산가로수길",
+    "lat": 37.6660625103382,
+    "lng": 126.756435827812,
+    "item": "540",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "한화아쿠아플라넷 일산",
+    "lat": 37.6638370064764,
+    "lng": 126.755610069496,
+    "item": "544",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "EBS",
+    "lat": 37.661724,
+    "lng": 126.754626,
+    "item": "522",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "관광특구 공감",
+    "lat": 37.6645540981816,
+    "lng": 126.754526582068,
+    "item": "1521",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "원마운트",
+    "lat": 37.6645540981816,
+    "lng": 126.754526582068,
+    "item": "546",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2024 고양특례시 스트리트 댄스대회 頂點(정점)",
+    "lat": 37.6645540981816,
+    "lng": 126.754526582068,
+    "item": "1641",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2022 고양관광특구 페스티벌",
+    "lat": 37.6645540981816,
+    "lng": 126.754526582068,
+    "item": "1083",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "애니골(백마 화사랑)",
+    "lat": 37.671543071740096,
+    "lng": 126.79105176740768,
+    "item": "1043",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "소노캄 고양",
+    "lat": 37.661925,
+    "lng": 126.750807,
+    "item": "513",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "VALENTINE HOTEL (발렌타인호텔)",
+    "lat": 37.6446747993321,
+    "lng": 126.787195251055,
+    "item": "1842",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "현대백화점 킨텍스점",
+    "lat": 37.66821306211711,
+    "lng": 126.7511299631202,
+    "item": "1168",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "ANTIVES HOTEL(앙띠브호텔)",
+    "lat": 37.6442886047571,
+    "lng": 126.786976988882,
+    "item": "1841",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "YMCA고양국제청소년문화센터 유스센터",
+    "lat": 37.6775015073658,
+    "lng": 126.791356315674,
+    "item": "1381",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "롯데아울렛 고양터미널점",
+    "lat": 37.64328068435747,
+    "lng": 126.78928972898332,
+    "item": "1172",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "현대모터스튜디오 고양",
+    "lat": 37.6662065620536,
+    "lng": 126.747684861405,
+    "item": "543",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "글로스터 호텔 킨텍스",
+    "lat": 37.6684192777859,
+    "lng": 126.748065688508,
+    "item": "1175",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "일산역 전시관",
+    "lat": 37.6830028444675,
+    "lng": 126.768548994477,
+    "item": "530",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "킨텍스",
+    "lat": 37.66895946968974,
+    "lng": 126.74624229135013,
+    "item": "547",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "킨텍스에 별보러갈래?",
+    "lat": 37.668933476214,
+    "lng": 126.745802827238,
+    "item": "1702",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "킨텍스홍보관 기프트샵",
+    "lat": 37.66893148870759,
+    "lng": 126.74580034042131,
+    "item": "1032",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "안곡습지",
+    "lat": 37.684566569460394,
+    "lng": 126.7834875342628,
+    "item": "1087",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "일산시장",
+    "lat": 37.68592094998244,
+    "lng": 126.77072934916806,
+    "item": "947",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "람사르 고양 장항습지센터 (구 장항군막사)",
+    "lat": 37.6417892493405,
+    "lng": 126.755547256528,
+    "item": "1163",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "DMZ 평화의 길 거점센터 (구 통일촌 군막사)",
+    "lat": 37.64228062501912,
+    "lng": 126.75436637112263,
+    "item": "1164",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "제9회 대한민국 국제 관광박람회",
+    "lat": 37.664695446952,
+    "lng": 126.742064181796,
+    "item": "1722",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "2024 킨텍스 야시장 킨밤 지새우고",
+    "lat": 37.664695446952,
+    "lng": 126.742064181796,
+    "item": "1701",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "킨텍스 캠핑장",
+    "lat": 37.6631279408281,
+    "lng": 126.73969294266,
+    "item": "1041",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "경기도생활체육대축전 2023 고양",
+    "lat": 37.67668309977628,
+    "lng": 126.74312134318868,
+    "item": "1421",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "장항습지",
+    "lat": 37.64404054499491,
+    "lng": 126.74308649439536,
+    "item": "945",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "어린이 병영체험",
+    "lat": 37.6496657789317,
+    "lng": 126.73802784731,
+    "item": "1761",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "고양생태공원",
+    "lat": 37.683956159878996,
+    "lng": 126.74412507821442,
+    "item": "961",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "고봉산",
+    "lat": 37.69249817632844,
+    "lng": 126.7901426228512,
+    "item": "964",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "고양시 현충전시관",
+    "lat": 37.6932879747205,
+    "lng": 126.758947450996,
+    "item": "1052",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "신평 예술창작공간 새들 (구 신평군막사)",
+    "lat": 37.6263638071366,
+    "lng": 126.78380939994483,
+    "item": "1162",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901"
+  },
+  {
+    "name": "만월산(망월산)",
+    "lat": 37.607703861221026,
+    "lng": 126.88671355459405,
+    "item": "967",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  },
+  {
+    "name": "포마자동차디자인미술관",
+    "lat": 37.591818625339,
+    "lng": 126.896464180467,
+    "item": "1781",
+    "source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?key=91&tourRsrcNo=527"
+  }
+]

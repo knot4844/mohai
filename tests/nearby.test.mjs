@@ -1,0 +1,16 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {searchNearby} from '../lib/nearby.mjs';
+import {publicConfig} from '../lib/api.mjs';
+import {orderedCandidates,addCourseStop,moveCourseStop,courseLegs} from '../public/day-course-model.js';
+const point={lat:37.65,lng:126.77};
+test('nearby validates scope and missing key without calling provider',async()=>{const no=()=>{throw Error('must not fetch');};assert.equal((await searchNearby({point,category:'FD6'},{},no))[0],503);for(const body of [{point,category:'BAD'},{point,category:'CE7',radius:20000},{point:{lat:0,lng:0},category:'CE7'}])assert.equal((await searchNearby(body,{},no))[0],400);assert.equal(publicConfig({KAKAO_REST_API_KEY:'secret'}).nearby,true);assert.ok(!JSON.stringify(publicConfig({KAKAO_REST_API_KEY:'secret'})).includes('secret'));});
+test('nearby returns typed places, filters invalid coordinates, keeps hours unknown and never caches',async()=>{let calls=0;const fetcher=async(url,options)=>{calls++;assert.equal(url.hostname,'dapi.kakao.com');assert.equal(url.searchParams.get('sort'),'distance');assert.equal(options.headers.Authorization,'KakaoAK secret');return {ok:true,json:async()=>({meta:{is_end:false},documents:[{id:'1',place_name:'Test fixture',x:'126.77',y:'37.65'},{id:'2',place_name:'Missing coordinates',x:'',y:''},{id:'1',place_name:'Duplicate',x:'126.77',y:'37.65'}]})};};for(let i=0;i<2;i++){const [status,r]=await searchNearby({point,category:'CE7'},{KAKAO_REST_API_KEY:'secret'},fetcher);assert.equal(status,200);assert.equal(r.places.length,1);assert.equal(r.places[0].kind,'place');assert.equal(r.places[0].hours,null);assert.equal(r.places[0].availability,'unknown');assert.equal(r.hasMore,true);}assert.equal(calls,2);});
+test('mixed course keeps distinct event and place identities, caps four, reorders and has no inferred times',()=>{const items=Array.from({length:5},(_,i)=>({id:String(i),kind:i?'place':'event',point:{lat:37.65+i*.001,lng:126.77}}));let stops=[];for(const item of items)stops=addCourseStop(stops,item);assert.equal(stops.length,4);assert.equal(addCourseStop(stops,items[0]).length,4);assert.equal(moveCourseStop(stops,1,-1)[0].id,'1');assert.deepEqual(moveCourseStop(stops,0,-1),stops);assert.equal(orderedCandidates([...items].reverse(),point)[0].id,'0');assert.ok(courseLegs(stops,point).every(l=>l.minutes===null));});
+test('viewport search sends rect without radius and excludes outside results',async()=>{
+ const bounds={west:126.7,south:37.6,east:126.8,north:37.7};
+ const [status,result]=await searchNearby({point,category:'FD6',bounds},{KAKAO_REST_API_KEY:'fixture'},async url=>{
+ assert.equal(url.searchParams.get('rect'),'126.7,37.6,126.8,37.7');assert.equal(url.searchParams.has('radius'),false);
+ return {ok:true,json:async()=>({documents:[{id:'in',place_name:'Inside',x:'126.77',y:'37.65'},{id:'out',place_name:'Outside',x:'127',y:'37.65'}]})};});
+ assert.equal(status,200);assert.deepEqual(result.places.map(p=>p.providerId),['in']);
+ for(const invalid of [{...bounds,west:127},{...bounds,north:NaN},{...bounds,south:37.66}])assert.equal((await searchNearby({point,category:'FD6',bounds:invalid},{},()=>{throw Error('must not fetch');}))[0],400);
+});

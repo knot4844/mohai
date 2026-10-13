@@ -1,0 +1,2883 @@
+{
+  "schema_version": 1,
+  "title": "서울·경기 연말 행사 확장 검증 기록",
+  "checked_at": "2026-10-09T12:53:26.290728+00:00",
+  "period": {
+    "start": "2026-10-09",
+    "end": "2026-12-31",
+    "timezone": "Asia/Seoul"
+  },
+  "new_discovery_period": {
+    "start": "2026-11-06",
+    "end": "2026-12-31"
+  },
+  "complete_census": false,
+  "publication_status": "research_audit_only",
+  "publication_note": "통합 데이터 검증 결과이며 배포 완료 증거가 아니다.",
+  "counts": {
+    "previous_events_retained": 183,
+    "new_events": 49,
+    "new_geocoded_events": 47,
+    "new_coordinate_unknown": 2,
+    "total_events": 232,
+    "total_geocoded_events": 214,
+    "total_coordinate_unknown": 18,
+    "total_used_venues": 101,
+    "new_explicit_sessions": 87,
+    "new_event_direct_official_html": 49,
+    "new_event_cached_only": 0
+  },
+  "groups": [
+    {
+      "id": "seoul",
+      "label": "서울",
+      "events": 19,
+      "geocoded": 17,
+      "explicit_sessions": 21,
+      "event_source_methods": {
+        "direct": 19
+      },
+      "coordinate_source_methods": {
+        "direct": 17
+      }
+    },
+    {
+      "id": "gyeonggi",
+      "label": "경기",
+      "events": 30,
+      "geocoded": 30,
+      "explicit_sessions": 66,
+      "event_source_methods": {
+        "direct": 30
+      },
+      "coordinate_source_methods": {
+        "reused_verified": 28,
+        "direct": 2
+      }
+    }
+  ],
+  "coverage": {
+    "seoul": {
+      "districts_with_new_events": {
+        "서초구": 17,
+        "종로구": 1,
+        "중구": 1
+      },
+      "note": "서울25개구 전수검증 아님. 국립국악원15건 편중."
+    },
+    "gyeonggi": [
+      {
+        "district": "고양시",
+        "count": 27,
+        "status": "verified_added"
+      },
+      {
+        "district": "수원시",
+        "count": 3,
+        "status": "verified_added"
+      },
+      {
+        "district": "남양주시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "구리시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "의정부시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "용인시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "성남시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "광주시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "포천시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "파주시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "김포시",
+        "count": 0,
+        "status": "official_source_or_domain_search_attempted_no_verified_addition"
+      },
+      {
+        "district": "양주시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "동두천시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "연천군",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "가평군",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "부천시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "안산시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "화성시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "평택시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "오산시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "안양시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "시흥시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "광명시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "양평군",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "여주시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "이천시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "군포시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "의왕시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "안성시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "하남시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      },
+      {
+        "district": "과천시",
+        "count": 0,
+        "status": "grouped_discovery_only_individual_official_audit_incomplete"
+      }
+    ],
+    "zero_count_meaning": "이번 조사에서 확정 추가를 확보하지 못했다는 뜻이며 해당 지역의 행사 부재를 의미하지 않는다."
+  },
+  "source_audit": [
+    {
+      "id": "seoul-yearend-gugak37207",
+      "title_ko": "해금앙상블 해이야 제4회 정기연주회 <가락, 시간을 걷다>",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "venue_name": "국립국악원 우면당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37207",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37207",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:44.597580+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37379",
+      "title_ko": "최옥삼 서거 70주기 추모음악회 (사)최옥삼류가야금산조보존회 제24회 정기연주회",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "venue_name": "국립국악원 풍류사랑방",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37379",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37379",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:44.637216+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak38437",
+      "title_ko": "제52회 신악회 작곡발표회 : 신라 향가, 현대의 가락으로 다시 살아나다.",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "venue_name": "국립국악원 우면당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=38437",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=38437",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:44.629017+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37209",
+      "title_ko": "이영훈의 여행자 Ⅲ <바람의 길>",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "venue_name": "국립국악원 우면당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37209",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37209",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:44.712377+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [
+        "fee"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak39496",
+      "title_ko": "정악단 정기공연 <영산회상>",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-13",
+      "venue_name": "국립국악원 예악당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=39496",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=39496",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:44.626931+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37257",
+      "title_ko": "양희진 해금 독주회 [해금현대음악사용설명서Ⅱ·LUX]",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "venue_name": "국립국악원 우면당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37257",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37257",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:44.622770+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [
+        "fee"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak392981",
+      "title_ko": "김민주 거문고 독주회",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "venue_name": "국립국악원 풍류사랑방",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=392981",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=392981",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:44.715164+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37954",
+      "title_ko": "신윤아 가야금병창 독주회 ″울림″",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "venue_name": "국립국악원 풍류사랑방",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37954",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37954",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:45.943208+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [
+        "fee"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37259",
+      "title_ko": "서울가야금앙상블 창단10주년 기념 정기연주회",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "venue_name": "국립국악원 우면당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37259",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37259",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:45.917247+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37956",
+      "title_ko": "임준형의 대금 <가즌회상>",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "venue_name": "국립국악원 풍류사랑방",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37956",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37956",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:45.989355+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [
+        "fee"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37395",
+      "title_ko": "문빈 해금독주회",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "venue_name": "국립국악원 풍류사랑방",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37395",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37395",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:46.066381+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37225",
+      "title_ko": "고제거문고음악연구회 창단연주회",
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "venue_name": "국립국악원 우면당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37225",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37225",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:45.998684+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak38445",
+      "title_ko": "김현섭 작곡 발표회 <현섭하다 IV>",
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-16",
+      "venue_name": "국립국악원 우면당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=38445",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=38445",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:46.108759+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "fee",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak37608",
+      "title_ko": "왕조의 꿈, 태평서곡",
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-23",
+      "venue_name": "국립국악원 예악당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37608",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37608",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:46.103527+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [
+        "fee",
+        "2026-12-17_session_not_listed"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 5,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-gugak391381",
+      "title_ko": "(사)세계판소리협회 창립 5주년 기념 2026 송년음악회 <One Voice One Dream>",
+      "start_date": "2026-12-26",
+      "end_date": "2026-12-26",
+      "venue_name": "국립국악원 예악당",
+      "district": "서초구",
+      "official_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=391381",
+      "evidence_urls": [
+        "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=391381",
+        "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004"
+      ],
+      "checked_at": "2026-10-09T12:47:47.383533+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.47767111623199,
+      "lng": 127.00895009591471,
+      "coordinate_source": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [
+        "fee"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "hours",
+        "sessions",
+        "reservation",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-fun389",
+      "title_ko": "제야의 종 타종행사",
+      "start_date": "2026-12-31",
+      "end_date": "2027-01-01",
+      "venue_name": "보신각 일대",
+      "district": "종로구",
+      "official_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=389",
+      "evidence_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=389",
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=389"
+      ],
+      "checked_at": "2026-10-09T12:46:39.538616+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.5697673859634,
+      "lng": 126.983677617361,
+      "coordinate_source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=389",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [
+        "hours",
+        "fee",
+        "reservation",
+        "exact_sessions"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address"
+      ],
+      "explicit_session_count": 0,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-fun386",
+      "title_ko": "언폴드엑스 2026",
+      "start_date": "2026-11-26",
+      "end_date": "2026-12-09",
+      "venue_name": "문화역서울284",
+      "district": "중구",
+      "official_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386",
+      "evidence_urls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386",
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386"
+      ],
+      "checked_at": "2026-10-09T12:47:46.578013+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_event_details",
+      "lat": 37.5560408483984,
+      "lng": 126.971594506836,
+      "coordinate_source": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386",
+      "coordinate_source_method": "direct",
+      "coordinate_precision": "official_facility_marker",
+      "multi_site": false,
+      "unknown_fields": [
+        "fee",
+        "reservation",
+        "exact_sessions",
+        "official_district_tag_conflict"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "address",
+        "hours"
+      ],
+      "explicit_session_count": 0,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-sac-nutcracker",
+      "title_ko": "2026 예술의전당 & 국립발레단 호두까기인형",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-27",
+      "venue_name": "예술의전당 오페라극장",
+      "district": "서초구",
+      "official_url": "https://www.sac.or.kr/site/main/content/2026_SACpresents",
+      "evidence_urls": [
+        "https://www.sac.or.kr/site/main/content/2026_SACpresents"
+      ],
+      "checked_at": "2026-10-09T12:46:39.457481+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_dates_venue_only",
+      "lat": null,
+      "lng": null,
+      "coordinate_source": null,
+      "coordinate_source_method": null,
+      "coordinate_precision": null,
+      "multi_site": false,
+      "unknown_fields": [
+        "hours",
+        "fee",
+        "reservation",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "exact_sessions"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address"
+      ],
+      "explicit_session_count": 0,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "seoul-yearend-sac-newyear",
+      "title_ko": "2026 예술의전당 제야음악회",
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "venue_name": "예술의전당 콘서트홀",
+      "district": "서초구",
+      "official_url": "https://www.sac.or.kr/site/main/content/2026_SACpresents",
+      "evidence_urls": [
+        "https://www.sac.or.kr/site/main/content/2026_SACpresents"
+      ],
+      "checked_at": "2026-10-09T12:46:39.457481+00:00",
+      "source_method": "direct",
+      "verification_status": "verified_dates_venue_only",
+      "lat": null,
+      "lng": null,
+      "coordinate_source": null,
+      "coordinate_source_method": null,
+      "coordinate_precision": null,
+      "multi_site": false,
+      "unknown_fields": [
+        "hours",
+        "fee",
+        "reservation",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "exact_sessions"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address"
+      ],
+      "explicit_session_count": 0,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8453",
+      "title_ko": "가장 찬란한 착각",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-07",
+      "venue_name": "고양아람누리 새라새극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008453",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008453"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8418",
+      "title_ko": "뮤지컬 [장수탕 선녀님] - 고양",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008418",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008418"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8308",
+      "title_ko": "최현우 19+I - 고양",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "venue_name": "고양아람누리 아람극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008308",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008308"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 4,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8485",
+      "title_ko": "고양시립소년소녀합창단 제40회 정기연주회",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "venue_name": "고양아람누리 아람음악당",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008485",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008485"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8442",
+      "title_ko": "2026 김창옥 토크콘서트 시즌5 - 고양",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008442",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008442"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end",
+        "booking_open"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8363",
+      "title_ko": "지브리&디즈니 영화음악 FESTA",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "venue_name": "고양아람누리 아람음악당",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008363",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008363"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8458",
+      "title_ko": "유니버설발레단 [호두까기인형]",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "venue_name": "고양아람누리 아람극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008458",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008458"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 3,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8422",
+      "title_ko": "2026 연극 [사랑해 엄마]",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008422",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008422"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8444",
+      "title_ko": "장애인을 위한 \"세상의 빛\" 음악회",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "venue_name": "고양아람누리 아람음악당",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008444",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008444"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end",
+        "fee_amount"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8301",
+      "title_ko": "송승환의 가족뮤지컬 [더 스토리 오브 언더더씨]- 고양",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008301",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008301"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 5,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8484",
+      "title_ko": "오페라 [서울*라보엠]",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "venue_name": "고양아람누리 아람극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008484",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008484"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8434",
+      "title_ko": "\"200만부 판매\" 베스트셀러 뮤지컬[누가내머리에똥쌌어]",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "venue_name": "고양어울림누리 별모래극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008434",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008434"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 6,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8477",
+      "title_ko": "제14회 올키즈스트라 정기연주회",
+      "start_date": "2026-11-25",
+      "end_date": "2026-11-25",
+      "venue_name": "고양아람누리 아람음악당",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008477",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008477"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end",
+        "fee_amount"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8443",
+      "title_ko": "가족뮤지컬[메탈카드봇W]- 고양",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008443",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008443"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 6,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8439",
+      "title_ko": "가족뮤지컬 [로보카폴리 - 브룸스타운의 에너지를 지켜라!]",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "venue_name": "고양어울림누리 별모래극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008439",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008439"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 5,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8427",
+      "title_ko": "2026 이창섭 단독 콘서트 [Unknown] - 고양",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "venue_name": "고양아람누리 아람극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008427",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008427"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8464",
+      "title_ko": "판소리음악극 [긴긴밤]",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "venue_name": "고양어울림누리 별모래극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008464",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008464"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 2,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8465",
+      "title_ko": "THE GREATEST : 전율 소향 X 김기태",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008465",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008465"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8466",
+      "title_ko": "조항조 전국투어 콘서트 : 생각",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008466",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008466"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8467",
+      "title_ko": "2026 김장훈 전국투어 콘서트 : 원맨쇼",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008467",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008467"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8449",
+      "title_ko": "연극 [친정엄마와 2박3일] - 고양",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008449",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008449"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 3,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8472",
+      "title_ko": "팝페라테너 임형주 초청 독창회 [Christmas in Love]",
+      "start_date": "2026-12-24",
+      "end_date": "2026-12-24",
+      "venue_name": "고양아람누리 아람극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008472",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008472"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8452",
+      "title_ko": "이은결 30주년 [ONE OF ONE] - 고양",
+      "start_date": "2026-12-24",
+      "end_date": "2026-12-26",
+      "venue_name": "고양어울림누리 어울림극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008452",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008452"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.649337,
+      "lng": 126.832442,
+      "coordinate_source": "https://www.wikidata.org/wiki/Q12584337",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 5,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-artgy-8473",
+      "title_ko": "2026 아람 크리스마스 콘서트 #2 - 리베란테",
+      "start_date": "2026-12-25",
+      "end_date": "2026-12-25",
+      "venue_name": "고양아람누리 아람극장",
+      "district": "고양시",
+      "official_url": "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473",
+      "evidence_urls": [
+        "https://artgy.or.kr/PF/PF0201V.aspx?showid=0000008473"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.661485,
+      "lng": 126.774458,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source",
+        "hours",
+        "fee",
+        "sessions"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-megashow-travel-20261112",
+      "title_ko": "메가쇼 & 트래블쇼 2026 시즌2",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-15",
+      "venue_name": "킨텍스 제1전시장 2·3·4홀",
+      "district": "고양시",
+      "official_url": "https://megashow.co.kr/main",
+      "evidence_urls": [
+        "https://megashow.co.kr/main"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.6689595,
+      "lng": 126.7462423,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "hours",
+        "fee",
+        "reservation",
+        "sessions"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source"
+      ],
+      "complete_sessions": false,
+      "explicit_session_count": 0,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-megazoo-20261120",
+      "title_ko": "메가주 2026 일산 시즌2",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-22",
+      "venue_name": "킨텍스 제1전시장",
+      "district": "고양시",
+      "official_url": "https://k-pet.co.kr/information/exhibition-scheduled-registration/",
+      "evidence_urls": [
+        "https://k-pet.co.kr/information/exhibition-scheduled-registration/"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.6689595,
+      "lng": 126.7462423,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "hours",
+        "fee",
+        "reservation",
+        "sessions"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source"
+      ],
+      "complete_sessions": false,
+      "explicit_session_count": 0,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "goyang-agf-20261204",
+      "title_ko": "AGF 2026",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-06",
+      "venue_name": "킨텍스 제1전시장 1·2·3·4·5홀",
+      "district": "고양시",
+      "official_url": "https://www.agfkorea.com/event?idx=1",
+      "evidence_urls": [
+        "https://www.agfkorea.com/event?idx=1"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.6689595,
+      "lng": 126.7462423,
+      "coordinate_source": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1670467927241&key=596&tourRsrcNo=1901",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "fee",
+        "reservation"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 3,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "suwon-yuhojin-20261107",
+      "title_ko": "유호진 더 이미지네이션",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "venue_name": "수원SK아트리움 대공연장",
+      "district": "수원시",
+      "official_url": "https://photo.swcf.or.kr/?idx=3050&listUrl=137&p=29_view",
+      "evidence_urls": [
+        "https://photo.swcf.or.kr/?idx=3050&listUrl=137&p=29_view"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.30963315,
+      "lng": 126.9863644,
+      "coordinate_source": "https://api.openstreetmap.org/api/0.6/way/552078554/full.json",
+      "coordinate_source_method": "reused_verified",
+      "coordinate_checked_at": null,
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "reservation",
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "suwon-stage-m-carol-20261213",
+      "title_ko": "스테이지엠 크리스마스 영화음악 & 캐롤 콘서트 2026 - 수원",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "venue_name": "경기아트센터 소극장",
+      "district": "수원시",
+      "official_url": "https://www.ggac.or.kr/ggac/M0000155/show/view.do?idx=SM000174",
+      "evidence_urls": [
+        "https://www.ggac.or.kr/ggac/M0000155/show/view.do?idx=SM000174"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.26187028640426,
+      "lng": 127.03735958276158,
+      "coordinate_source": "https://www.ggac.or.kr/ggac/M0000170/content/view.do",
+      "coordinate_source_method": "direct",
+      "coordinate_checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "reservation",
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "suwon-boohwal-20261205",
+      "title_ko": "2026 부활 연말 콘서트 Where Is Here - 수원",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "venue_name": "경기아트센터 대공연장",
+      "district": "수원시",
+      "official_url": "https://www.ticketlink.co.kr/help/notice/65829",
+      "evidence_urls": [
+        "https://www.ticketlink.co.kr/help/notice/65829"
+      ],
+      "checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "source_method": "direct",
+      "status": "verified",
+      "lat": 37.26187028640426,
+      "lng": 127.03735958276158,
+      "coordinate_source": "https://www.ggac.or.kr/ggac/M0000170/content/view.do",
+      "coordinate_source_method": "direct",
+      "coordinate_checked_at": "2026-10-09T12:50:57.809229+00:00",
+      "coordinate_precision": "venue_reference_point",
+      "multi_site": false,
+      "unknown_fields": [
+        "reservation",
+        "session_end"
+      ],
+      "verified_fields": [
+        "title_ko",
+        "start_date",
+        "end_date",
+        "venue_name",
+        "address",
+        "lat",
+        "lng",
+        "coordinate_source"
+      ],
+      "complete_sessions": true,
+      "explicit_session_count": 1,
+      "translation_languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans"
+      ]
+    }
+  ],
+  "source_attempts": [
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=391381",
+      "checked_at": "2026-10-09T12:47:47.383533+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37610",
+      "checked_at": "2026-10-09T12:47:47.282564+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355",
+      "checked_at": "2026-10-09T12:46:39.603095+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37591",
+      "checked_at": "2026-10-09T12:47:46.061706+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37609",
+      "checked_at": "2026-10-09T12:47:47.188236+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37954",
+      "checked_at": "2026-10-09T12:47:45.943208+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=38437",
+      "checked_at": "2026-10-09T12:47:44.629017+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=415",
+      "checked_at": "2026-10-09T12:46:39.640453+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=39496",
+      "checked_at": "2026-10-09T12:47:44.626931+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.sac.or.kr/site/main/content/2026_SACpresents",
+      "checked_at": "2026-10-09T12:46:39.457481+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37257",
+      "checked_at": "2026-10-09T12:47:44.622770+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37207",
+      "checked_at": "2026-10-09T12:47:44.597580+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37379",
+      "checked_at": "2026-10-09T12:47:44.637216+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=39478",
+      "checked_at": "2026-10-09T12:47:47.348809+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=389",
+      "checked_at": "2026-10-09T12:46:39.538616+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/year_list?event_kind=&menuid=001001001&month=&year=2026",
+      "checked_at": "2026-10-09T12:46:39.645825+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.sac.or.kr/site/main/welcome/welcome",
+      "checked_at": "2026-10-09T12:48:22.514595+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.sac.or.kr/site/main/content/location",
+      "checked_at": "2026-10-09T12:48:09.876297+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37608",
+      "checked_at": "2026-10-09T12:47:46.103527+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37259",
+      "checked_at": "2026-10-09T12:47:45.917247+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=39498",
+      "checked_at": "2026-10-09T12:47:44.640276+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013004",
+      "checked_at": "2026-10-09T12:48:09.786804+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=437",
+      "checked_at": "2026-10-09T12:46:39.587266+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=392981",
+      "checked_at": "2026-10-09T12:47:44.715164+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=38445",
+      "checked_at": "2026-10-09T12:47:46.108759+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37225",
+      "checked_at": "2026-10-09T12:47:45.998684+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=39476",
+      "checked_at": "2026-10-09T12:47:47.344448+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37209",
+      "checked_at": "2026-10-09T12:47:44.712377+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37956",
+      "checked_at": "2026-10-09T12:47:45.989355+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=391382",
+      "checked_at": "2026-10-09T12:47:47.403192+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37395",
+      "checked_at": "2026-10-09T12:47:46.066381+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386",
+      "checked_at": "2026-10-09T12:47:46.578013+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://festival.seoul.go.kr/festival/seasonal/list.do",
+      "checked_at": "2026-10-09T12:46:39.309540+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "서울",
+      "url": "https://www.sac.or.kr/site/main/show/show_view?SN=81767",
+      "checked_at": "2026-10-09T12:48:10.146826+00:00",
+      "method": "direct",
+      "result": "direct_official_html_read"
+    },
+    {
+      "region": "경기",
+      "url": "https://m.artgy.or.kr/Search/IndexMore",
+      "result": "검색캐시 확인; 직접 curl timeout. desktop artgy.or.kr 직접접속으로 해결"
+    },
+    {
+      "region": "경기",
+      "url": "https://artgy.or.kr/PF/PF0201L.aspx?page=3",
+      "result": "직접읽기 성공, 상세26건 확인 중 범위밖11/5 두건 제외"
+    },
+    {
+      "region": "경기",
+      "url": "https://artgy.or.kr/PF/PF0201L.aspx?page=4",
+      "result": "직접읽기 성공"
+    },
+    {
+      "region": "경기",
+      "url": "https://www.uac.or.kr/",
+      "result": "브라우징 텍스트 없음, domain search 성과없음"
+    },
+    {
+      "region": "경기",
+      "url": "https://www.nyjcf.or.kr/www/4?date=2026-12-26",
+      "result": "공식 cached calendar; 미확정 송년시리즈 보류"
+    },
+    {
+      "region": "경기",
+      "url": "https://www.guriart.or.kr/main/mainPage.do",
+      "result": "공식 검색결과10월공연만 확인"
+    },
+    {
+      "region": "경기",
+      "url": "https://www.nsart.or.kr/perform/year.do",
+      "result": "직접읽기성공, 연간일정9건보류"
+    },
+    {
+      "region": "경기",
+      "url": "https://www.yicf.or.kr/main/show/list.do?menuNo=050000&show_type=perform&subMenuNo=020100&thirdMenuNo=null&viewType=bbs",
+      "result": "공식 검색캐시 장기시리즈와10월목록, 연말개별회차미검증"
+    },
+    {
+      "region": "경기",
+      "url": "https://www.ggac.or.kr/ggac/M0000170/content/view.do",
+      "result": "직접 HTML 지도 좌표 성공"
+    },
+    {
+      "region": "경기",
+      "url": "https://www.agfkorea.com/event?idx=1",
+      "result": "직접 날짜별3개관람시간 확인"
+    }
+  ],
+  "held": [
+    {
+      "region": "서울",
+      "title": "2026 매헌시민의숲 가을축제",
+      "dates": "2026-11-07 ~ 2026-11-08",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=437",
+      "reason": "명시적으로 예정이며 본문 프로그램은 2025년 내용. 확정행사에 넣지 않음."
+    },
+    {
+      "region": "서울",
+      "title": "로맨틱한강 크리스마스마켓",
+      "dates": "2026-12-18 ~ 2026-12-27",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=415",
+      "reason": "공식 포털이 예정으로 표시. 상세 시간·요금·운영 미발표."
+    },
+    {
+      "region": "서울",
+      "title": "서울광장 스케이트장",
+      "dates": "2026-12-18 ~ 2027-02-09",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355",
+      "reason": "공식 포털이 예정으로 표시. 명시된 예정 날짜를 확정 날짜로 전환하지 않음."
+    },
+    {
+      "region": "서울",
+      "title": "서울라이트 DDP 2026 겨울",
+      "dates": "2026-12-17 ~ 2026-12-17",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=415",
+      "reason": "관련행사 카드에서 예정·단일일자로만 확인. 본행사 확정 기간 미검증."
+    },
+    {
+      "region": "서울",
+      "title": "대한민국 성탄축제",
+      "dates": "2026-11-16 ~ 2026-11-16",
+      "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=415",
+      "reason": "관련행사 카드에서 예정으로만 확인. 확정 상세 미검증."
+    },
+    {
+      "region": "경기",
+      "title": "남양주 송년 시리즈",
+      "date": "2026-12-26",
+      "url": "https://www.nyjcf.or.kr/www/4?date=2026-12-26",
+      "reason": "연간 캘린더에서 날짜·다산아트홀 확인. 시각·관람등급 미정, 좌표 검증 미완료."
+    },
+    {
+      "region": "경기",
+      "title": "광주 연간공연 11~12월 9건",
+      "url": "https://www.nsart.or.kr/perform/year.do",
+      "reason": "날짜·홀 이름만 확인. 일반 관람 가능 여부 및 회차·좌표 미검증. 학원/어린이집 대관도 섞여 보류."
+    },
+    {
+      "region": "경기",
+      "title": "WONDERLIVET 2026",
+      "date": "2026-11-20~2026-11-22",
+      "url": "https://www.wonderli.vet/home?page=2&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9",
+      "reason": "공식 검색 캐시에서 날짜·7~10홀 확인되나 직접 본문은 JS shell. 이번 묶음에는 포함하지 않음."
+    },
+    {
+      "region": "경기",
+      "title": "가루나무 모래흙",
+      "date": "2026-11-07~2027-03-28",
+      "url": "https://www.artgy.or.kr/EH/EH0201L.aspx?page=1",
+      "reason": "기간 긴 전시로 이번 단기 연말 확장 우선순위에서 제외. 날짜 절단 안 함."
+    },
+    {
+      "region": "경기",
+      "title": "수원메가쇼",
+      "url": "https://www.suwonmegashow.co.kr/",
+      "reason": "직접 홈페이지에서 날짜 이미지 파싱 미완료. 보조자료 일정으로 대체하지 않음."
+    },
+    {
+      "region": "경기",
+      "title": "파주장단콩축제",
+      "url": "https://culture.netfilcker.com/festivals/region/경기도/파주시",
+      "reason": "비공식 결과에 11/27~29, 다른 비공식달력에 11/20 등 날짜 상충. 공식 상세 미검증으로 보류."
+    },
+    {
+      "region": "경기",
+      "title": "스페인 미술 거장전 / DMZ OPEN 스테이징",
+      "reason": "기존183건에 포함된 장기 전시. 추가하지 않음."
+    }
+  ],
+  "conflicts": [
+    {
+      "event_id": "seoul-yearend-gugak37608",
+      "issue": "공식 전체기간12/17~23; 회차선택은12/18·19·20·22·23",
+      "decision": "원래 전체기간 유지, 명시된5회차만 생성",
+      "source_url": "https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37608"
+    },
+    {
+      "event_id": "seoul-yearend-fun386",
+      "issue": "지역태그 동대문구와 장소 문화역서울284·주소 중구 통일로1 불일치",
+      "decision": "장소·주소·실제 지도마커에 따라 중구로 정규화",
+      "source_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386"
+    },
+    {
+      "group": "gyeonggi",
+      "issue": "일부 고양 공연 상세의 티켓오픈일 오기 또는 관람시간란에 다른 회차 문구",
+      "decision": "공연일시란 우선, 종료시간 추정하지 않음. 개별 상세를 재확인해야 함"
+    }
+  ],
+  "gaps": [
+    "서울25개구·경기31시군 전수검증 완료가 아니다. 서울은 국립국악원, 경기는 고양·수원에 신규행사가 집중된다.",
+    "기존183건을 유지했으나 기존자료 전체를 이번에 다시 검증한 것은 아니다. 이전 기록의 조사공백·캐시출처·미확인 좌표는 그대로 남아 있다.",
+    "예술의전당2건은 연간계획의 날짜·장소만 확인. 시간·요금·예약·좌표는 미확인이다.",
+    "서울광장스케이트장·로맨틱한강크리스마스마켓 등 예정행사는 확정신규배열에 넣지 않았다.",
+    "경기 여럿 지역은 묶음발견검색만 수행했고 개별공식일정 검증은 미완료다.",
+    "박람회2건은 일별운영시간 미확보, 공연종료시간 다수 미확인. 기간만으로 매일 회차를 생성하지 않았다.",
+    "좌표는 시설 대표점이며 입구·무대·객석이 아니다. 기존시설 좌표재사용은 당일재검증으로 표시하지 않았다.",
+    "공식 일정확인은 취소·변경·매진·접수마감 실시간 확인이나 예약 성공을 의미하지 않는다.",
+    "전석초대 공연은 자유입장이나 일반 무료입장이 아니다. 주최 측 조건을 확인해야 한다."
+  ],
+  "coordinate_policy": {
+    "invented_coordinates": false,
+    "unknown_coordinates": null,
+    "new_unknown_event_ids": [
+      "seoul-yearend-sac-nutcracker",
+      "seoul-yearend-sac-newyear"
+    ],
+    "precision": "facility_reference_not_entrance",
+    "reused_coordinates_note": "기존 검증 시설점을 재사용한 항목은 reused_verified 및 원래 확인시각을 보존; 원래시각을 확보하지 못한 경우null.",
+    "osm_attribution": {
+      "label": "© OpenStreetMap contributors",
+      "url": "https://www.openstreetmap.org/copyright"
+    }
+  },
+  "translations": {
+    "languages": [
+      "ko",
+      "en",
+      "ja",
+      "zh-Hans"
+    ],
+    "new_event_count_with_all_languages": 49,
+    "status": "AI_draft_not_official_or_professionally_reviewed",
+    "note": "번역존재는 현장 외국어 지원을 의미하지 않는다."
+  },
+  "integration": {
+    "TourAPI": "not_connected_missing_key",
+    "other_api_ingestion": "not_used_for_this_research",
+    "automatic_refresh": false,
+    "collection_method": "official_public_HTML_direct_reads",
+    "validation": "통합 검증 및 테스트57개·빌드 통과; 기존183건 유지 확인"
+  }
+}
