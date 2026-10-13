@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ddp",
+    "src": "/assets/ddp.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_-_DDP2369.jpg",
+    "author": "lumoplank",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "kind": "venue_archive",
+    "caption_ko": "장소 기록 사진 · 현재 행사 사진 아님",
+    "venueNames": [
+      "DDP"
+    ],
+    "capturedAt": "2024-10-04 이전",
+    "checkedAt": "2026-10-13",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/30/Dongdaemun_Design_Plaza_-_DDP2369.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "nodeulseom",
+    "src": "/assets/nodeulseom.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nodeulseom_(14005438206).jpg",
+    "author": "travel oriented from Seoul, South Korea",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kind": "venue_archive",
+    "caption_ko": "장소 기록 사진 · 현재 행사 사진 아님",
+    "venueNames": [
+      "노들섬"
+    ],
+    "capturedAt": "2014-04-26",
+    "checkedAt": "2026-10-13",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/Nodeulseom_%2814005438206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  }
+]
