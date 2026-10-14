@@ -44,7 +44,8 @@ function render(){
  $('#course-summary').textContent=!stops.length?'빈 코스 · 아래 장소 타일에서 시작하세요':`${stops.length}곳 선택 · ${legs.length}개 이동 구간${missing?` · ${missing}곳 좌표 미확인`:''} · 자동 최적화하지 않은 방문 순서`;
  $('#copy').disabled=!stops.length;
  $('#legend').innerHTML=Object.values(categories).map(c=>`<span><i style="background:${c.color}"></i>${c.name}</span>`).join('');
- $('#scene-note').textContent=mode==='3d'?'드래그 회전 · 높이는 분류 · 점선은 방문 순서':'북쪽 위 · 직선 연결은 도로 경로가 아닙니다';
+ $('#scene-note').textContent=mode==='3d'?'드래그 회전 · 높이는 분류 · 점선은 방문 순서':'';
+ $('#scene-note').hidden=mode!=='3d';
  $('#view2d').setAttribute('aria-pressed',String(mode==='2d'));$('#view3d').setAttribute('aria-pressed',String(mode==='3d'));
  $('#view-purpose').textContent=mode==='3d'?'3D · 같은 장소를 분류별 높이로 탐색':'2D · 실제 위치 관계와 코스 순서를 비교';
  $('#view-help').textContent=`검색 결과와 담은 코스의 좌표를 표시합니다. 2D·3D 전환 시 선택과 순서를 유지합니다. 장소는 카카오 실시간 조회 최대 15건입니다. 지도에서 정하기를 누르면 이동을 멈춘 뒤 화면 범위로 갱신합니다.`;

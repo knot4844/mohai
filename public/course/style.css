@@ -73,3 +73,6 @@
 #detail .detail-place{font-size:12px;color:#526c60;margin:6px 0}
 #detail .detail-summary{font-size:12px;color:#65716b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin:6px 0 10px}
 .detail-evidence{font-size:10px;color:#84918a;margin-top:8px}.detail-evidence>summary{cursor:pointer}
+
+.explorer>#legend{position:static;flex-shrink:0;max-width:none;margin:6px 0 0;padding:4px 0;background:transparent;z-index:auto;pointer-events:none}
+#scene-note[hidden]{display:none}
