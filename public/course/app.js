@@ -50,7 +50,14 @@ function render(){
  $('#view-help').textContent=`검색 결과와 담은 코스의 좌표를 표시합니다. 2D·3D 전환 시 선택과 순서를 유지합니다. 장소는 카카오 실시간 조회 최대 15건입니다. 지도에서 정하기를 누르면 이동을 멈춘 뒤 화면 범위로 갱신합니다.`;
  drawScene();drawDetail();
 }
-function drawDetail(){const p=all.find(x=>x.id===focus);$('#detail').hidden=!p;if(!p)return;const selected=stops.some(s=>s.id===p.id);$('#detail').innerHTML=`<button class="close" aria-label="상세 닫기">×</button><h3>${esc(p.name)}</h3><p>${esc(p.description)}</p><p>${esc(statusText(p))}</p><p>${esc(p.address)}</p>${photoCredit(p)}<p>${esc(p.coordinateNote||'좌표 미확인')}</p><p>자료 확인 ${esc(p.checkedAt)} · 당일 방문 가능 여부 미확인</p><a href="${p.source}" target="_blank" rel="noopener noreferrer">${p.sourceName} 원문 ↗</a><button class="primary" id="detail-add" ${!selected&&(stops.length>=6||!canAdd(p))?'disabled':''}>${selected?'코스에서 빼기 −':'코스에 추가 +'}</button>`;$('#detail .close').onclick=()=>{focus=null;drawDetail();};$('#detail-add').onclick=()=>toggle(p.id);}
+function drawDetail(){
+ const p=all.find(x=>x.id===focus);$('#detail').hidden=!p;if(!p)return;
+ const selected=stops.some(s=>s.id===p.id),description=String(p.description||'').replace(/\s+/g,' ').trim();
+ const sentence=description.match(/^.*?[.!?。](?:\s|$)/)?.[0]?.trim()||description;
+ const summary=sentence.length>90?sentence.slice(0,89)+'…':sentence;
+ $('#detail').innerHTML=`<button class="close" aria-label="상세 닫기">×</button><h3>${esc(p.name)}</h3><p class="detail-place">${esc(p.venueName||p.address||'장소 미확인')}</p>${summary?`<p class="detail-summary" title="${esc(description)}">${esc(summary)}</p>`:''}<details class="detail-evidence"><summary>상세 정보·출처</summary><p>${esc(description)}</p><p>${esc(statusText(p))}</p><p>${esc(p.address)}</p>${photoCredit(p)}<p>${esc(p.coordinateNote||'좌표 미확인')}</p><p>자료 확인 ${esc(p.checkedAt)} · 당일 방문 가능 여부 미확인</p><a href="${p.source}" target="_blank" rel="noopener noreferrer">${esc(p.sourceName)} 원문 ↗</a></details><button class="primary" id="detail-add" ${!selected&&(stops.length>=6||!canAdd(p))?'disabled':''}>${selected?'코스에서 빼기 −':'코스에 추가 +'}</button>`;
+ $('#detail .close').onclick=()=>{focus=null;drawDetail();};$('#detail-add').onclick=()=>toggle(p.id);
+}
 function disposeGroup(){if(!group)return;scene.remove(group);group.traverse(o=>{o.geometry?.dispose();if(o.material){for(const m of Array.isArray(o.material)?o.material:[o.material])m.dispose();}});}
 function line(points,color,dashed=false,opacity=1){const g=new THREE.BufferGeometry().setFromPoints(points);const m=dashed?new THREE.LineDashedMaterial({color,dashSize:.18,gapSize:.12,transparent:true,opacity}):new THREE.LineBasicMaterial({color,transparent:true,opacity});const o=new THREE.Line(g,m);o.computeLineDistances();group.add(o);return o;}
 function drawScene(){

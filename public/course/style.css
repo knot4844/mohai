@@ -68,3 +68,8 @@
  #legend{flex-wrap:wrap;gap:6px;right:12px}
 }
 @media(max-width:900px){.information-pane{order:1}.information-pane>#detail{margin:12px 10px}}
+
+#detail h3{font-size:16px;line-height:1.45;padding-right:24px}
+#detail .detail-place{font-size:12px;color:#526c60;margin:6px 0}
+#detail .detail-summary{font-size:12px;color:#65716b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin:6px 0 10px}
+.detail-evidence{font-size:10px;color:#84918a;margin-top:8px}.detail-evidence>summary{cursor:pointer}
