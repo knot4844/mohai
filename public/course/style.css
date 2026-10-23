@@ -109,3 +109,5 @@
 .map-toolbar #next-space{margin:0 0 0 auto;align-self:center;font-size:11px}
 .event-reference details{font-size:10px}.event-reference summary{cursor:pointer}
 @media(min-width:901px){.space-mode .scene-wrap{min-height:220px}.space-mode .explorer{overflow-y:auto}.space-mode .map-toolbar{gap:6px}.space-mode .view-description{padding:5px 0}}
+
+.space-origin.has-origin{top:32%;width:135px}.space-origin.has-origin>span{font-size:26px}.space-origin.has-origin>small{display:none}
