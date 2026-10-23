@@ -1,0 +1,17 @@
+/* Pretendard + Fraunces; SIL OFL 1.1. Webfont references only. */
+@font-face{font-family:'Pretendard';font-style:normal;font-weight:400;font-display:swap;src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Regular.woff2') format('woff2')}
+@font-face{font-family:'Pretendard';font-style:normal;font-weight:700;font-display:swap;src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Bold.woff2') format('woff2')}
+@font-face{font-family:'Pretendard';font-style:normal;font-weight:800;font-display:swap;src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-ExtraBold.woff2') format('woff2')}
+
+:root{font-family:'Pretendard',-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo',sans-serif}
+button,input,select,textarea{font-family:inherit}
+.brand{font-family:'Fraunces',Georgia,serif;font-weight:700;font-size:30px;letter-spacing:-.045em}
+.brand small{font-family:'Pretendard',sans-serif;letter-spacing:.02em;font-weight:400}
+.trip-heading>.eyebrow,.trip-heading>div>.eyebrow{font-family:'Fraunces',Georgia,serif;font-size:14px;font-weight:400;letter-spacing:0}
+.trip-heading h1{font-size:36px;font-weight:800;letter-spacing:-.035em;line-height:1.2}
+.trip-heading p{font-size:12px;line-height:1.5}
+.eyebrow,.day-tab span{letter-spacing:.02em}
+h2,#detail h3{font-weight:700;letter-spacing:-.025em}
+.detail-place,.detail-summary,.info strong,.stop-title strong{line-height:1.5}
+#count,#day-date,.tile-number{font-variant-numeric:tabular-nums}
+@media(max-width:600px){.trip-heading h1{font-size:30px}.trip-heading p{font-size:12px}.brand{font-size:28px}}
