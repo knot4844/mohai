@@ -98,3 +98,10 @@
 
 .space-origin>span{animation:space-float 6s ease-in-out infinite}
 @media(prefers-reduced-motion:reduce){.space-origin>span{animation:none}}
+
+.space-halo{aspect-ratio:auto;height:65%;top:20%}
+.space-origin{top:42%}
+.space-place{animation:none}
+.space-orb{animation:space-float 5s ease-in-out infinite;animation-delay:var(--delay)}
+.space-place:hover .space-orb,.space-place:focus-visible .space-orb,.space-place[aria-pressed=true] .space-orb{animation-play-state:paused}
+@media(prefers-reduced-motion:reduce){.space-orb{animation:none}}
